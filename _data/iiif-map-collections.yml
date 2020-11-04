@@ -1,0 +1,39 @@
+- name: Stanford Libraries
+  url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
+  examples:
+    - name: Map of city of Palo Alto, Santa Clara Co., Calif
+      manifest: https://purl.stanford.edu/vg994wz9415/iiif/manifest
+
+    - name: Holland (Koningrijk der Nederlanden)
+      manifest: https://purl.stanford.edu/ry246nj3092/iiif/manifest
+
+
+- name: Digital Commonwealth - Massachusetts Collections Online
+  url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
+  examples:
+    - name: Aeronautical view of the Panama Canal
+      image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk09j/info.json
+
+    - name: "Antwerp : or Anvers"
+      image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s/info.json
+
+
+- name: David Rumsey Map Collection
+  url: https://www.davidrumsey.com/luna/servlet/view/all
+  examples:
+    - name: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
+      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
+
+    - name: Map of the County of Cornwall
+      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
+
+    - name: "San Francisco entrance, California : 1884"
+      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
+
+
+
+- name: Miami Libraries
+  url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/name/ad/asc
+  examples:
+    name: A new & accurate map of the Island of Cuba
+    manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
