@@ -31,7 +31,6 @@
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
 
-
 - name: Miami Libraries
   url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/name/ad/asc
   examples:
