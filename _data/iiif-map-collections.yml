@@ -1,3 +1,9 @@
+- name: National Library of Scotland
+  url: https://maps.nls.uk/geo/find
+  description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
+  examples:
+    - image: https://mapview.nls.uk/iiif/10599/105996559/info.json
+
 - name: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
@@ -34,5 +40,18 @@
 - name: Miami Libraries
   url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/name/ad/asc
   examples:
-    name: A new & accurate map of the Island of Cuba
-    manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
+    - name: A new & accurate map of the Island of Cuba
+      manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
+
+
+- name: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
+  url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
+  examples:
+    - name: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
+      manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json
+
+    - name: "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting"
+      manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json
+
+    - name: "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R"
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
