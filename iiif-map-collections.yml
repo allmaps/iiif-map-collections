@@ -2,7 +2,17 @@
   url: https://maps.nls.uk/geo/find
   description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
-    - image: https://mapview.nls.uk/iiif/10599/105996559/info.json
+    - name: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
+      image: https://mapview.nls.uk/iiif/10143/101439545/info.json
+
+    - name: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
+      image: https://mapview.nls.uk/iiif/10143/101439530/info.json
+
+    - name: Cornwall LXXIV.14 (Paul; Penzance)
+      image: https://mapview.nls.uk/iiif/10599/105996559/info.json
+
+    - name: Cornwall LXXIV.10 (Penzance)
+      image: https://mapview.nls.uk/iiif/10599/105996544/info.json
 
 - name: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
@@ -35,6 +45,9 @@
 
     - name: "San Francisco entrance, California : 1884"
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
+
+    - name: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
+      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
 - name: Miami Libraries

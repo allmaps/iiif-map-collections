@@ -1,0 +1,101 @@
+{
+  "type": "Annotation",
+  "@context": [
+    "http://geojson.org/geojson-ld/geojson-context.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "motivation": "georeference",
+  "target": {
+    "source": "https://mapview.nls.uk/iiif/10143/101439545",
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg width=\"9168\" height=\"7084\"><polygon points=\"991,1025 1004,5795 8170,5785 8159,1029 5020,1030 991,1025\" /></svg>"
+    }
+  },
+  "body": [
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "pixel": [
+              5731,
+              4110
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.538161,
+              50.083807
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "pixel": [
+              1242,
+              1331
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.580623,
+              50.100415
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "pixel": [
+              4876,
+              2144
+            ]
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -5.546355,
+              50.095702
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.58300839925657,
+            50.1022590059831
+          ],
+          [
+            -5.58253259901782,
+            50.0732693941725
+          ],
+          [
+            -5.51507796846695,
+            50.0737800390368
+          ],
+          [
+            -5.51553390488483,
+            50.1026846891939
+          ],
+          [
+            -5.54508203217342,
+            50.1024815508956
+          ],
+          [
+            -5.58300839925657,
+            50.1022590059831
+          ]
+        ]
+      ]
+    }
+  ]
+}
