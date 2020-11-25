@@ -4,6 +4,7 @@
   examples:
     - name: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439545/info.json
+      annotation:
 
     - name: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439530/info.json
@@ -13,6 +14,10 @@
 
     - name: Cornwall LXXIV.10 (Penzance)
       image: https://mapview.nls.uk/iiif/10599/105996544/info.json
+
+      # TODO: add more maps from geo.nls.uk
+      # https://maps.nls.uk/view/126522842
+
 
 - name: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
@@ -56,6 +61,23 @@
     - name: A new & accurate map of the Island of Cuba
       manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
 
+- name: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
+  examples:
+    - name: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
+      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1985-1014-01/info.json
+
+    - name: 1972-755-1 Kaart van het centrum van Rotterdam van voor mei 1940
+      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json
+
+    - name: "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json
+
+    - name: "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json
+
+    - name: "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek"
+      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
+
 
 - name: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
@@ -68,3 +90,30 @@
 
     - name: "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R"
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
+
+    - name: "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie"
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json
+
+    - name: "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]"
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json
+
+    - name: Nieuwe platte grond der stad Rotterdam
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2886/manifest.json
+
+    - name: Rotterdam
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2888/manifest.json
+
+    - name: Plattegrond van Rotterdam / geteekend door J.J. Claus
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/1654/manifest.json
+
+    - name: River Nieuwe Maas and Rotterdam's havens
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2891/manifest.json
+
+    - name: Grondkaart der stad Rotterdam, op het einde der XVI eeuw
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2887/manifest.json
+
+    - name: Platte grond der stad Rotterdam / vervaardigd volgens de kadastrale plans ... door L.F. Temminck ; gegraveerd door Dl. Veelwaard en Zonen
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2890/manifest.json
+
+    - name: Aan de gemeente Rotterdam toe te voegen gebied
+      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
