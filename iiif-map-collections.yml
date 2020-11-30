@@ -1,119 +1,132 @@
-- name: National Library of Scotland
+- title: National Library of Scotland
   url: https://maps.nls.uk/geo/find
   description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
-    - name: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
+    - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439545/info.json
       annotation:
 
-    - name: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
+    - title: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439530/info.json
 
-    - name: Cornwall LXXIV.14 (Paul; Penzance)
+    - title: Cornwall LXXIV.14 (Paul; Penzance)
       image: https://mapview.nls.uk/iiif/10599/105996559/info.json
 
-    - name: Cornwall LXXIV.10 (Penzance)
+    - title: Cornwall LXXIV.10 (Penzance)
       image: https://mapview.nls.uk/iiif/10599/105996544/info.json
 
       # TODO: add more maps from geo.nls.uk
       # https://maps.nls.uk/view/126522842
 
 
-- name: Stanford Libraries
+- title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
-    - name: Map of city of Palo Alto, Santa Clara Co., Calif
+    - title: Map of city of Palo Alto, Santa Clara Co., Calif
       manifest: https://purl.stanford.edu/vg994wz9415/iiif/manifest
 
-    - name: Holland (Koningrijk der Nederlanden)
+    - title: Holland (Koningrijk der Nederlanden)
       manifest: https://purl.stanford.edu/ry246nj3092/iiif/manifest
 
 
-- name: Digital Commonwealth - Massachusetts Collections Online
+- title: Digital Commonwealth - Massachusetts Collections Online
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
   examples:
-    - name: Aeronautical view of the Panama Canal
-      image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:4m90fk09j/info.json
+    - title: Aeronautical view of the Panama Canal
+      manifest: https://ark.digitalcommonwealth.org/ark:/50959/4m90fk088/manifest
 
-    - name: "Antwerp : or Anvers"
-      image: https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s/info.json
+    - title: "Antwerp : or Anvers"
+      manifest: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
 
 
-- name: David Rumsey Map Collection
+- title: David Rumsey Map Collection
   url: https://www.davidrumsey.com/luna/servlet/view/all
   examples:
-    - name: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
+    - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
 
-    - name: Map of the County of Cornwall
+    - title: Map of the County of Cornwall
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
 
-    - name: "San Francisco entrance, California : 1884"
+    - title: "San Francisco entrance, California : 1884"
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
-    - name: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
+    - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
-- name: Miami Libraries
-  url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/name/ad/asc
+- title: Miami Libraries
+  url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/title/ad/asc
   examples:
-    - name: A new & accurate map of the Island of Cuba
+    - title: A new & accurate map of the Island of Cuba
       manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
 
-- name: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
+- title: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
   examples:
-    - name: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
+    - title: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1985-1014-01/info.json
 
-    - name: 1972-755-1 Kaart van het centrum van Rotterdam van voor mei 1940
+    - title: 1972-755-1 Kaart van het centrum van Rotterdam van voor mei 1940
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json
 
-    - name: "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+    - title: "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json
 
-    - name: "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+    - title: "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json
 
-    - name: "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek"
+    - title: "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek"
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
 
 
-- name: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
+- title: Library of Congress Maps
+  url: https://www.loc.gov/maps/
+  examples:
+    - title: Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana.
+      manifest: https://www.loc.gov/item/sanborn03376_001/manifest.json
+
+    - title: "Das Rheinland von Basel bis Rotterdam : nebst denen zunächstliegenden Städten, Strassen und Eisenbahnen"
+      manifest: https://www.loc.gov/item/2015591075/manifest.json
+
+    - title: Crater Lake National Park, Oregon
+      manifest: https://www.loc.gov/item/97684223/manifest.json
+
+
+- title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
   examples:
-    - name: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
+    - title: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
       manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json
 
-    - name: "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting"
+    - title: "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting"
       manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json
 
-    - name: "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R"
+    - title: "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R"
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
 
-    - name: "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie"
+    - title: "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie"
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json
 
-    - name: "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]"
+    - title: "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]"
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json
 
-    - name: Nieuwe platte grond der stad Rotterdam
+    - title: Nieuwe platte grond der stad Rotterdam
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2886/manifest.json
 
-    - name: Rotterdam
+    - title: Rotterdam
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2888/manifest.json
 
-    - name: Plattegrond van Rotterdam / geteekend door J.J. Claus
+    - title: Plattegrond van Rotterdam / geteekend door J.J. Claus
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/1654/manifest.json
 
-    - name: River Nieuwe Maas and Rotterdam's havens
+    - title: River Nieuwe Maas and Rotterdam's havens
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2891/manifest.json
 
-    - name: Grondkaart der stad Rotterdam, op het einde der XVI eeuw
+    - title: Grondkaart der stad Rotterdam, op het einde der XVI eeuw
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2887/manifest.json
 
-    - name: Platte grond der stad Rotterdam / vervaardigd volgens de kadastrale plans ... door L.F. Temminck ; gegraveerd door Dl. Veelwaard en Zonen
+    - title: Platte grond der stad Rotterdam / vervaardigd volgens de kadastrale plans ... door L.F. Temminck ; gegraveerd door Dl. Veelwaard en Zonen
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2890/manifest.json
 
-    - name: Aan de gemeente Rotterdam toe te voegen gebied
+    - title: Aan de gemeente Rotterdam toe te voegen gebied
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
