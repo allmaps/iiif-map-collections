@@ -183,6 +183,17 @@
     - title: Mil.-Geo.-Plan von Leningrad
       manifest: https://iiif.lib.harvard.edu/manifests/ids:30874065
 
+    - title: Rotterdam
+      manifest: https://iiif.lib.harvard.edu/manifests/ids:9780540
+
+    - title: Platte grond van Rotterdam 1912
+      manifest: https://iiif.lib.harvard.edu/manifests/ids:9780524
+
+    - title: Map showing routes & stations on the dual system October, 1918
+      manifest: https://iiif.lib.harvard.edu/manifests/ids:6938090
+
+    - title: Map of the rail-roads of the state of New York
+      manifest: https://iiif.lib.harvard.edu/manifests/ids:6924636
 
 # ======================================================================================================
 # ======================================================================================================
