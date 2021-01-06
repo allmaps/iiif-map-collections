@@ -2,10 +2,8 @@
   url: https://maps.nls.uk/geo/find
   description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
-    # TODO: add more maps from geo.nls.uk
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439545/info.json
-      annotation:
 
     - title: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439530/info.json
@@ -146,6 +144,50 @@
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
 
 
+- title: Princeton University Library
+  url: https://maps.princeton.edu/?layer_geom_type_s%5D%5B%5D=Image&search_field=all_fields
+  examples:
+    - title: The environs of Dublin
+      manifest: https://figgy.princeton.edu/concern/scanned_maps/c9d4b69f-071e-4d57-b475-c572420a02e2/manifest
+
+    - title: Philips' clear print half inch map of the Lake District
+      manifest: https://figgy.princeton.edu/concern/scanned_maps/fc98c5ab-9476-4ea4-b946-1ce8cfd7a4cf/manifest
+
+    - title: Map of Russian Lapland drawn from the original map made by Professor J. A. Friis by George T. Temple
+      manifest: https://figgy.princeton.edu/concern/scanned_maps/fa4fb452-5f1d-42ab-a471-53afc176c948/manifest
+
+
+- title: e-rara, the platform for digitized rare books from Swiss institutions
+  url: https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22
+  examples:
+    - title: Reliefkarte der Centralschweiz
+      manifest: https://www.e-rara.ch/i3f/v20/10747751/manifest
+
+    - title: Die Oberitalienischen Seen und ihr Excursionsgebiet
+      manifest: https://www.e-rara.ch/i3f/v20/6484723/manifest
+
+
+- title: "Det Kgl. Bibliotek: Digitale Samlinger"
+  url: http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
+  examples:
+    - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
+      image: http://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
+
+    - title: Grundritning öfver Stockholms Stad N° I
+      image: http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
+
+
+- title: Harvard Library Digital Collections
+  url: https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields
+  examples:
+    - title: Mil.-Geo.-Plan von Leningrad
+      manifest: https://iiif.lib.harvard.edu/manifests/ids:30874065
+
+
+# ======================================================================================================
+# ======================================================================================================
+
+
 - title: Custom generated map manifests
   url: https://github.com/bertspaan/iiif-map-collections/tree/master/manifests
   examples:
@@ -154,14 +196,3 @@
 
     - title: "Living with Machines: London"
       manifest: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json
-
-# TODO: add maps from these repositories:
-# https://www.e-rara.ch/i3f/v20/22317130/manifest
-# https://www.e-rara.ch/i3f/v20/7124153/manifest
-# https://kb-images.kb.dk/DAMJP2%2Fonline_master_arkiv_6%2Fnon-archival%2FMaps%2FKORTSA%2FATLAS_MAJOR%2FKbk2_2_63%2FKbk2_2_63_073/info.json
-# https://iiif-cloud.princeton.edu/iiif/2/b6%2F1b%2F65%2Fb61b654c723044abb634b326adb9aad2%2Fintermediate_file/info.json
-# https://ids.lib.harvard.edu/ids/iiif/10389754/pct:1,1,98,98/,768/0/default.jpg
-# https://iiif.manducus.net/images/0006/HK1122.py.tif/pct:6,11,93.9,88.9/5120,/0/default.jpg
-# https://ids.lib.harvard.edu/ids/iiif/54199266/pct:2,7,96,86/5120,/0/default.jpg
-# https://ids.lib.harvard.edu/ids/iiif/7066370/pct:1,2.5,98,94/,768/0/default.jpg
-# british library
