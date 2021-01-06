@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://gist.githubusercontent.com/bertspaan/033d1d4ccf9cf24918eed90d1694f6ab/raw/b73036cba3bc08e42266d349a15333604045a80b/manifest.json",
+  "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json",
   "sequences": [
     {
       "@type": "sc:Sequence",
