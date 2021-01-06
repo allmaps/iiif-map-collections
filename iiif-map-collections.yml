@@ -2,6 +2,7 @@
   url: https://maps.nls.uk/geo/find
   description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
+    # TODO: add more maps from geo.nls.uk
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439545/info.json
       annotation:
@@ -15,9 +16,11 @@
     - title: Cornwall LXXIV.10 (Penzance)
       image: https://mapview.nls.uk/iiif/10599/105996544/info.json
 
-      # TODO: add more maps from geo.nls.uk
-      # https://maps.nls.uk/view/126522842
+    - title: Lancashire CIV.11 (Manchester)
+      image: https://mapview.nls.uk/iiif/12652/126522842/info.json
 
+    - title: "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)"
+      image: https://mapview.nls.uk/iiif/10146/101465411/info.json
 
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
@@ -82,6 +85,9 @@
 - title: Library of Congress Maps
   url: https://www.loc.gov/maps/
   examples:
+    - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
+      manifest: https://www.loc.gov/item/88695674/manifest.json
+
     - title: Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana.
       manifest: https://www.loc.gov/item/sanborn03376_001/manifest.json
 
@@ -130,3 +136,13 @@
 
     - title: Aan de gemeente Rotterdam toe te voegen gebied
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+
+# TODO: add maps from these repositories:
+# https://www.e-rara.ch/i3f/v20/22317130/manifest
+# https://www.e-rara.ch/i3f/v20/7124153/manifest
+# https://kb-images.kb.dk/DAMJP2%2Fonline_master_arkiv_6%2Fnon-archival%2FMaps%2FKORTSA%2FATLAS_MAJOR%2FKbk2_2_63%2FKbk2_2_63_073/info.json
+# https://iiif-cloud.princeton.edu/iiif/2/b6%2F1b%2F65%2Fb61b654c723044abb634b326adb9aad2%2Fintermediate_file/info.json
+# https://ids.lib.harvard.edu/ids/iiif/10389754/pct:1,1,98,98/,768/0/default.jpg
+# https://iiif.manducus.net/images/0006/HK1122.py.tif/pct:6,11,93.9,88.9/5120,/0/default.jpg
+# https://ids.lib.harvard.edu/ids/iiif/54199266/pct:2,7,96,86/5120,/0/default.jpg
+# https://ids.lib.harvard.edu/ids/iiif/7066370/pct:1,2.5,98,94/,768/0/default.jpg
