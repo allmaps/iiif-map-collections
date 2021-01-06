@@ -22,6 +22,9 @@
     - title: "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)"
       image: https://mapview.nls.uk/iiif/10146/101465411/info.json
 
+    - title: "Essex LXXXI.NW (includes: Bermondsey; Borough Of Greenwich; Deptford St Paul; Poplar Borough; Stepney.)"
+      image: https://mapview.nls.uk/iiif/10145/101456111/info.json
+
 
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
@@ -152,3 +155,6 @@
 # https://iiif.manducus.net/images/0006/HK1122.py.tif/pct:6,11,93.9,88.9/5120,/0/default.jpg
 # https://ids.lib.harvard.edu/ids/iiif/54199266/pct:2,7,96,86/5120,/0/default.jpg
 # https://ids.lib.harvard.edu/ids/iiif/7066370/pct:1,2.5,98,94/,768/0/default.jpg
+
+- title:
+https://gist.githubusercontent.com/bertspaan/033d1d4ccf9cf24918eed90d1694f6ab/raw/b73036cba3bc08e42266d349a15333604045a80b/manifest.json
