@@ -22,6 +22,7 @@
     - title: "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)"
       image: https://mapview.nls.uk/iiif/10146/101465411/info.json
 
+
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
@@ -64,6 +65,7 @@
     - title: A new & accurate map of the Island of Cuba
       manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
 
+
 - title: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
   examples:
     - title: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
@@ -96,7 +98,7 @@
 
     - title: Crater Lake National Park, Oregon
       manifest: https://www.loc.gov/item/97684223/manifest.json
-      
+
     - title: Map showing the land grant of the Northern Pacific Railroad Company in Montana, Idaho, and in part of North Dakota, and in part of eastern Washington, reaching from Dickinson, North Dakota, to Ritzville, eastern Washington.
       manifest: https://www.loc.gov/item/86695638/manifest.json
 
@@ -139,6 +141,7 @@
 
     - title: Aan de gemeente Rotterdam toe te voegen gebied
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+
 
 # TODO: add maps from these repositories:
 # https://www.e-rara.ch/i3f/v20/22317130/manifest
