@@ -146,6 +146,15 @@
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
 
 
+- title: Custom generated map manifests
+  url: https://github.com/bertspaan/iiif-map-collections/tree/master/manifests
+  examples:
+    - title: "Rotterdams Publiek: Publieke Werken"
+      manifest: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json
+
+    - title: "Living with Machines: London"
+      manifest: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json
+
 # TODO: add maps from these repositories:
 # https://www.e-rara.ch/i3f/v20/22317130/manifest
 # https://www.e-rara.ch/i3f/v20/7124153/manifest
@@ -155,6 +164,4 @@
 # https://iiif.manducus.net/images/0006/HK1122.py.tif/pct:6,11,93.9,88.9/5120,/0/default.jpg
 # https://ids.lib.harvard.edu/ids/iiif/54199266/pct:2,7,96,86/5120,/0/default.jpg
 # https://ids.lib.harvard.edu/ids/iiif/7066370/pct:1,2.5,98,94/,768/0/default.jpg
-
-- title:
-https://gist.githubusercontent.com/bertspaan/033d1d4ccf9cf24918eed90d1694f6ab/raw/b73036cba3bc08e42266d349a15333604045a80b/manifest.json
+# british library
