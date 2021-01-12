@@ -42,6 +42,15 @@
 
     - title: "Antwerp : or Anvers"
       manifest: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
+      
+      
+- title: Leventhal Map & Education Center
+  url: https://collections.leventhalmap.org
+  examples:
+    - title: The town of Boston in New England
+      manifest: https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest
+    - title: Map of the White Mountains of New Hampshire from Walling's map of the state, 1877
+      manifest: https://collections.leventhalmap.org/search/commonwealth:cj82m759t
 
 
 - title: David Rumsey Map Collection
