@@ -24,6 +24,19 @@
       image: https://mapview.nls.uk/iiif/10145/101456111/info.json
 
 
+- title: Library of Congress
+  url: https://www.loc.gov/maps/
+  examples:
+    - title: Map of the seat of war showing the battles of July 18th & 21st, 1861
+      manifest: https://www.loc.gov/item/lva0000010/manifest.json
+
+    - title: New York Central and Hudson River Railroad.
+      manifest: https://www.loc.gov/item/98688736/manifest.json
+
+    - title: Northern Pacific Railroad Co.--completed road, September 5th, 1882.
+      manifest: https://www.loc.gov/item/98688748/manifest.json
+
+
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
@@ -194,6 +207,13 @@
 
     - title: Map of the rail-roads of the state of New York
       manifest: https://iiif.lib.harvard.edu/manifests/ids:6924636
+
+
+- title: Ibero-Amerikanisches Institut
+  url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
+  examples:
+    - title: Province De New-York
+      image: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
 
 # ======================================================================================================
 # ======================================================================================================
