@@ -1,6 +1,6 @@
 - title: National Library of Scotland
   url: https://maps.nls.uk/geo/find
-  description: Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
+  # Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       image: https://mapview.nls.uk/iiif/10143/101439545/info.json
@@ -55,19 +55,21 @@
 
     - title: "Antwerp : or Anvers"
       manifest: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
-      
-      
+
+
 - title: Leventhal Map & Education Center
   url: https://collections.leventhalmap.org
   examples:
     - title: The town of Boston in New England
       manifest: https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest
+
     - title: Map of the White Mountains of New Hampshire from Walling's map of the state, 1877
       manifest: https://collections.leventhalmap.org/search/commonwealth:cj82m759t
 
 
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com/luna/servlet/view/all
+  # David Rumsey's IIIF server doesn't support CORS...
   examples:
     - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
@@ -223,6 +225,7 @@
   examples:
     - title: Province De New-York
       image: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
+
 
 # ======================================================================================================
 # ======================================================================================================
