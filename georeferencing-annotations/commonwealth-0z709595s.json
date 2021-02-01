@@ -19,102 +19,73 @@
       "value": "<svg width=\"3047\" height=\"2120\"><polygon points=\"53,106 80,2012 2952,1991 2931,97 53,106\" /></svg>"
     }
   },
-  "body": [
-    {
-      "type": "FeatureCollection",
-      "features": [
-        {
-          "type": "Feature",
-          "properties": {
-            "image": [
-              1653,
-              833
-            ]
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              4.40222,
-              51.220206
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "image": [
-              2154,
-              691
-            ]
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              4.403392,
-              51.226492
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "image": [
-              2048,
-              1234
-            ]
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              4.413697,
-              51.222345
-            ]
-          }
-        },
-        {
-          "type": "Feature",
-          "properties": {
-            "image": [
-              1376,
-              1664
-            ]
-          },
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              4.415612,
-              51.214977
-            ]
-          }
-        }
-      ]
-    },
-    {
-      "type": "Polygon",
-      "coordinates": [
-        [
-          [
-            4.37328365096286,
-            51.2081120113574
-          ],
-          [
-            4.41094561830562,
-            51.2008646982442
-          ],
-          [
-            4.43643327053321,
-            51.2284918360007
-          ],
-          [
-            4.39906099495453,
-            51.235749434469
-          ],
-          [
-            4.37328365096286,
-            51.2081120113574
+  "body": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            1653,
+            833
           ]
-        ]
-      ]
-    }
-  ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.40222,
+            51.220206
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            2154,
+            691
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.403392,
+            51.226492
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            2048,
+            1234
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.413697,
+            51.222345
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            1376,
+            1664
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.415612,
+            51.214977
+          ]
+        }
+      }
+    ]
+  }
 }
