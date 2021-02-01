@@ -7,6 +7,13 @@
   "motivation": "georeference",
   "target": {
     "source": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s",
+    "service": [
+      {
+        "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
     "selector": {
       "type": "SvgSelector",
       "value": "<svg width=\"3047\" height=\"2120\"><polygon points=\"53,106 80,2012 2952,1991 2931,97 53,106\" /></svg>"
@@ -19,7 +26,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               1653,
               833
             ]
@@ -35,7 +42,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               2154,
               691
             ]
@@ -51,7 +58,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               2048,
               1234
             ]
@@ -67,7 +74,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               1376,
               1664
             ]

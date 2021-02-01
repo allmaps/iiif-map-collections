@@ -7,6 +7,13 @@
   "motivation": "georeference",
   "target": {
     "source": "https://cdm21033.contentdm.oclc.org/digital/iiif/krt/2170",
+    "service": [
+      {
+        "@id": "https://cdm21033.contentdm.oclc.org/digital/iiif/krt/2170",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
     "selector": {
       "type": "SvgSelector",
       "value": "<svg width=\"4141\" height=\"3622\"><polygon points=\"328,219 303,3422 3802,3433 3831,239 328,219\" /></svg>"
@@ -19,7 +26,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               2109,
               730
             ]
@@ -35,7 +42,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               1111,
               3089
             ]
@@ -51,7 +58,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               3254,
               3023
             ]

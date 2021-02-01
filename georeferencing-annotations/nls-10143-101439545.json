@@ -7,6 +7,13 @@
   "motivation": "georeference",
   "target": {
     "source": "https://mapview.nls.uk/iiif/10143/101439545",
+    "service": [
+      {
+        "@id": "https://mapview.nls.uk/iiif/10143/101439545",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
     "selector": {
       "type": "SvgSelector",
       "value": "<svg width=\"9168\" height=\"7084\"><polygon points=\"991,1025 1004,5795 8170,5785 8159,1029 5020,1030 991,1025\" /></svg>"
@@ -19,7 +26,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               5731,
               4110
             ]
@@ -35,7 +42,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               1242,
               1331
             ]
@@ -51,7 +58,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               4876,
               2144
             ]

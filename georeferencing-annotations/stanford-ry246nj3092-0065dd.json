@@ -7,6 +7,13 @@
   "motivation": "georeference",
   "target": {
     "source": "https://stacks.stanford.edu/image/iiif/ry246nj3092%2F0065dd",
+    "service": [
+      {
+        "@id": "https://stacks.stanford.edu/image/iiif/ry246nj3092%2F0065dd",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
     "selector": {
       "type": "SvgSelector",
       "value": "<svg width=\"4910\" height=\"4096\"><polygon points=\"167,184 172,3924 4723,3928 4741,180 167,184\" /></svg>"
@@ -19,7 +26,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               3362,
               478
             ]
@@ -35,7 +42,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               4011,
               2127
             ]
@@ -51,7 +58,7 @@
         {
           "type": "Feature",
           "properties": {
-            "pixel": [
+            "image": [
               904,
               3425
             ]
