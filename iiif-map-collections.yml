@@ -109,6 +109,13 @@
       image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
 
 
+- title: Universiteit Leiden
+  url: https://digitalcollections.universiteitleiden.nl/islandora/search?type=dismax&islandora_solr_search_navigation=0&f[0]=RELS_EXT_isMemberOfCollection_uri_ms:%22info\:fedora\/collection\:ubl_maps%22
+  examples:
+    - title: "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13"
+      manifest: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest
+
+
 - title: Library of Congress Maps
   url: https://www.loc.gov/maps/
   examples:

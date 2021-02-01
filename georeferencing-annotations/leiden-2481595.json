@@ -1,0 +1,109 @@
+{
+  "type": "Annotation",
+  "@id": "https://data.allmaps.org/annotations/i/5McLnSJPexQdyUAd/m/TXeHtZRKPVJuGxQZ",
+  "@context": [
+    "http://geojson.org/geojson-ld/geojson-context.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "motivation": "georeference",
+  "target": {
+    "source": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2481582",
+    "type": "Image",
+    "service": [
+      {
+        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl%3A1887.1%2Fitem%3A2481582",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg width=\"10848\" height=\"5926\"><polygon points=\"785,422 700,5075 9716,5107 9711,416 785,422\" /></svg>"
+    }
+  },
+  "body": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            8116,
+            2609
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.775796,
+            51.588838
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            8226,
+            2859
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.777832,
+            51.589585
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            7122,
+            2600
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.777587,
+            51.583227
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            8104,
+            2098
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.771246,
+            51.588414
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            8409,
+            2276
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            4.772502,
+            51.589978
+          ]
+        }
+      }
+    ]
+  }
+}
