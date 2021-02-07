@@ -1,22 +1,24 @@
 {
   "type": "Annotation",
+  "@id": "https://data.allmaps.org/annotations/i/Hyhag6v4GZTdzx5N/m/dty1vPC1sXrPy5Wh",
   "@context": [
     "http://geojson.org/geojson-ld/geojson-context.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "motivation": "georeference",
   "target": {
-    "source": "https://mapview.nls.uk/iiif/10143/101439545",
+    "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd371:g3711:g3711p:rr004880",
+    "type": "Image",
     "service": [
       {
-        "@id": "https://mapview.nls.uk/iiif/10143/101439545",
+        "@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd371:g3711:g3711p:rr004880",
         "type": "ImageService2",
         "profile": "http://iiif.io/api/image/2/level2.json"
       }
     ],
     "selector": {
       "type": "SvgSelector",
-      "value": "<svg width=\"9168\" height=\"7084\"><polygon points=\"991,1025 1004,5795 8170,5785 8159,1029 5020,1030 991,1025\" /></svg>"
+      "value": "<svg width=\"10788\" height=\"6402\"><polygon points=\"46,71 31,6181 10753,6138 10749,1805 9892,1830 9864,73 46,71\" /></svg>"
     }
   },
   "body": {
@@ -26,15 +28,15 @@
         "type": "Feature",
         "properties": {
           "image": [
-            5731,
-            4110
+            8829,
+            3912
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.538161,
-            50.083807
+            -74.253367,
+            40.501054
           ]
         }
       },
@@ -42,15 +44,15 @@
         "type": "Feature",
         "properties": {
           "image": [
-            1242,
-            1331
+            3130,
+            3296
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.580623,
-            50.100415
+            -87.632201,
+            41.874957
           ]
         }
       },
@@ -58,18 +60,18 @@
         "type": "Feature",
         "properties": {
           "image": [
-            4876,
-            2144
+            9260,
+            1634
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.546355,
-            50.095702
+            -73.111535,
+            44.488567
           ]
         }
       }
     ]
-  },
+  }
 }

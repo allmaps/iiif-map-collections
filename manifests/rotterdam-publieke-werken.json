@@ -1,0 +1,937 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/0",
+          "@type": "sc:Canvas",
+          "width": 6522,
+          "height": 4558,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6522,
+              "height": 4558,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/0",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/863C7B0202ED49629FF21D3CC48E7A24/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6522,
+                "height": 4558,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/863C7B0202ED49629FF21D3CC48E7A24",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/1",
+          "@type": "sc:Canvas",
+          "width": 6426,
+          "height": 4810,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6426,
+              "height": 4810,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/1",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/A136B927DA744CD2BEA9F1A3FF2271BA/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6426,
+                "height": 4810,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/A136B927DA744CD2BEA9F1A3FF2271BA",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/2",
+          "@type": "sc:Canvas",
+          "width": 6858,
+          "height": 4906,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6858,
+              "height": 4906,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/2",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/69B895061B4348729BFCC3F785B60A76/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6858,
+                "height": 4906,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/69B895061B4348729BFCC3F785B60A76",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/3",
+          "@type": "sc:Canvas",
+          "width": 6390,
+          "height": 4846,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6390,
+              "height": 4846,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/3",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/8C000D39DCD544888DE21A5F02EC75D8/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6390,
+                "height": 4846,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/8C000D39DCD544888DE21A5F02EC75D8",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/4",
+          "@type": "sc:Canvas",
+          "width": 6510,
+          "height": 4858,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6510,
+              "height": 4858,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/4",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/E17C0C6C9801455497366626D2EA8A29/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6510,
+                "height": 4858,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/E17C0C6C9801455497366626D2EA8A29",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/5",
+          "@type": "sc:Canvas",
+          "width": 6738,
+          "height": 4822,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6738,
+              "height": 4822,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/5",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/6D3A2D321823462A9A606210390651B5/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6738,
+                "height": 4822,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/6D3A2D321823462A9A606210390651B5",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/6",
+          "@type": "sc:Canvas",
+          "width": 6474,
+          "height": 4846,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6474,
+              "height": 4846,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/6",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/3E0AF0D3DEE145318C457D9FE875DB6C/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6474,
+                "height": 4846,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/3E0AF0D3DEE145318C457D9FE875DB6C",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/7",
+          "@type": "sc:Canvas",
+          "width": 6402,
+          "height": 4534,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6402,
+              "height": 4534,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/7",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/637888E013C749D189E0FBEA40AAE49A/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6402,
+                "height": 4534,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/637888E013C749D189E0FBEA40AAE49A",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/8",
+          "@type": "sc:Canvas",
+          "width": 5083,
+          "height": 4414,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5083,
+              "height": 4414,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/8",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/4F0DA8FB957E430D9C1C45AE4BBC3C06/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5083,
+                "height": 4414,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/4F0DA8FB957E430D9C1C45AE4BBC3C06",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/9",
+          "@type": "sc:Canvas",
+          "width": 5143,
+          "height": 4762,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5143,
+              "height": 4762,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/9",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/C50AD01841D54576A6C8B642938A01DD/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5143,
+                "height": 4762,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/C50AD01841D54576A6C8B642938A01DD",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/10",
+          "@type": "sc:Canvas",
+          "width": 5227,
+          "height": 4738,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5227,
+              "height": 4738,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/10",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/AD324025E81A42C8AEF74EFE049C7D8B/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5227,
+                "height": 4738,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/AD324025E81A42C8AEF74EFE049C7D8B",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/11",
+          "@type": "sc:Canvas",
+          "width": 5239,
+          "height": 4414,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5239,
+              "height": 4414,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/11",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/8D75837EA87148228528DB79FCFAF488/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5239,
+                "height": 4414,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/8D75837EA87148228528DB79FCFAF488",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/12",
+          "@type": "sc:Canvas",
+          "width": 5287,
+          "height": 4307,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5287,
+              "height": 4307,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/12",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/EF863AEF0BF04473908738EB4971A5E3/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5287,
+                "height": 4307,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/EF863AEF0BF04473908738EB4971A5E3",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/13",
+          "@type": "sc:Canvas",
+          "width": 6438,
+          "height": 4331,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6438,
+              "height": 4331,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/13",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/13B51C4B387C4480A0347D6C87FB921B/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6438,
+                "height": 4331,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/13B51C4B387C4480A0347D6C87FB921B",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/14",
+          "@type": "sc:Canvas",
+          "width": 6762,
+          "height": 4546,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6762,
+              "height": 4546,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/14",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/AD0567937AFC415096DCC6E6686FE32E/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6762,
+                "height": 4546,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/AD0567937AFC415096DCC6E6686FE32E",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/15",
+          "@type": "sc:Canvas",
+          "width": 6702,
+          "height": 4415,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6702,
+              "height": 4415,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/15",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/2058A487AD284CD988282D2DC60AA432/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6702,
+                "height": 4415,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/2058A487AD284CD988282D2DC60AA432",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/16",
+          "@type": "sc:Canvas",
+          "width": 6438,
+          "height": 4307,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/16",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6438,
+              "height": 4307,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/16",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/6A9C823CC3234837B35A55362EDD3BFC/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6438,
+                "height": 4307,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/6A9C823CC3234837B35A55362EDD3BFC",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/17",
+          "@type": "sc:Canvas",
+          "width": 5227,
+          "height": 4391,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5227,
+              "height": 4391,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/17",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/B79F5D048E584873BC38A35BFAEC49CC/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5227,
+                "height": 4391,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/B79F5D048E584873BC38A35BFAEC49CC",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/18",
+          "@type": "sc:Canvas",
+          "width": 5227,
+          "height": 4498,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/18",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5227,
+              "height": 4498,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/18",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/3269A4524A3B42F3BA6D9EBC92B0B888/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5227,
+                "height": 4498,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/3269A4524A3B42F3BA6D9EBC92B0B888",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/19",
+          "@type": "sc:Canvas",
+          "width": 5239,
+          "height": 4846,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/19",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5239,
+              "height": 4846,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/19",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/A96CC28B52154C2EBED72E4B9DB4EAAF/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5239,
+                "height": 4846,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/A96CC28B52154C2EBED72E4B9DB4EAAF",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/20",
+          "@type": "sc:Canvas",
+          "width": 5203,
+          "height": 4726,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/20",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5203,
+              "height": 4726,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/20",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/59DBAF5BE1CC4C09BCD3610F6B7ED6D3/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5203,
+                "height": 4726,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/59DBAF5BE1CC4C09BCD3610F6B7ED6D3",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/21",
+          "@type": "sc:Canvas",
+          "width": 5155,
+          "height": 4510,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/21",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 5155,
+              "height": 4510,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/21",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/BBAE5AD560CC41719B7420ED659C6D4D/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 5155,
+                "height": 4510,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/BBAE5AD560CC41719B7420ED659C6D4D",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/22",
+          "@type": "sc:Canvas",
+          "width": 6450,
+          "height": 4534,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/22",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6450,
+              "height": 4534,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/22",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/AE2AD818169243EFB9207C98CA37ED59/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6450,
+                "height": 4534,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/AE2AD818169243EFB9207C98CA37ED59",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/23",
+          "@type": "sc:Canvas",
+          "width": 6834,
+          "height": 4474,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/23",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6834,
+              "height": 4474,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/23",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/E5FBDF15ECCB4E2B9DF2A782FF3EDCF6/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6834,
+                "height": 4474,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/E5FBDF15ECCB4E2B9DF2A782FF3EDCF6",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/24",
+          "@type": "sc:Canvas",
+          "width": 6522,
+          "height": 4546,
+          "images": [
+            {
+              "@id": "https://rotterdamspubliek.nl/iiif/manifest/test#annotation/24",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 6522,
+              "height": 4546,
+              "on": "https://rotterdamspubliek.nl/iiif/manifest/test#canvas/24",
+              "resource": {
+                "@id": "https://rotterdamspubliek.nl/iiif/BA70EAF4A39249A7AF9CEAFEFCDD7470/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 6522,
+                "height": 4546,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rotterdamspubliek.nl/iiif/BA70EAF4A39249A7AF9CEAFEFCDD7470",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level0.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

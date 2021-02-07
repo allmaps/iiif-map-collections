@@ -1,0 +1,108 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#canvas/0",
+          "@type": "sc:Canvas",
+          "width": 8932,
+          "height": 6493,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#annotation/0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 8932,
+              "height": 6493,
+              "on": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#canvas/0",
+              "resource": {
+                "@id": "https://mapview.nls.uk/iiif/10146/101465411/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 8932,
+                "height": 6493,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mapview.nls.uk/iiif/10146/101465411",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring",
+                        "gray"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#canvas/1",
+          "@type": "sc:Canvas",
+          "width": 8916,
+          "height": 6657,
+          "images": [
+            {
+              "@id": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#annotation/1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "width": 8916,
+              "height": 6657,
+              "on": "https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json#canvas/1",
+              "resource": {
+                "@id": "https://mapview.nls.uk/iiif/10145/101456111/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "width": 8916,
+                "height": 6657,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mapview.nls.uk/iiif/10145/101456111",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring",
+                        "gray"
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "@id": "https://data.allmaps.org/annotations/m/4qzVfHU7rDgRqP7q",
+  "type": "AnnotationPage",
+  "@context": [
+    "http://geojson.org/geojson-ld/geojson-context.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "items": [
+    {
+      "type": "Annotation",
+      "@id": "https://data.allmaps.org/annotations/i/yT5Z6epJ7vi7BeLP/m/pVJemU2Kcq4C8HTs",
+      "@context": [
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeference",
+      "target": {
+        "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3842:g3842c:ct008615",
+        "type": "Image",
+        "service": [
+          {
+            "@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3842:g3842c:ct008615",
+            "type": "ImageService2",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5212\" height=\"7072\"><polygon points=\"966,3628 923,6769 2400,6757 2388,3623 966,3628\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                1823,
+                6656
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -77.058673,
+                38.889718
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                1360,
+                4110
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -77.244097,
+                38.98936
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                2363,
+                4643
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -77.14912,
+                39.013071
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "Annotation",
+      "@id": "https://data.allmaps.org/annotations/i/yT5Z6epJ7vi7BeLP/m/EvBivpkw7ty4CSdJ",
+      "@context": [
+        "http://geojson.org/geojson-ld/geojson-context.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+      ],
+      "motivation": "georeference",
+      "target": {
+        "source": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3842:g3842c:ct008615",
+        "type": "Image",
+        "service": [
+          {
+            "@id": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd384:g3842:g3842c:ct008615",
+            "type": "ImageService2",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+          }
+        ],
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg width=\"5212\" height=\"7072\"><polygon points=\"2685,504 2694,6928 5171,6934 5178,519 2685,504\" /></svg>"
+        }
+      },
+      "body": {
+        "type": "FeatureCollection",
+        "features": [
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                3525,
+                622
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -78.76585,
+                39.648194
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                2840,
+                3153
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -78.137998,
+                39.217154
+              ]
+            }
+          },
+          {
+            "type": "Feature",
+            "properties": {
+              "image": [
+                4493,
+                4795
+              ]
+            },
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -77.432784,
+                39.406066
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

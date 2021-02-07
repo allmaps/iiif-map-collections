@@ -1,22 +1,24 @@
 {
   "type": "Annotation",
+  "@id": "https://data.allmaps.org/annotations/i/3sgN6FnfSLLnjNrH/m/MQK5Z9fqRyUApRyV",
   "@context": [
     "http://geojson.org/geojson-ld/geojson-context.jsonld",
     "http://iiif.io/api/presentation/3/context.json"
   ],
   "motivation": "georeference",
   "target": {
-    "source": "https://mapview.nls.uk/iiif/10143/101439545",
+    "source": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s",
+    "type": "image",
     "service": [
       {
-        "@id": "https://mapview.nls.uk/iiif/10143/101439545",
-        "type": "ImageService2",
+        "@id": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:0z709595s",
+        "type": "imageService2",
         "profile": "http://iiif.io/api/image/2/level2.json"
       }
     ],
     "selector": {
       "type": "SvgSelector",
-      "value": "<svg width=\"9168\" height=\"7084\"><polygon points=\"991,1025 1004,5795 8170,5785 8159,1029 5020,1030 991,1025\" /></svg>"
+      "value": "<svg width=\"3047\" height=\"2120\"><polygon points=\"54,103 79,2014 2954,1996 2943,94 54,103\" /></svg>"
     }
   },
   "body": {
@@ -26,15 +28,15 @@
         "type": "Feature",
         "properties": {
           "image": [
-            5731,
-            4110
+            2186,
+            785
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.538161,
-            50.083807
+            4.405021,
+            51.226491
           ]
         }
       },
@@ -42,15 +44,15 @@
         "type": "Feature",
         "properties": {
           "image": [
-            1242,
-            1331
+            1327,
+            1342
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.580623,
-            50.100415
+            4.409436,
+            51.214101
           ]
         }
       },
@@ -58,18 +60,18 @@
         "type": "Feature",
         "properties": {
           "image": [
-            4876,
-            2144
+            1633,
+            687
           ]
         },
         "geometry": {
           "type": "Point",
           "coordinates": [
-            -5.546355,
-            50.095702
+            4.399508,
+            51.220527
           ]
         }
       }
     ]
-  },
+  }
 }
