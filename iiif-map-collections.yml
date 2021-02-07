@@ -94,6 +94,9 @@
     - title: Map showing the land grant of the Northern Pacific Railroad Company in Montana, Idaho, and in part of North Dakota, and in part of eastern Washington, reaching from Dickinson, North Dakota, to Ritzville, eastern Washington.
       manifest: https://www.loc.gov/item/86695638/manifest.json
 
+    - title: General Karte vom Preussischen Staate mit den Gränzen der Regierungs-Bezirke und landräthlichen Kreise
+      manifest: https://www.loc.gov/item/2018588025/manifest.json
+
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
