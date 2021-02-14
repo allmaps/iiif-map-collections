@@ -134,6 +134,9 @@
     - title: Map showing the land grant of the Northern Pacific Railroad Company in Montana, Idaho, and in part of North Dakota, and in part of eastern Washington, reaching from Dickinson, North Dakota, to Ritzville, eastern Washington.
       manifest: https://www.loc.gov/item/86695638/manifest.json
 
+    - title: General Karte vom Preussischen Staate mit den Gränzen der Regierungs-Bezirke und landräthlichen Kreise
+      manifest: https://www.loc.gov/item/2018588025/manifest.json
+
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
@@ -173,6 +176,39 @@
 
     - title: Aan de gemeente Rotterdam toe te voegen gebied
       manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+
+
+- title: "Wageningen University & Research: Map Collection Alterra"
+  url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll25
+  examples:
+    - title: "Breda : Bodemkaart. [Bijlage 1]"
+      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1009/manifest.json
+
+    - title: "Ruilverkaveling Westwoud : Bodemkaart. Bijlage 1"
+      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1350/manifest.json
+
+    - title: "Ruilverkaveling Tubbergen : Zandkaart. Bijlage 4"
+      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/686/manifest.json
+
+
+- title: "Wageningen University & Research: Old Maps and Atlases"
+  url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll21
+  examples:
+    - title: Kaarte van Schouwen en Duiveland
+      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/183/manifest.json
+      
+    - title: Kaart van de beneeden rivier de Maas en de Merwede, van de Noord Zee tot Hardinksveld
+      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/550/manifest.json
+
+
+- title: University of Groningen
+  url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten
+  examples:
+    - title: "Provinciekaarten van Nederland - [2]: Friesland"
+      manifest: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/2655/manifest.json
+
+    - title: Accuratissima Germaniae tabula
+      manifest: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/1581/manifest.json
 
 
 - title: Princeton University Library
