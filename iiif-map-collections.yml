@@ -67,21 +67,21 @@
       manifest: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
 
 
-- title: David Rumsey Map Collection
-  url: https://www.davidrumsey.com/luna/servlet/view/all
-  # David Rumsey's IIIF server doesn't support CORS...
-  examples:
-    - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
-      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
+# David Rumsey's IIIF server doesn't support CORS...
+# - title: David Rumsey Map Collection
+#   url: https://www.davidrumsey.com/luna/servlet/view/all
+#   examples:
+#     - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
+#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
 
-    - title: Map of the County of Cornwall
-      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
+#     - title: Map of the County of Cornwall
+#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
 
-    - title: "San Francisco entrance, California : 1884"
-      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
+#     - title: "San Francisco entrance, California : 1884"
+#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
-    - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
-      manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
+#     - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
+#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
 - title: Miami Libraries
