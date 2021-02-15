@@ -3,68 +3,87 @@
   # Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
-      image: https://mapview.nls.uk/iiif/10143/101439545/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10143/101439545/info.json
 
     - title: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
-      image: https://mapview.nls.uk/iiif/10143/101439530/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10143/101439530/info.json
 
     - title: Cornwall LXXIV.14 (Paul; Penzance)
-      image: https://mapview.nls.uk/iiif/10599/105996559/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10599/105996559/info.json
 
     - title: Cornwall LXXIV.10 (Penzance)
-      image: https://mapview.nls.uk/iiif/10599/105996544/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10599/105996544/info.json
 
     - title: Lancashire CIV.11 (Manchester)
-      image: https://mapview.nls.uk/iiif/12652/126522842/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/12652/126522842/info.json
 
     - title: "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)"
-      image: https://mapview.nls.uk/iiif/10146/101465411/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10146/101465411/info.json
 
     - title: "Essex LXXXI.NW (includes: Bermondsey; Borough Of Greenwich; Deptford St Paul; Poplar Borough; Stepney.)"
-      image: https://mapview.nls.uk/iiif/10145/101456111/info.json
+      type: image
+      url: https://mapview.nls.uk/iiif/10145/101456111/info.json
 
 
 - title: Library of Congress
   url: https://www.loc.gov/maps/
   examples:
     - title: Map of the seat of war showing the battles of July 18th & 21st, 1861
-      manifest: https://www.loc.gov/item/lva0000010/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/lva0000010/manifest.json
 
     - title: New York Central and Hudson River Railroad.
-      manifest: https://www.loc.gov/item/98688736/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/98688736/manifest.json
 
     - title: Northern Pacific Railroad Co.--completed road, September 5th, 1882.
-      manifest: https://www.loc.gov/item/98688748/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/98688748/manifest.json
 
 
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
     - title: Map of city of Palo Alto, Santa Clara Co., Calif
-      manifest: https://purl.stanford.edu/vg994wz9415/iiif/manifest
+      type: manifest
+      url: https://purl.stanford.edu/vg994wz9415/iiif/manifest
 
     - title: Holland (Koningrijk der Nederlanden)
-      manifest: https://purl.stanford.edu/ry246nj3092/iiif/manifest
+      type: manifest
+      url: https://purl.stanford.edu/ry246nj3092/iiif/manifest
 
 
 - title: Digital Commonwealth - Massachusetts Collections Online
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
   examples:
     - title: Aeronautical view of the Panama Canal
-      manifest: https://ark.digitalcommonwealth.org/ark:/50959/4m90fk088/manifest
+      type: manifest
+      url: https://ark.digitalcommonwealth.org/ark:/50959/4m90fk088/manifest
 
     - title: "Antwerp : or Anvers"
-      manifest: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
+      type: manifest
+      url: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
 
 
 - title: Leventhal Map & Education Center
   url: https://collections.leventhalmap.org
   examples:
     - title: The town of Boston in New England
-      manifest: https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest
+      type: manifest
+      url: https://collections.leventhalmap.org/search/commonwealth:9s161f21f/manifest
 
     - title: Map of the White Mountains of New Hampshire from Walling's map of the state, 1877
-      manifest: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
+      type: manifest
+      url: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
+
+    # https://collections.leventhalmap.org/search/commonwealth:7h14cv973
+    # https://collections.leventhalmap.org/search/commonwealth:7h14cv71z
 
 
 # David Rumsey's IIIF server doesn't support CORS...
@@ -72,202 +91,246 @@
 #   url: https://www.davidrumsey.com/luna/servlet/view/all
 #   examples:
 #     - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
-#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
+#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
 
 #     - title: Map of the County of Cornwall
-#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
+#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
 
 #     - title: "San Francisco entrance, California : 1884"
-#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
+#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
 #     - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
-#       manifest: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
+#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
 - title: Miami Libraries
   url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/title/ad/asc
   examples:
     - title: A new & accurate map of the Island of Cuba
-      manifest: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
+      type: manifest
+      url: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
 
 
 - title: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
   examples:
     - title: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
-      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1985-1014-01/info.json
+      type: image
+      url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1985-1014-01/info.json
 
     - title: 1972-755-1 Kaart van het centrum van Rotterdam van voor mei 1940
-      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json
+      type: image
+      url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json
 
     - title: "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
-      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json
+      type: image
+      url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json
 
     - title: "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
-      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json
+      type: image
+      url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json
 
     - title: "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek"
-      image: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
+      type: image
+      url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
 
 
 - title: Universiteit Leiden
   url: https://digitalcollections.universiteitleiden.nl/islandora/search?type=dismax&islandora_solr_search_navigation=0&f[0]=RELS_EXT_isMemberOfCollection_uri_ms:%22info\:fedora\/collection\:ubl_maps%22
   examples:
     - title: "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13"
-      manifest: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest
+      type: manifest
+      url: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest
 
 
 - title: Library of Congress Maps
   url: https://www.loc.gov/maps/
   examples:
     - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
-      manifest: https://www.loc.gov/item/88695674/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/88695674/manifest.json
 
     - title: Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana.
-      manifest: https://www.loc.gov/item/sanborn03376_001/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/sanborn03376_001/manifest.json
 
     - title: "Das Rheinland von Basel bis Rotterdam : nebst denen zunächstliegenden Städten, Strassen und Eisenbahnen"
-      manifest: https://www.loc.gov/item/2015591075/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/2015591075/manifest.json
 
     - title: Crater Lake National Park, Oregon
-      manifest: https://www.loc.gov/item/97684223/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/97684223/manifest.json
 
     - title: Map showing the land grant of the Northern Pacific Railroad Company in Montana, Idaho, and in part of North Dakota, and in part of eastern Washington, reaching from Dickinson, North Dakota, to Ritzville, eastern Washington.
-      manifest: https://www.loc.gov/item/86695638/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/86695638/manifest.json
 
     - title: General Karte vom Preussischen Staate mit den Gränzen der Regierungs-Bezirke und landräthlichen Kreise
-      manifest: https://www.loc.gov/item/2018588025/manifest.json
+      type: manifest
+      url: https://www.loc.gov/item/2018588025/manifest.json
 
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
   examples:
     - title: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
-      manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json
 
     - title: "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting"
-      manifest: https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json
 
     - title: "Onteigening voor en ten behoeve van de verbreeding en de doortrekking van de Lekstraat te 's-Gravenhage : Gemeente 's-Gravenhage sectie R"
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
 
     - title: "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie"
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json
 
     - title: "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]"
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json
 
     - title: Nieuwe platte grond der stad Rotterdam
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2886/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2886/manifest.json
 
     - title: Rotterdam
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2888/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2888/manifest.json
 
     - title: Plattegrond van Rotterdam / geteekend door J.J. Claus
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/1654/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/1654/manifest.json
 
     - title: River Nieuwe Maas and Rotterdam's havens
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2891/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2891/manifest.json
 
     - title: Grondkaart der stad Rotterdam, op het einde der XVI eeuw
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2887/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2887/manifest.json
 
     - title: Platte grond der stad Rotterdam / vervaardigd volgens de kadastrale plans ... door L.F. Temminck ; gegraveerd door Dl. Veelwaard en Zonen
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2890/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2890/manifest.json
 
     - title: Aan de gemeente Rotterdam toe te voegen gebied
-      manifest: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
 
 
 - title: "Wageningen University & Research: Map Collection Alterra"
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll25
   examples:
     - title: "Breda : Bodemkaart. [Bijlage 1]"
-      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1009/manifest.json
+      type: manifest
+      url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1009/manifest.json
 
     - title: "Ruilverkaveling Westwoud : Bodemkaart. Bijlage 1"
-      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1350/manifest.json
+      type: manifest
+      url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1350/manifest.json
 
     - title: "Ruilverkaveling Tubbergen : Zandkaart. Bijlage 4"
-      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/686/manifest.json
+      type: manifest
+      url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/686/manifest.json
 
 
 - title: "Wageningen University & Research: Old Maps and Atlases"
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll21
   examples:
     - title: Kaarte van Schouwen en Duiveland
-      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/183/manifest.json
-      
+      type: manifest
+      url: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/183/manifest.json
+
     - title: Kaart van de beneeden rivier de Maas en de Merwede, van de Noord Zee tot Hardinksveld
-      manifest: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/550/manifest.json
+      type: manifest
+      url: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/550/manifest.json
 
 
 - title: University of Groningen
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten
   examples:
     - title: "Provinciekaarten van Nederland - [2]: Friesland"
-      manifest: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/2655/manifest.json
+      type: manifest
+      url: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/2655/manifest.json
 
     - title: Accuratissima Germaniae tabula
-      manifest: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/1581/manifest.json
+      type: manifest
+      url: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/1581/manifest.json
 
 
 - title: Princeton University Library
   url: https://maps.princeton.edu/?layer_geom_type_s%5D%5B%5D=Image&search_field=all_fields
   examples:
     - title: The environs of Dublin
-      manifest: https://figgy.princeton.edu/concern/scanned_maps/c9d4b69f-071e-4d57-b475-c572420a02e2/manifest
+      type: manifest
+      url: https://figgy.princeton.edu/concern/scanned_maps/c9d4b69f-071e-4d57-b475-c572420a02e2/manifest
 
     - title: Philips' clear print half inch map of the Lake District
-      manifest: https://figgy.princeton.edu/concern/scanned_maps/fc98c5ab-9476-4ea4-b946-1ce8cfd7a4cf/manifest
+      type: manifest
+      url: https://figgy.princeton.edu/concern/scanned_maps/fc98c5ab-9476-4ea4-b946-1ce8cfd7a4cf/manifest
 
     - title: Map of Russian Lapland drawn from the original map made by Professor J. A. Friis by George T. Temple
-      manifest: https://figgy.princeton.edu/concern/scanned_maps/fa4fb452-5f1d-42ab-a471-53afc176c948/manifest
+      type: manifest
+      url: https://figgy.princeton.edu/concern/scanned_maps/fa4fb452-5f1d-42ab-a471-53afc176c948/manifest
 
 
 - title: e-rara, the platform for digitized rare books from Swiss institutions
   url: https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22
   examples:
     - title: Reliefkarte der Centralschweiz
-      manifest: https://www.e-rara.ch/i3f/v20/10747751/manifest
+      type: manifest
+      url: https://www.e-rara.ch/i3f/v20/10747751/manifest
 
     - title: Die Oberitalienischen Seen und ihr Excursionsgebiet
-      manifest: https://www.e-rara.ch/i3f/v20/6484723/manifest
+      type: manifest
+      url: https://www.e-rara.ch/i3f/v20/6484723/manifest
 
 
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
   url: http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
-      image: http://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
+      type: manifest
+      url: http://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
 
     - title: Grundritning öfver Stockholms Stad N° I
-      image: http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
+      type: manifest
+      url: http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
 
 
 - title: Harvard Library Digital Collections
   url: https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields
   examples:
     - title: Mil.-Geo.-Plan von Leningrad
-      manifest: https://iiif.lib.harvard.edu/manifests/ids:30874065
+      type: manifest
+      url: https://iiif.lib.harvard.edu/manifests/ids:30874065
 
     - title: Rotterdam
-      manifest: https://iiif.lib.harvard.edu/manifests/ids:9780540
+      url: https://iiif.lib.harvard.edu/manifests/ids:9780540
 
     - title: Platte grond van Rotterdam 1912
-      manifest: https://iiif.lib.harvard.edu/manifests/ids:9780524
+      type: manifest
+      url: https://iiif.lib.harvard.edu/manifests/ids:9780524
 
     - title: Map showing routes & stations on the dual system October, 1918
-      manifest: https://iiif.lib.harvard.edu/manifests/ids:6938090
+      type: manifest
+      url: https://iiif.lib.harvard.edu/manifests/ids:6938090
 
     - title: Map of the rail-roads of the state of New York
-      manifest: https://iiif.lib.harvard.edu/manifests/ids:6924636
+      type: manifest
+      url: https://iiif.lib.harvard.edu/manifests/ids:6924636
 
 
 - title: Ibero-Amerikanisches Institut
   url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
   examples:
     - title: Province De New-York
-      image: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
+      type: manifest
+      url: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
 
 
 # ======================================================================================================
@@ -275,10 +338,13 @@
 
 
 - title: Custom generated map manifests
+  include: false
   url: https://github.com/bertspaan/iiif-map-collections/tree/master/manifests
   examples:
     - title: "Rotterdams Publiek: Publieke Werken"
-      manifest: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json
+      type: manifest
+      url: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json
 
     - title: "Living with Machines: London"
-      manifest: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json
+      type: manifest
+      url: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json
