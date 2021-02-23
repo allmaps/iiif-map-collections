@@ -30,6 +30,10 @@
       type: image
       url: https://mapview.nls.uk/iiif/10145/101456111/info.json
 
+    - title: Inverness-shire - Mainland X.3 (Combined)
+      type: image
+      url: https://map-view.nls.uk/iiif/7447%2F74478965/info.json
+
 
 - title: Library of Congress
   url: https://www.loc.gov/maps/
@@ -46,6 +50,9 @@
       type: manifest
       url: https://www.loc.gov/item/98688748/manifest.json
 
+    # TODO: add
+    # https://www.loc.gov/resource/g3851e.ct004586/?r=-0.864,-0.122,2.913,1.52,0
+
 
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
@@ -57,6 +64,10 @@
     - title: Holland (Koningrijk der Nederlanden)
       type: manifest
       url: https://purl.stanford.edu/ry246nj3092/iiif/manifest
+
+    - title: Ōmi Kuni-ezu -- 近江國絵圖
+      type: manifest
+      url: https://purl.stanford.edu/hs631zg4177/iiif/manifest
 
 
 - title: Digital Commonwealth - Massachusetts Collections Online
@@ -82,6 +93,7 @@
       type: manifest
       url: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
 
+    # TODO: add
     # https://collections.leventhalmap.org/search/commonwealth:7h14cv973
     # https://collections.leventhalmap.org/search/commonwealth:7h14cv71z
 
