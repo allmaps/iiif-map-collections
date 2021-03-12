@@ -417,6 +417,22 @@
      url: https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest
 
 
+- title: Yale University Library
+  url: https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields
+  examples:
+   - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
+     type: manifest
+     url: https://collections.library.yale.edu/manifests/2005511
+
+
+- title: Zentral- und Landesbibliothek Berlin
+  url: https://digital.zlb.de/viewer/search/-/%28DC%3A%22berlin.stadtplaenestadtansichten%22%29/1/SORT_YEARPUBLISH/-/
+  examples:
+   - title: Grundriss der Königl. Residenzstädte Berlin
+     type: manifest
+     url: https://digital.zlb.de/viewer/api/v1/records/15452831/manifest/
+
+
 # ======================================================================================================
 # ======================================================================================================
 
