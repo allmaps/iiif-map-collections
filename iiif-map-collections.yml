@@ -345,6 +345,78 @@
       url: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
 
 
+- title: Badische Landesbibliothek Karlsruhe
+  url: https://digital.blb-karlsruhe.de/Karten/topic/view/178828
+  examples:
+   - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
+     type: manifest
+     url: https://digital.blb-karlsruhe.de/i3f/v20/5339993/manifest
+
+
+- title:  Gallica, Bibliothèque nationale de France
+  url: https://gallica.bnf.fr/html/und/cartes/cartes?mode=desktop
+  examples:
+   - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
+     type: manifest
+     url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192683w/manifest.json
+
+
+- title: Bodleian Libraries
+  url: https://digital.bodleian.ox.ac.uk/collections/maps/
+  examples:
+   - title: Plan of the City of Oxford
+     type: manifest
+     url: https://iiif.bodleian.ox.ac.uk/iiif/manifest/f45ff5a5-8c14-435b-82b1-f95d61f530d0.json
+
+
+- title: e-manuscripta.ch
+  url: https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361
+  examples:
+   - title: Geometrischer Grundriss der Stadt Bern
+     type: manifest
+     url: https://www.e-manuscripta.ch/i3f/v20/798659/manifest
+
+
+- title: World Digital Library
+  url: https://www.wdl.org/en/search/?item_type=map
+  examples:
+   - title: Maps of Ezo, Sakhalin, and Kuril Islands
+     type: manifest
+     url: https://www.wdl.org/en/item/3/iiif/manifest.json
+
+
+- title: University of Texas Libraries
+  url: https://collections.lib.utexas.edu/?f%5Bdisplay_type_ms%5D%5B%5D=Maps&q=&search=&search_field=search
+  examples:
+   - title: "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]"
+     type: manifest
+     url: https://curio.lib.utexas.edu/manifests/utldams_utlmaps_177de5e8-21f1-444a-829a-386be9d57bd8.json
+
+
+- title: Orka, Universität Kassel
+  url: https://orka.bibliothek.uni-kassel.de/viewer/browse/-/1/-/DC:kartenundplaene/
+  examples:
+   - title: Plan der Stadt Cassel und Umgebung 1925
+     type: manifest
+     url: https://orka.bibliothek.uni-kassel.de/viewer/rest/iiif/manifests/1535113582549/manifest/
+
+
+- title: Illinois University Library
+  url: https://metadata.library.illinois.edu/collections#q=&fq%5B%5D=local_facet_repository%3AMap%20Library&q=&sort=
+  examples:
+   - title: "Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment."
+     type: manifest
+     url: https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest
+
+
+- title: University of Edinburgh
+  url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
+  examples:
+   - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
+     type: manifest
+     url: https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest
+
+
 # ======================================================================================================
 # ======================================================================================================
 
