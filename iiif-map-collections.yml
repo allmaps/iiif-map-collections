@@ -34,6 +34,10 @@
       type: image
       url: https://map-view.nls.uk/iiif/7447%2F74478965/info.json
 
+    - title: Inverness-shire - Mainland X.3
+      type: image
+      url: https://map-view.nls.uk/iiif/2/8288%2F82886967/info.json
+
 
 - title: Library of Congress
   url: https://www.loc.gov/maps/
@@ -81,6 +85,14 @@
       type: manifest
       url: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
 
+    - title: "Ashland Cotton Company (Cotton & Rayon), Jewett City, Conn."
+      type: manifest
+      url: https://ark.digitalcommonwealth.org/ark:/50959/2r36vc10j/manifest
+
+    - title: Winthrop Mills Company (Cotton & Woolen Cloth), Winthrop, Maine
+      type: manifest
+      url: https://ark.digitalcommonwealth.org/ark:/50959/2r36vc24w/manifest
+
 
 - title: Leventhal Map & Education Center
   url: https://collections.leventhalmap.org
@@ -93,9 +105,13 @@
       type: manifest
       url: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
 
-    # TODO: add
-    # https://collections.leventhalmap.org/search/commonwealth:7h14cv973
-    # https://collections.leventhalmap.org/search/commonwealth:7h14cv71z
+    - title: "General plan : Government Center - Boston - 1959"
+      type: manifest
+      url: https://collections.leventhalmap.org/search/commonwealth:7h14cv71z/manifest
+
+    - title: Inner belt, Southwest Expressway
+      type: manifest
+      url: https://collections.leventhalmap.org/search/commonwealth:7h14cv973/manifest
 
 
 # David Rumsey's IIIF server doesn't support CORS...
@@ -232,6 +248,10 @@
     - title: Aan de gemeente Rotterdam toe te voegen gebied
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+
+    - title: "Sleeswijk's kaart van Gooi- en Eemland : voor wandelaars, wielrijders en automobilisten : naar officieele gegevens bewerkt"
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/6357/manifest.json
 
 
 - title: "Wageningen University & Research: Map Collection Alterra"
