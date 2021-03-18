@@ -1,0 +1,2032 @@
+# TU Delft Library Special Collections
+# Map project 2007-2008
+# Total amount of maps: 943
+# Total amount of manifests: 674
+# Scanned in 2007: 765 (617 manifests)
+# Scanned in 2008: 178 (57 manifests)
+---
+- title: TU Delft Library
+  url: https://heritage.tudelft.nl/en/
+  examples:
+   - title: 'TRL-6.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.1.3'
+   - title: 'TRL-6.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.1.4'
+   - title: 'TRL-6.1.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.1.5'
+   - title: 'TRL-6.1.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.1.6'
+   - title: 'TRL-6.1.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.1.7'
+   - title: 'TRL-6.2.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.1'
+   - title: 'TRL-6.2.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.01'
+   - title: 'TRL-6.2.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.02'
+   - title: 'TRL-6.2.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.03'
+   - title: 'TRL-6.2.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.04'
+   - title: 'TRL-6.2.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.05'
+   - title: 'TRL-6.2.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.10'
+   - title: 'TRL-6.2.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.11'
+   - title: 'TRL-6.2.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.12'
+   - title: 'TRL-6.2.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.13'
+   - title: 'TRL-6.2.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.14'
+   - title: 'TRL-6.2.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.15'
+   - title: 'TRL-6.2.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.16'
+   - title: 'TRL-6.2.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.17'
+   - title: 'TRL-6.2.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.18'
+   - title: 'TRL-6.2.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.19'
+   - title: 'TRL-6.3.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.01'
+   - title: 'TRL-6.3.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.02'
+   - title: 'TRL-6.3.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.03'
+   - title: 'TRL-6.3.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.04'
+   - title: 'TRL-6.3.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.05'
+   - title: 'TRL-6.3.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.06'
+   - title: 'TRL-6.3.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.07'
+   - title: 'TRL-6.3.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.08'
+   - title: 'TRL-6.3.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.09'
+   - title: 'TRL-6.3.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.10'
+   - title: 'TRL-6.3.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.11'
+   - title: 'TRL-6.3.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.12'
+   - title: 'TRL-6.3.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.14'
+   - title: 'TRL-6.3.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.15'
+   - title: 'TRL-6.3.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.16'
+   - title: 'TRL-6.3.1.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.17'
+   - title: 'TRL-6.3.1.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.18'
+   - title: 'TRL-6.3.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.01'
+   - title: 'TRL-6.3.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.04'
+   - title: 'TRL-6.3.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.05'
+   - title: 'TRL-6.3.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.06'
+   - title: 'TRL-6.3.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.10'
+   - title: 'TRL-6.3.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.11'
+   - title: 'TRL-6.3.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.13'
+   - title: 'TRL-6.3.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.14'
+   - title: 'TRL-6.3.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.15'
+   - title: 'TRL-6.3.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.16'
+   - title: 'TRL-6.3.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.18'
+   - title: 'TRL-6.4.1-L01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L01'
+   - title: 'TRL-6.4.1-L03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L03'
+   - title: 'TRL-6.4.1-L04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L04'
+   - title: 'TRL-6.4.1-L05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L05'
+   - title: 'TRL-6.4.1-L06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L06'
+   - title: 'TRL-6.4.1-L08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L08'
+   - title: 'TRL-6.4.1-L09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L09'
+   - title: 'TRL-6.4.1-L10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L10'
+   - title: 'TRL-6.4.1-L11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L11'
+   - title: 'TRL-6.4.1-L14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L14'
+   - title: 'TRL-6.4.1-L15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L15'
+   - title: 'TRL-6.4.1-L16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L16'
+   - title: 'TRL-6.4.1-L17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L17'
+   - title: 'TRL-6.4.1-L19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L19'
+   - title: 'TRL-6.4.1-L20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L20'
+   - title: 'TRL-6.4.1-R01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R01'
+   - title: 'TRL-6.4.1-R02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R02'
+   - title: 'TRL-6.4.1-R03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R03'
+   - title: 'TRL-6.4.1-R04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R04'
+   - title: 'TRL-6.4.1-R05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R05'
+   - title: 'TRL-6.4.1-R07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R07'
+   - title: 'TRL-6.4.1-R08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R08'
+   - title: 'TRL-6.4.1-R09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R09'
+   - title: 'TRL-6.4.1-R10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R10'
+   - title: 'TRL-6.4.1-R11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R11'
+   - title: 'TRL-6.4.1-R12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R12'
+   - title: 'TRL-6.4.1-R13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R13'
+   - title: 'TRL-6.4.1-R14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R14'
+   - title: 'TRL-6.4.1-R15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R15'
+   - title: 'TRL-7.3.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.04'
+   - title: 'TRL-7.3.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.05'
+   - title: 'TRL-7.3.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.06'
+   - title: 'TRL-7.3.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.07'
+   - title: 'TRL-7.3.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.08'
+   - title: 'TRL-7.3.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.09'
+   - title: 'TRL-7.3.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.10'
+   - title: 'TRL-7.3.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.11'
+   - title: 'TRL-7.3.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.12'
+   - title: 'TRL-7.3.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.13'
+   - title: 'TRL-7.3.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.14'
+   - title: 'TRL-7.3.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.15'
+   - title: 'TRL-7.3.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.16'
+   - title: 'TRL-7.3.1.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.17'
+   - title: 'TRL-7.3.1.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.18'
+   - title: 'TRL-7.3.1.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.19'
+   - title: 'TRL-7.3.1.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.20'
+   - title: 'TRL-7.3.1.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.21'
+   - title: 'TRL-7.3.1.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.22'
+   - title: 'TRL-7.3.1.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.23'
+   - title: 'TRL-7.3.1.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.24'
+   - title: 'TRL-7.3.1.25'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.25'
+   - title: 'TRL-7.3.1.26'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.26'
+   - title: 'TRL-7.3.1.27'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.27'
+   - title: 'TRL-7.3.1.28'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.28'
+   - title: 'TRL-7.3.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.01'
+   - title: 'TRL-7.3.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.02'
+   - title: 'TRL-7.3.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.03'
+   - title: 'TRL-7.3.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.04'
+   - title: 'TRL-7.3.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.05'
+   - title: 'TRL-7.3.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.06'
+   - title: 'TRL-7.3.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.07'
+   - title: 'TRL-7.3.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.08'
+   - title: 'TRL-7.3.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.09'
+   - title: 'TRL-7.3.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.10'
+   - title: 'TRL-7.3.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.11'
+   - title: 'TRL-7.3.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.12'
+   - title: 'TRL-7.3.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.13'
+   - title: 'TRL-7.3.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.14'
+   - title: 'TRL-7.3.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.15'
+   - title: 'TRL-7.3.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.16'
+   - title: 'TRL-7.3.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.17'
+   - title: 'TRL-7.3.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.18'
+   - title: 'TRL-7.3.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.19'
+   - title: 'TRL-7.3.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.20'
+   - title: 'TRL-7.3.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.21'
+   - title: 'TRL-7.3.2.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.22'
+   - title: 'TRL-7.3.2.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.23'
+   - title: 'TRL-7.3.2.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.2.24'
+   - title: 'TRL-7.4.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.01'
+   - title: 'TRL-7.4.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.02'
+   - title: 'TRL-7.4.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.03'
+   - title: 'TRL-7.4.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.04'
+   - title: 'TRL-7.4.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.05'
+   - title: 'TRL-7.4.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.06'
+   - title: 'TRL-7.4.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.07'
+   - title: 'TRL-7.4.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.08'
+   - title: 'TRL-7.4.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.09'
+   - title: 'TRL-7.4.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.10'
+   - title: 'TRL-7.4.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.11'
+   - title: 'TRL-7.4.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.12'
+   - title: 'TRL-7.4.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.1.13'
+   - title: 'TRL-7.4.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.01'
+   - title: 'TRL-7.4.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.02'
+   - title: 'TRL-7.4.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.03'
+   - title: 'TRL-7.4.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.04'
+   - title: 'TRL-7.4.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.05'
+   - title: 'TRL-7.4.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.06'
+   - title: 'TRL-7.4.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.07'
+   - title: 'TRL-7.4.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.08'
+   - title: 'TRL-7.4.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.09'
+   - title: 'TRL-7.4.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.10'
+   - title: 'TRL-7.4.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.11'
+   - title: 'TRL-7.4.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.12'
+   - title: 'TRL-7.4.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.13'
+   - title: 'TRL-7.4.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.14'
+   - title: 'TRL-7.4.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.15'
+   - title: 'TRL-7.4.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.16'
+   - title: 'TRL-7.4.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.17'
+   - title: 'TRL-7.4.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.18'
+   - title: 'TRL-7.4.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.19'
+   - title: 'TRL-7.4.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.20'
+   - title: 'TRL-7.4.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.21'
+   - title: 'TRL-7.4.2.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.22'
+   - title: 'TRL-7.4.2.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.23'
+   - title: 'TRL-7.4.2.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.24'
+   - title: 'TRL-7.4.2.25'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.4.2.25'
+   - title: 'TRL-7.5.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.01'
+   - title: 'TRL-7.5.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.02'
+   - title: 'TRL-7.5.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.07'
+   - title: 'TRL-5.1.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.01'
+   - title: 'TRL-5.1.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.02'
+   - title: 'TRL-5.1.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.03'
+   - title: 'TRL-5.1.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.04'
+   - title: 'TRL-5.1.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.05'
+   - title: 'TRL-5.1.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.06'
+   - title: 'TRL-5.1.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.07'
+   - title: 'TRL-5.1.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.08'
+   - title: 'TRL-5.1.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.09'
+   - title: 'TRL-5.1.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.10'
+   - title: 'TRL-5.1.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.11'
+   - title: 'TRL-5.1.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.12'
+   - title: 'TRL-5.1.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.13'
+   - title: 'TRL-5.1.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.14'
+   - title: 'TRL-5.1.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.15'
+   - title: 'TRL-5.1.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.16'
+   - title: 'TRL-5.1.1.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.17'
+   - title: 'TRL-5.1.1.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.18'
+   - title: 'TRL-5.1.1.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.19'
+   - title: 'TRL-5.1.1.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.20'
+   - title: 'TRL-5.1.1.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.21'
+   - title: 'TRL-5.1.1.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.22'
+   - title: 'TRL-5.1.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.02'
+   - title: 'TRL-5.1.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.03'
+   - title: 'TRL-5.1.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.04'
+   - title: 'TRL-5.1.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.05'
+   - title: 'TRL-5.1.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.06'
+   - title: 'TRL-5.1.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.07'
+   - title: 'TRL-5.1.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.08'
+   - title: 'TRL-5.1.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.09'
+   - title: 'TRL-5.1.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.10'
+   - title: 'TRL-5.1.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.11'
+   - title: 'TRL-5.1.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.12'
+   - title: 'TRL-5.1.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.13'
+   - title: 'TRL-5.1.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.14'
+   - title: 'TRL-5.1.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.15'
+   - title: 'TRL-5.1.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.16'
+   - title: 'TRL-5.1.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.17'
+   - title: 'TRL-5.1.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.18'
+   - title: 'TRL-5.1.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.19'
+   - title: 'TRL-5.1.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.20'
+   - title: 'TRL-5.1.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.21'
+   - title: 'TRL-5.1.2.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.22'
+   - title: 'TRL-7.5.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.08'
+   - title: 'TRL-7.5.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.09'
+   - title: 'TRL-7.5.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.10'
+   - title: 'TRL-7.5.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.11'
+   - title: 'TRL-7.5.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.12'
+   - title: 'TRL-7.5.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.13'
+   - title: 'TRL-7.5.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.14'
+   - title: 'TRL-7.5.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.15'
+   - title: 'TRL-7.5.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.01'
+   - title: 'TRL-7.5.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.02'
+   - title: 'TRL-7.5.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.03'
+   - title: 'TRL-7.5.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.04'
+   - title: 'TRL-7.5.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.05'
+   - title: 'TRL-7.5.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.06'
+   - title: 'TRL-7.5.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.07'
+   - title: 'TRL-7.5.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.08'
+   - title: 'TRL-7.5.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.09'
+   - title: 'TRL-7.5.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.10'
+   - title: 'TRL-7.5.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.11'
+   - title: 'TRL-7.5.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.12'
+   - title: 'TRL-7.5.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.13'
+   - title: 'TRL-7.5.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.14'
+   - title: 'TRL-7.5.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.15'
+   - title: 'TRL-7.5.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.16'
+   - title: 'TRL-7.5.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.17'
+   - title: 'TRL-7.5.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.18'
+   - title: 'TRL-7.5.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.19'
+   - title: 'TRL-7.5.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.20'
+   - title: 'TRL-7.5.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.21'
+   - title: 'TRL-7.5.2.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.22'
+   - title: 'TRL-7.5.2.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.23'
+   - title: 'TRL-7.5.2.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.2.24'
+   - title: 'TRL-5.1.2.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.24'
+   - title: 'TRL-5.1.2.25'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.25'
+   - title: 'TRL-5.1.2.26'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.26'
+   - title: 'TRL-5.1.2.27'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.27'
+   - title: 'TRL-5.1.2.28'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.28'
+   - title: 'TRL-5.1.2.29'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.29'
+   - title: 'TRL-5.1.2.30'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.30'
+   - title: 'TRL-5.2.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.01'
+   - title: 'TRL-5.2.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.02'
+   - title: 'TRL-5.2.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.03'
+   - title: 'TRL-5.2.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.04'
+   - title: 'TRL-5.2.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.05'
+   - title: 'TRL-5.2.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.06'
+   - title: 'TRL-5.2.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.07'
+   - title: 'TRL-5.2.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.08'
+   - title: 'TRL-5.2.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.09'
+   - title: 'TRL-5.2.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.10'
+   - title: 'TRL-5.2.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.11'
+   - title: 'TRL-5.2.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.12'
+   - title: 'TRL-5.2.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.13'
+   - title: 'TRL-5.2.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.14'
+   - title: 'TRL-5.2.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.15'
+   - title: 'TRL-5.2.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.1.16'
+   - title: 'TRL-5.2.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.2.01'
+   - title: 'TRL-5.2.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.2.02'
+   - title: 'TRL-5.2.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.2.04'
+   - title: 'TRL-5.2.2.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.2.2.05'
+   - title: 'TRL-5.3.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.01'
+   - title: 'TRL-5.3.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.02'
+   - title: 'TRL-5.3.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.03'
+   - title: 'TRL-5.3.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.04'
+   - title: 'TRL-5.3.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.05'
+   - title: 'TRL-5.3.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.06'
+   - title: 'TRL-5.3.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.07'
+   - title: 'TRL-5.3.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.08'
+   - title: 'TRL-5.3.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.09'
+   - title: 'TRL-5.3.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.10'
+   - title: 'TRL-5.3.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.11'
+   - title: 'TRL-5.3.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.12'
+   - title: 'TRL-5.3.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.13'
+   - title: 'TRL-5.3.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.14'
+   - title: 'TRL-5.3.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.15'
+   - title: 'TRL-5.3.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.16'
+   - title: 'TRL-5.3.1.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.17'
+   - title: 'TRL-5.3.1.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.18'
+   - title: 'TRL-5.3.1.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.19'
+   - title: 'TRL-5.3.1.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.20'
+   - title: 'TRL-5.3.1.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.21'
+   - title: 'TRL-5.3.1.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.22'
+   - title: 'TRL-5.3.1.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.1.23'
+   - title: 'TRL-5.3.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.01'
+   - title: 'TRL-5.3.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.02'
+   - title: 'TRL-5.3.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.03'
+   - title: 'TRL-5.3.2.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.04'
+   - title: 'TRL-5.3.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.06'
+   - title: 'TRL-5.3.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.07'
+   - title: 'TRL-5.3.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.08'
+   - title: 'TRL-5.3.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.09'
+   - title: 'TRL-5.3.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.10'
+   - title: 'TRL-5.3.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.11'
+   - title: 'TRL-5.3.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.12'
+   - title: 'TRL-5.3.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.13'
+   - title: 'TRL-5.3.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.14'
+   - title: 'TRL-5.3.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.15'
+   - title: 'TRL-5.3.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.16'
+   - title: 'TRL-5.3.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.3.2.17'
+   - title: 'TRL-5.4.1-L01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L01'
+   - title: 'TRL-5.4.1-L02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L02'
+   - title: 'TRL-5.4.1-L03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L03'
+   - title: 'TRL-5.4.1-L04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L04'
+   - title: 'TRL-5.4.1-L05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L05'
+   - title: 'TRL-5.4.1-L06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L06'
+   - title: 'TRL-5.4.1-L07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L07'
+   - title: 'TRL-5.4.1-L08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L08'
+   - title: 'TRL-5.4.1-L09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L09'
+   - title: 'TRL-7.1.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.1.20'
+   - title: 'TRL-7.3.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.01'
+   - title: 'TRL-5.4.1-R02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-R02'
+   - title: 'TRL-5.4.1-R03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-R03'
+   - title: 'TRL-5.4.1-R04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-R04'
+   - title: 'TRL-5.4.1-R05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-R05'
+   - title: 'TRL-5.4.2-L01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L01'
+   - title: 'TRL-5.4.2-L02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L02'
+   - title: 'TRL-5.4.2-L03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L03'
+   - title: 'TRL-5.4.2-L04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L04'
+   - title: 'TRL-5.4.2-L05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L05'
+   - title: 'TRL-5.4.2-L06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L06'
+   - title: 'TRL-5.4.2-L07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L07'
+   - title: 'TRL-5.4.2-L08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L08'
+   - title: 'TRL-5.4.2-L09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L09'
+   - title: 'TRL-5.4.2-L10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L10'
+   - title: 'TRL-5.4.2-L11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L11'
+   - title: 'TRL-5.4.2-L12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L12'
+   - title: 'TRL-5.4.2-L13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L13'
+   - title: 'TRL-5.4.2-L14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.2-L14'
+   - title: 'TRL-6.2.2.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.06'
+   - title: 'TRL-6.2.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.07'
+   - title: 'TRL-6.2.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.08'
+   - title: 'TRL-6.2.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.2.2.09'
+   - title: 'TRL-6.3.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.1.13'
+   - title: 'TRL-6.3.2.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.02'
+   - title: 'TRL-6.3.2.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.03'
+   - title: 'TRL-6.3.2.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.07'
+   - title: 'TRL-6.3.2.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.08'
+   - title: 'TRL-6.3.2.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.09'
+   - title: 'TRL-6.3.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.12'
+   - title: 'TRL-6.3.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.3.2.17'
+   - title: 'TRL-6.4.1-L02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L02'
+   - title: 'TRL-6.4.1-L07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L07'
+   - title: 'TRL-6.4.1-L12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L12'
+   - title: 'TRL-6.4.1-L13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L13'
+   - title: 'TRL-6.4.1-L18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-L18'
+   - title: 'TRL-6.4.1-R06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.1-R06'
+   - title: 'TRL-6.4.2-L01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L01'
+   - title: 'TRL-6.4.2-L02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L02'
+   - title: 'TRL-6.4.2-L03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L03'
+   - title: 'TRL-6.4.2-L04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L04'
+   - title: 'TRL-6.4.2-L05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L05'
+   - title: 'TRL-6.4.2-L06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L06'
+   - title: 'TRL-6.4.2-L07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L07'
+   - title: 'TRL-6.4.2-L08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L08'
+   - title: 'TRL-6.4.2-L09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L09'
+   - title: 'TRL-6.4.2-L10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L10'
+   - title: 'TRL-6.4.2-L11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L11'
+   - title: 'TRL-6.4.2-L12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L12'
+   - title: 'TRL-6.4.2-L13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L13'
+   - title: 'TRL-6.4.2-L14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-L14'
+   - title: 'TRL-6.4.2-R01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R01'
+   - title: 'TRL-6.4.2-R02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R02'
+   - title: 'TRL-6.4.2-R04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R04'
+   - title: 'TRL-6.4.2-R05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R05'
+   - title: 'TRL-6.4.2-R06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R06'
+   - title: 'TRL-6.4.2-R07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R07'
+   - title: 'TRL-6.4.2-R08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R08'
+   - title: 'TRL-6.4.2-R09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R09'
+   - title: 'TRL-6.4.2-R10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R10'
+   - title: 'TRL-6.4.2-R11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R11'
+   - title: 'TRL-6.4.2-R12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R12'
+   - title: 'TRL-6.4.2-R13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R13'
+   - title: 'TRL-6.4.2-R17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R17'
+   - title: 'TRL-6.4.2-R18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.4.2-R18'
+   - title: 'TRL-6.5.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.01'
+   - title: 'TRL-6.5.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.02'
+   - title: 'TRL-6.5.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.03'
+   - title: 'TRL-6.5.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.04'
+   - title: 'TRL-6.5.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.05'
+   - title: 'TRL-6.5.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.06'
+   - title: 'TRL-6.5.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.07'
+   - title: 'TRL-6.5.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.08'
+   - title: 'TRL-6.5.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.09'
+   - title: 'TRL-6.5.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.01'
+   - title: 'TRL-6.5.2.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.2'
+   - title: 'TRL-6.5.2.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.3'
+   - title: 'TRL-6.5.2.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.4'
+   - title: 'TRL-7.3.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.02'
+   - title: 'TRL-7.3.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.3.1.03'
+   - title: 'TRK-9207-A09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRK-9207-A09'
+   - title: 'TRL-2.3-L1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-2.3-L1'
+   - title: 'TRL-2.3-L2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-2.3-L2'
+   - title: 'TRL-2.3-L3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-2.3-L3'
+   - title: 'TRL-2.3-L4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-2.3-L4'
+   - title: 'TRL-4.4.1-R01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-4.4.1-R01'
+   - title: 'TRL-4.4.1-R02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-4.4.1-R02'
+   - title: 'TRL-4.4.1-R03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-4.4.1-R03'
+   - title: 'TRL-4.4.1-R04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-4.4.1-R04'
+   - title: 'TRL-4.4.1-R05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-4.4.1-R05'
+   - title: 'TRL-5.1.1.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.23'
+   - title: 'TRL-6.5.2.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.5'
+   - title: 'TRL-6.5.2.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.6'
+   - title: 'TRL-6.5.2.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.7'
+   - title: 'TRL-6.5.2.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.8'
+   - title: 'TRL-6.5.2.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.9'
+   - title: 'TRL-6.5.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.10'
+   - title: 'TRL-6.5.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.11'
+   - title: 'TRL-6.5.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.12'
+   - title: 'TRL-6.5.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.13'
+   - title: 'TRL-6.5.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.14'
+   - title: 'TRL-6.5.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.15'
+   - title: 'TRL-6.5.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.16'
+   - title: 'TRL-6.5.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.2.17'
+   - title: 'TRL-7.5.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.03'
+   - title: 'TRL-7.5.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.04'
+   - title: 'TRL-7.5.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.05'
+   - title: 'TRL-7.5.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-7.5.1.06'
+   - title: 'TRL-11.3.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.1.1'
+   - title: 'TRL-11.3.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.1.2'
+   - title: 'TRL-11.3.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.1.3'
+   - title: 'TRL-11.3.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.1.4'
+   - title: 'TRL-11.3.2.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.2.1'
+   - title: 'TRL-11.3.2.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.2.2'
+   - title: 'TRL-11.3.2.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.2.3'
+   - title: 'TRL-11.3.2.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.2.4'
+   - title: 'TRL-11.3.3.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.3.1'
+   - title: 'TRL-11.3.3.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.3.2'
+   - title: 'TRL-11.3.3.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.3.3'
+   - title: 'TRL-11.3.3.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.3.4'
+   - title: 'TRL-11.3.3.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.3.3.5'
+   - title: 'TRL-11.4.1.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.01'
+   - title: 'TRL-11.4.1.02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.02'
+   - title: 'TRL-11.4.1.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.03'
+   - title: 'TRL-11.4.1.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.04'
+   - title: 'TRL-11.4.1.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.05'
+   - title: 'TRL-11.4.1.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.06'
+   - title: 'TRL-11.4.1.07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.07'
+   - title: 'TRL-11.4.1.08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.08'
+   - title: 'TRL-11.4.1.09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.09'
+   - title: 'TRL-11.4.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.10'
+   - title: 'TRL-11.4.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.11'
+   - title: 'TRL-11.4.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.12'
+   - title: 'TRL-11.4.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.13'
+   - title: 'TRL-11.4.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.4.1.14'
+   - title: 'TRL-11.5.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.1'
+   - title: 'TRL-11.5.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.2'
+   - title: 'TRL-11.5.03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.03'
+   - title: 'TRL-11.5.04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.04'
+   - title: 'TRL-11.5.05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.05'
+   - title: 'TRL-11.5.06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-11.5.06'
+   - title: 'TRL-12.1.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.1'
+   - title: 'TRL-12.1.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.2'
+   - title: 'TRL-12.1.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.3'
+   - title: 'TRL-12.1.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.4'
+   - title: 'TRL-12.1.1.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.5'
+   - title: 'TRL-12.1.1.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.9'
+   - title: 'TRL-12.1.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.10'
+   - title: 'TRL-12.1.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.11'
+   - title: 'TRL-12.1.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.13'
+   - title: 'TRL-12.1.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.14'
+   - title: 'TRL-12.1.1.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.15'
+   - title: 'TRL-12.1.1.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.16'
+   - title: 'TRL-12.1.1.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.17'
+   - title: 'TRL-12.1.1.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.18'
+   - title: 'TRL-12.1.1.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.19'
+   - title: 'TRL-12.1.1.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.20'
+   - title: 'TRL-12.1.1.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.21'
+   - title: 'TRL-12.1.1.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.22'
+   - title: 'TRL-12.1.1.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.23'
+   - title: 'TRL-12.1.1.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.24'
+   - title: 'TRL-12.1.1.25'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.25'
+   - title: 'TRL-12.1.1.26'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.26'
+   - title: 'TRL-12.1.1.27'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.27'
+   - title: 'TRL-12.1.1.28'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.28'
+   - title: 'TRL-12.1.2.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.1'
+   - title: 'TRL-12.1.2.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.2'
+   - title: 'TRL-12.1.2.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.3'
+   - title: 'TRL-12.1.2.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.4'
+   - title: 'TRL-12.1.2.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.5'
+   - title: 'TRL-12.1.2.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.6'
+   - title: 'TRL-12.1.2.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.7'
+   - title: 'TRL-12.1.2.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.8'
+   - title: 'TRL-12.1.2.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.9'
+   - title: 'TRL-12.1.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.10'
+   - title: 'TRL-12.1.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.11'
+   - title: 'TRL-12.1.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.12'
+   - title: 'TRL-12.1.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.13'
+   - title: 'TRL-12.1.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.14'
+   - title: 'TRL-12.1.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.15'
+   - title: 'TRL-12.1.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.16'
+   - title: 'TRL-12.1.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.17'
+   - title: 'TRL-12.1.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.18'
+   - title: 'TRL-12.1.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.19'
+   - title: 'TRL-12.1.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.20'
+   - title: 'TRL-12.1.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.21'
+   - title: 'TRL-12.1.2.22'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.22'
+   - title: 'TRL-12.1.2.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.23'
+   - title: 'TRL-12.1.2.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.24'
+   - title: 'TRL-12.1.2.25'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.25'
+   - title: 'TRL-12.1.2.26'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.2.26'
+   - title: 'TRL-12.2.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.1'
+   - title: 'TRL-12.2.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.2'
+   - title: 'TRL-12.2.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.3'
+   - title: 'TRL-12.2.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.4'
+   - title: 'TRL-12.2.1.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.5'
+   - title: 'TRL-12.2.1.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.6'
+   - title: 'TRL-12.2.1.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.7'
+   - title: 'TRL-12.2.1.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.8'
+   - title: 'TRL-12.2.1.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.9'
+   - title: 'TRL-12.2.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.10'
+   - title: 'TRL-12.2.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.11'
+   - title: 'TRL-12.2.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.12'
+   - title: 'TRL-12.2.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.13'
+   - title: 'TRL-12.2.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.14'
+   - title: 'TRL-12.2.1.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.1.24'
+   - title: 'TRL-12.2.2.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.1'
+   - title: 'TRL-12.2.2.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.2'
+   - title: 'TRL-12.2.2.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.3'
+   - title: 'TRL-12.2.2.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.4'
+   - title: 'TRL-12.2.2.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.5'
+   - title: 'TRL-12.2.2.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.6'
+   - title: 'TRL-12.2.2.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.7'
+   - title: 'TRL-12.2.2.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.8'
+   - title: 'TRL-12.2.2.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.9'
+   - title: 'TRL-12.2.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.10'
+   - title: 'TRL-12.2.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.11'
+   - title: 'TRL-12.2.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.12'
+   - title: 'TRL-12.2.2.17'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.17'
+   - title: 'TRL-12.2.2.18'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.18'
+   - title: 'TRL-12.2.2.19'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.19'
+   - title: 'TRL-12.2.2.20'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.20'
+   - title: 'TRL-12.2.2.21'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.21'
+   - title: 'TRL-12.3.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.1'
+   - title: 'TRL-12.3.1.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.6'
+   - title: 'TRL-12.3.1.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.7'
+   - title: 'TRL-12.3.1.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.8'
+   - title: 'TRL-12.3.1.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.9'
+   - title: 'TRL-12.3.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.10'
+   - title: 'TRL-12.3.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.11'
+   - title: 'TRL-12.3.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.12'
+   - title: 'TRL-12.3.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.13'
+   - title: 'TRL-12.3.1.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.14'
+   - title: 'TRL-12.4.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.1'
+   - title: 'TRL-12.4.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.2'
+   - title: 'TRL-12.4.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.3'
+   - title: 'TRL-12.4.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.4'
+   - title: 'TRL-12.4.1.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.5'
+   - title: 'TRL-12.4.1.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.6'
+   - title: 'TRL-12.4.1.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.7'
+   - title: 'TRL-12.4.1.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.8'
+   - title: 'TRL-12.4.1.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.9'
+   - title: 'TRL-12.4.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.10'
+   - title: 'TRL-12.4.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.11'
+   - title: 'TRL-12.4.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.12'
+   - title: 'TRL-12.4.1.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.1.13'
+   - title: 'TRL-12.4.2.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.1'
+   - title: 'TRL-12.4.2.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.2'
+   - title: 'TRL-12.4.2.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.3'
+   - title: 'TRL-12.4.2.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.4'
+   - title: 'TRL-12.4.2.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.5'
+   - title: 'TRL-12.4.2.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.6'
+   - title: 'TRL-12.4.2.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.7'
+   - title: 'TRL-12.4.2.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.8'
+   - title: 'TRL-12.4.2.9'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.9'
+   - title: 'TRL-12.4.2.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.10'
+   - title: 'TRL-12.4.2.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.11'
+   - title: 'TRL-12.4.2.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.12'
+   - title: 'TRL-12.4.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.13'
+   - title: 'TRL-12.4.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.4.2.14'
+   - title: 'TRL-12.5.1.1'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5.1.1'
+   - title: 'TRL-12.5.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5.1.2'
+   - title: 'TRL-12.5.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5.1.3'
+   - title: 'TRL-12.5.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5.1.4'
+   - title: 'TRL-12.5-L01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L01'
+   - title: 'TRL-12.5-L02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L02'
+   - title: 'TRL-12.5-L03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L03'
+   - title: 'TRL-12.5-L04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L04'
+   - title: 'TRL-12.5-L05'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L05'
+   - title: 'TRL-5.1.1.24'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.1.24'
+   - title: 'TRL-5.1.2.01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.01'
+   - title: 'TRL-5.1.2.23'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.1.2.23'
+   - title: 'TRL-5.4.1-L10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L10'
+   - title: 'TRL-5.4.1-L11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-L11'
+   - title: 'TRL-5.4.1-R01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-5.4.1-R01'
+   - title: 'TRL-6.5.1.10'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.10'
+   - title: 'TRL-6.5.1.11'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.11'
+   - title: 'TRL-6.5.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-6.5.1.12'
+   - title: 'TRL-12.1.1.6'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.6'
+   - title: 'TRL-12.1.1.7'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.7'
+   - title: 'TRL-12.1.1.8'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.8'
+   - title: 'TRL-12.1.1.12'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.1.1.12'
+   - title: 'TRL-12.2.2.13'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.13'
+   - title: 'TRL-12.2.2.14'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.14'
+   - title: 'TRL-12.2.2.15'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.15'
+   - title: 'TRL-12.2.2.16'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.2.2.16'
+   - title: 'TRL-12.3.1.2'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.2'
+   - title: 'TRL-12.3.1.3'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.3'
+   - title: 'TRL-12.3.1.4'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.4'
+   - title: 'TRL-12.3.1.5'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.3.1.5'
+   - title: 'TRL-12.5-L06'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L06'
+   - title: 'TRL-12.5-L07'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L07'
+   - title: 'TRL-12.5-L08'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L08'
+   - title: 'TRL-12.5-L09'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-L09'
+   - title: 'TRL-12.5-R01'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-R01'
+   - title: 'TRL-12.5-R02'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-R02'
+   - title: 'TRL-12.5-R03'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-R03'
+   - title: 'TRL-12.5-R04'
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-12.5-R04'
+   - title: TRL-33.02.08
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.02.08'
+   - title: TRL-33.1.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.1.02'
+   - title: TRL-33.1.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.1.03'
+   - title: TRL-33.2.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.01'
+   - title: TRL-33.2.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.02'
+   - title: TRL-33.2.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.03'
+   - title: TRL-33.2.04
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.04'
+   - title: TRL-33.2.05
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.05'
+   - title: TRL-33.2.06
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.06'
+   - title: TRL-33.2.07
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.07'
+   - title: TRL-33.2.11
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.11'
+   - title: TRL-33.2.12
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.2.12'
+   - title: TRL-33.3.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.01'
+   - title: TRL-33.3.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.02'
+   - title: TRL-33.3.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.03'
+   - title: TRL-33.3.04
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.04'
+   - title: TRL-33.3.05
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.05'
+   - title: TRL-33.3.18
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.18'
+   - title: TRL-33.3.19
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.19'
+   - title: TRL-33.3.20
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.20'
+   - title: TRL-33.3.21
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.21'
+   - title: TRL-33.3.22
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.22'
+   - title: TRL-33.3.23
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.3.23'
+   - title: TRL-33.4.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.01'
+   - title: TRL-33.4.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.02'
+   - title: TRL-33.4.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.03'
+   - title: TRL-33.4.04
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.04'
+   - title: TRL-33.4.05
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.05'
+   - title: TRL-33.4.06
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.06'
+   - title: TRL-33.4.07
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.07'
+   - title: TRL-33.4.08
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.08'
+   - title: TRL-33.4.09
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.09'
+   - title: TRL-33.4.10
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.10'
+   - title: TRL-33.4.11
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.11'
+   - title: TRL-33.4.12
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.4.12'
+   - title: TRL-33.5.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.01'
+   - title: TRL-33.5.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.02'
+   - title: TRL-33.5.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.03'
+   - title: TRL-33.5.04
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.04'
+   - title: TRL-33.5.05
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.05'
+   - title: TRL-33.5.06
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.06'
+   - title: TRL-33.5.07
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.07'
+   - title: TRL-33.5.08
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.08'
+   - title: TRL-33.5.09
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.09'
+   - title: TRL-33.5.10
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.10'
+   - title: TRL-33.5.11
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.11'
+   - title: TRL-33.5.12
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.5.12'
+   - title: TRL-33.6.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.01'
+   - title: TRL-33.6.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.02'
+   - title: TRL-33.6.03
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.03'
+   - title: TRL-33.6.04
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.04'
+   - title: TRL-33.6.05
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.05'
+   - title: TRL-33.6.06
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.06'
+   - title: TRL-33.6.07
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.07'
+   - title: TRL-33.6.08
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.6.08'
+   - title: TRL-33.7.01
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.7.01'
+   - title: TRL-33.7.02
+     type: manifest
+     url: 'https://dlc.services/iiif-resource/delft/string1string2string3/kaartenproject/TRL-33.7.02'
