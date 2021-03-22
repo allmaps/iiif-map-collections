@@ -2,13 +2,7 @@
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@id": "https://dlc.services/iiif-resource/7/string1/kaartenproject",
     "@type": "sc:Manifest",
-    "label": "Map project 2007-2008",
-    "metadata": [
-      {
-        "label": "Collection",
-        "value": "TU Delft Library, Special Collections"
-      }
-    ],
+    "label": "TU Delft Library, Special Collections",
     "sequences": [
       {
         "@id": "https://dlc.services/iiif-query/7/?sequence=n1&manifest=s1&canvas=n2&s1=kaartenproject&n1=",
