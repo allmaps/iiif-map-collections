@@ -74,6 +74,8 @@
       url: https://purl.stanford.edu/hs631zg4177/iiif/manifest
 
 
+
+
 - title: Digital Commonwealth - Massachusetts Collections Online
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
   examples:
@@ -368,33 +370,33 @@
 - title: Badische Landesbibliothek Karlsruhe
   url: https://digital.blb-karlsruhe.de/Karten/topic/view/178828
   examples:
-   - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
-     type: manifest
-     url: https://digital.blb-karlsruhe.de/i3f/v20/5339993/manifest
+    - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
+      type: manifest
+      url: https://digital.blb-karlsruhe.de/i3f/v20/5339993/manifest
 
 
 - title:  Gallica, Bibliothèque nationale de France
   url: https://gallica.bnf.fr/html/und/cartes/cartes?mode=desktop
   examples:
-   - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
-     type: manifest
-     url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192683w/manifest.json
+    - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
+      type: manifest
+      url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192683w/manifest.json
 
 
 - title: Bodleian Libraries
   url: https://digital.bodleian.ox.ac.uk/collections/maps/
   examples:
-   - title: Plan of the City of Oxford
-     type: manifest
-     url: https://iiif.bodleian.ox.ac.uk/iiif/manifest/f45ff5a5-8c14-435b-82b1-f95d61f530d0.json
+    - title: Plan of the City of Oxford
+      type: manifest
+      url: https://iiif.bodleian.ox.ac.uk/iiif/manifest/f45ff5a5-8c14-435b-82b1-f95d61f530d0.json
 
 
 - title: e-manuscripta.ch
   url: https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361
   examples:
-   - title: Geometrischer Grundriss der Stadt Bern
-     type: manifest
-     url: https://www.e-manuscripta.ch/i3f/v20/798659/manifest
+    - title: Geometrischer Grundriss der Stadt Bern
+      type: manifest
+      url: https://www.e-manuscripta.ch/i3f/v20/798659/manifest
 
 
 - title: World Digital Library
@@ -432,139 +434,189 @@
 - title: University of Edinburgh
   url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
   examples:
-   - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
-     type: manifest
-     url: https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest
+    - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
+      type: manifest
+      url: https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest
 
 
 - title: Yale University Library
   url: https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields
   examples:
-   - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
-     type: manifest
-     url: https://collections.library.yale.edu/manifests/2005511
+    - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
+      type: manifest
+      url: https://collections.library.yale.edu/manifests/2005511
+
+    - title: "Stanford's half-inch map of the battle front, Ostend, Zeebrugge, Bruges / Edward Stanford Ltd."
+      type: manifest
+      url: https://collections.library.yale.edu/manifests/15237953.json
+
+    - title: "Map of Canals and Navigable Rivers in Belgium and The North of France."
+      type: manifest
+      url: https://collections.library.yale.edu/manifests/15826830.json
+
+    - title: "Antwerp / engraved & printed by B.R. Davies ; drawn by W.B. Clarke."
+      type: manifest
+      url: https://collections.library.yale.edu/manifests/15352326.json
 
 
 - title: Zentral- und Landesbibliothek Berlin
   url: https://digital.zlb.de/viewer/search/-/%28DC%3A%22berlin.stadtplaenestadtansichten%22%29/1/SORT_YEARPUBLISH/-/
   examples:
-   - title: Die Churfürstlich Brandenburgisch nun Königlich Preussische Residenz Statt
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/34231622/manifest/
-   - title: Berlin und Cölln an der Spree vor dero Erweiterung
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/34231682/manifest/
-   - title: Die Königl. Preus. u. Churf. Brandenb. Residenz-Stadt Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453578/manifest/
-   - title: Berlin und Cölln an der Spree vor dero Erweiterung
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/34231671/manifest/
-   - title: Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15455043/manifest/
-   - title: Berlin und Umgegend
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453240/manifest/
-   - title: Grundriss der beyden Churf. Residentz Stätte Berlin und Cölln an der Spree
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452583/manifest/
-   - title: Plan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453751/manifest/
-   - title: Special-Plan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453560/manifest/
-   - title: Schwarz Stadtplan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15454953/manifest/
-   - title: Neuer geometrischer Plan der gesammten Königlich-Preussischen und Churfürstlich-Brandenburgischen Haupt und Residentzstadt Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453234/manifest/
-   - title: Kiessling's grosse Special-Karte der Umgegend von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452541/manifest/
-   - title: Grundriß der Beyden Churf. Residentz Stätte Berlin und Cölln an der Spree
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/34231578/manifest/
-   - title: Die Königl. Residenz Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453880/manifest/
-   - title: Plan de la Ville de Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453614/manifest/
-   - title: Grundriss der Königlichen Residenzstädte Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453274/manifest/
-   - title: Gegend bey Berlin und Potsdam
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453585/manifest/
-   - title: Grundriss der Königl. Residenzstädte Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15454999/manifest/
-   - title: Grundriss der Königl. Residenzstädte Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452831/manifest/
-   - title: Grundriss von Berlin und seinen naechsten Umgebungen
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15454959/manifest/
-   - title: Neuester Grundriss von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452793/manifest/
-   - title: Grundriss von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453876/manifest/
-   - title: Historischer Atlas von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453722/manifest/
-   - title: Manoeuver Plan der Gegend um Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453860/manifest/
-   - title: Neuester Grundriss von Berlin im Jahre 1842
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453211/manifest/
-   - title: Grundriss von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453856/manifest/
-   - title: Plan von Berlin und Umgegend bis Charlottenburg
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453676/manifest/
-   - title: Neuester Bebauungs-Plan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452733/manifest/
-   - title: Neuester Plan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453878/manifest/
-   - title: Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453195/manifest/
-   - title: Straube's neuer Radfahrer-Plan von Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/16325792/manifest/
-   - title: Grosser Verkehrs-Plan von Berlin mit seinen Vororten
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453873/manifest/
-   - title: Karte von Berlin und nächster Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453746/manifest/
-   - title: Karte von Berlin und weiterer Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15452979/manifest/
-   - title: Amtliche Entfernungskarte des Kreises Niederbarnim mit den Stadtkreisen Berlin und Lichtenberg
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/34354511/manifest/
-   - title: Karte von Gross-Berlin
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453186/manifest/
-   - title: Silva-Übersichtsplan von der Stadt Berlin und ihren 20 Verwaltungsbezirken
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453225/manifest/
-   - title: Wie fahr' ich?
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453867/manifest/
-   - title: Die Königl. Residenz Berlin, wie selbige sich um das Jahr 1723 präsentiret
-     type: manifest
-     url: https://digital.zlb.de/viewer/api/v1/records/15453001/manifest/
+    - title: Die Churfürstlich Brandenburgisch nun Königlich Preussische Residenz Statt
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/34231622/manifest/
+
+    - title: Berlin und Cölln an der Spree vor dero Erweiterung
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/34231682/manifest/
+
+    - title: Die Königl. Preus. u. Churf. Brandenb. Residenz-Stadt Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453578/manifest/
+
+    - title: Berlin und Cölln an der Spree vor dero Erweiterung
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/34231671/manifest/
+
+    - title: Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15455043/manifest/
+
+    - title: Berlin und Umgegend
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453240/manifest/
+
+    - title: Grundriss der beyden Churf. Residentz Stätte Berlin und Cölln an der Spree
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452583/manifest/
+
+    - title: Plan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453751/manifest/
+
+    - title: Special-Plan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453560/manifest/
+
+    - title: Schwarz Stadtplan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15454953/manifest/
+
+    - title: Neuer geometrischer Plan der gesammten Königlich-Preussischen und Churfürstlich-Brandenburgischen Haupt und Residentzstadt Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453234/manifest/
+
+    - title: Kiessling's grosse Special-Karte der Umgegend von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452541/manifest/
+
+    - title: Grundriß der Beyden Churf. Residentz Stätte Berlin und Cölln an der Spree
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/34231578/manifest/
+
+    - title: Die Königl. Residenz Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453880/manifest/
+
+    - title: Plan de la Ville de Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453614/manifest/
+
+    - title: Grundriss der Königlichen Residenzstädte Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453274/manifest/
+
+    - title: Gegend bey Berlin und Potsdam
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453585/manifest/
+
+    - title: Grundriss der Königl. Residenzstädte Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15454999/manifest/
+
+    - title: Grundriss der Königl. Residenzstädte Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452831/manifest/
+
+    - title: Grundriss von Berlin und seinen naechsten Umgebungen
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15454959/manifest/
+
+    - title: Neuester Grundriss von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452793/manifest/
+
+    - title: Grundriss von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453876/manifest/
+
+    - title: Historischer Atlas von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453722/manifest/
+
+    - title: Manoeuver Plan der Gegend um Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453860/manifest/
+
+    - title: Neuester Grundriss von Berlin im Jahre 1842
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453211/manifest/
+
+    - title: Grundriss von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453856/manifest/
+
+    - title: Plan von Berlin und Umgegend bis Charlottenburg
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453676/manifest/
+
+    - title: Neuester Bebauungs-Plan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452733/manifest/
+
+    - title: Neuester Plan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453878/manifest/
+
+    - title: Situations-Plan von Berlin mit dem Weichbilde und Charlottenburg
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453195/manifest/
+
+    - title: Straube's neuer Radfahrer-Plan von Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/16325792/manifest/
+
+    - title: Grosser Verkehrs-Plan von Berlin mit seinen Vororten
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453873/manifest/
+
+    - title: Karte von Berlin und nächster Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453746/manifest/
+
+    - title: Karte von Berlin und weiterer Umgebung mit der am 1. Juni 1906 in Kraft tretenden Gerichtseinteilung
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15452979/manifest/
+
+    - title: Amtliche Entfernungskarte des Kreises Niederbarnim mit den Stadtkreisen Berlin und Lichtenberg
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/34354511/manifest/
+
+    - title: Karte von Gross-Berlin
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453186/manifest/
+
+    - title: Silva-Übersichtsplan von der Stadt Berlin und ihren 20 Verwaltungsbezirken
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453225/manifest/
+
+    - title: Wie fahr' ich?
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453867/manifest/
+
+    - title: Die Königl. Residenz Berlin, wie selbige sich um das Jahr 1723 präsentiret
+      type: manifest
+      url: https://digital.zlb.de/viewer/api/v1/records/15453001/manifest/
 
 
 # ======================================================================================================

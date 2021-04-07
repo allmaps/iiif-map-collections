@@ -1,0 +1,108 @@
+{
+  "type": "Annotation",
+  "@context": [
+    "http://geojson.org/geojson-ld/geojson-context.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "motivation": "georeference",
+  "target": {
+    "type": "Image",
+    "source": "https://stacks.stanford.edu/image/iiif/hs631zg4177%2Fhs631zg4177_00_0001/full/full/0/default.jpg",
+    "service": [
+      {
+        "@id": "https://stacks.stanford.edu/image/iiif/hs631zg4177%2Fhs631zg4177_00_0001",
+        "type": "ImageService2",
+        "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+    ],
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg width=\"34342\" height=\"22939\"><polygon points=\"715,824 668,22108 33856,22280 33590,672 715,824\" /></svg>"
+    }
+  },
+  "body": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            15315,
+            13670
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            136.06,
+            35.33
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            27236,
+            16552
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            135.93,
+            35.12
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            12844,
+            9234
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            136.22,
+            35.39
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            19449,
+            11176
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            136.11,
+            35.22
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "image": [
+            7237,
+            9701
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            136.19,
+            35.53
+          ]
+        }
+      }
+    ]
+  }
+}
