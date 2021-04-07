@@ -430,6 +430,21 @@
      type: manifest
      url: https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest
 
+   - title:  The Mississippi
+     type: manifest
+     url: https://digital.library.illinois.edu/items/11bcdd70-d1ed-0137-6f52-02d0d7bfd6e4-c/manifest
+
+   - title: "Topographical map of the Tri Cities Davenport Ia, Rock Island and Moline IlL. showing the Rock Island Arsenal, Rock Island Rapids and the western terminus of the Illinois and Mississippi Canal compiled and drawn from actual surveys, government, state, county and city records by M. Huebinger, S. Wangersheim, lith., Chicago."
+     type: manifest
+     url: https://digital.library.illinois.edu/items/8b29c4b0-d675-0137-6f52-02d0d7bfd6e4-d/manifest
+
+   - title: "Upper Mississippi River Hastings, Minnesota to Grafton, Illinois survey 1929-1930, surveyed and drawn by W.N. Brown, Inc., Washington, D.C. under contract with the U.S. Engineer Office, Rock Island, Ill., Major C.L. Hall, District Engineer."
+     type: manifest
+     url: https://digital.library.illinois.edu/items/8b097c70-d675-0137-6f52-02d0d7bfd6e4-7/manifest
+
+   - title: Port facilities on Mississippi River
+     type: manifest
+     url: https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest
 
 - title: University of Edinburgh
   url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
