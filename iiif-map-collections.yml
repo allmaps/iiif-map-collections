@@ -54,8 +54,13 @@
       type: manifest
       url: https://www.loc.gov/item/98688748/manifest.json
 
-    # TODO: add
-    # https://www.loc.gov/resource/g3851e.ct004586/?r=-0.864,-0.122,2.913,1.52,0
+    - title: Plan of Rome
+      type: manifest
+      url: https://www.loc.gov/item/2018588032/manifest.json
+
+    - title: Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894
+      type: manifest
+      url: https://www.loc.gov/item/87694060/manifest.json
 
 
 - title: Stanford Libraries
@@ -430,7 +435,7 @@
      type: manifest
      url: https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest
 
-   - title:  The Mississippi
+   - title: The Mississippi
      type: manifest
      url: https://digital.library.illinois.edu/items/11bcdd70-d1ed-0137-6f52-02d0d7bfd6e4-c/manifest
 
@@ -632,6 +637,26 @@
     - title: Die Königl. Residenz Berlin, wie selbige sich um das Jahr 1723 präsentiret
       type: manifest
       url: https://digital.zlb.de/viewer/api/v1/records/15453001/manifest/
+
+
+- title: Utrecht University Library Special Collections
+  url: https://www.uu.nl/en/utrecht-university-library-special-collections/collections/maps-and-atlases
+  # To get the IIIIF Image URL, copy the value of img=<image-path> from the img.php URL. For example:
+  # http://objects.library.uu.nl/reader/img.php?obj=1874-274255&img=<image-path>.jpg
+  # Use that value to create a IIIF Image URL:
+  # https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/<image-path>.jp2/info.json
+  examples:
+    - title: "Purmer : de Purmer is gemeeten A° 1622 door Mr. Lucas Iansz Zinck landmeter, en op nieuws oversien verbeetert en in 't licht gebragt A° 1683 door Ioannes Leupenius landmeter."
+      type: image
+      url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/60/82/67/60826765847502039061478934746532282060.jp2/info.json
+
+    - title: "Chaerte vande Wieringer waert : de welcke inden jaere xvi c acht begost is bedyckt te worden ... dat de landen daer inne bedyckt ter nombre van 1895 morgens van 720 roeden de morgen Geestmeerambachts landtmaete of 600 roen binnenbanse ofte Sypse dyckmaete : by alle Contribuanten en gewillighe Bedyckers op den xij.de Julii Ao. xvj c xi by blinde lotinge gekavelt ende gedeelt zyn"
+      type: image
+      url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/40/62/80/40628087387683287288049825798881270832.jp2/info.json
+
+    - title: Urbis Traiecti ad Rhenum novissima et accuratissima delineatio
+      type: image
+      url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/87/40/118740207246035919625727383986846718971.jp2/info.json
 
 
 # ======================================================================================================
