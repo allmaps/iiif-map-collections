@@ -1,6 +1,6 @@
 - title: National Library of Scotland
   id: nls
-  url: https://maps.nls.uk/geo/find
+  url: https://maps.nls.uk/
   # Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
@@ -58,6 +58,7 @@
 
 
 - title: Digital Commonwealth - Massachusetts Collections Online
+  id: digital-commonwealth
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
   examples:
     - title: Aeronautical view of the Panama Canal
@@ -115,7 +116,8 @@
 #       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
-- title: Miami Libraries
+- title: University of Miami Libraries
+  id: university-of-miami-libraries
   url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/title/ad/asc
   examples:
     - title: A new & accurate map of the Island of Cuba
@@ -317,6 +319,7 @@
 
 
 - title: e-rara, the platform for digitized rare books from Swiss institutions
+  id: e-rara
   url: https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22
   examples:
     - title: Reliefkarte der Centralschweiz
@@ -329,6 +332,7 @@
 
 
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
+  id: det-kgl-bibliotek
   url: http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
@@ -341,6 +345,7 @@
 
 
 - title: Harvard Library Digital Collections
+  id: harvard-library
   url: https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields
   examples:
     - title: Mil.-Geo.-Plan von Leningrad
@@ -412,6 +417,7 @@
 
 
 - title: University of Texas Libraries
+  id: university-of-texas-libraries
   url: https://collections.lib.utexas.edu/?f%5Bdisplay_type_ms%5D%5B%5D=Maps&q=&search=&search_field=search
   examples:
    - title: "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]"
@@ -428,6 +434,7 @@
 
 
 - title: Illinois University Library
+  id: illinois-university-library
   url: https://metadata.library.illinois.edu/collections#q=&fq%5B%5D=local_facet_repository%3AMap%20Library&q=&sort=
   examples:
    - title: "Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment."
@@ -459,6 +466,7 @@
 
 
 - title: Yale University Library
+  id: yale-university-library
   url: https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields
   examples:
     - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
@@ -479,6 +487,7 @@
 
 
 - title: Zentral- und Landesbibliothek Berlin
+  id: zentral-und-landesbibliothek-berlin
   url: https://digital.zlb.de/viewer/search/-/%28DC%3A%22berlin.stadtplaenestadtansichten%22%29/1/SORT_YEARPUBLISH/-/
   examples:
     - title: Die Churfürstlich Brandenburgisch nun Königlich Preussische Residenz Statt
@@ -639,6 +648,7 @@
 
 
 - title: Utrecht University Library Special Collections
+  id: utrecht-university-library
   url: https://www.uu.nl/en/utrecht-university-library-special-collections/collections/maps-and-atlases
   # To get the IIIIF Image URL, copy the value of img=<image-path> from the img.php URL. For example:
   # http://objects.library.uu.nl/reader/img.php?obj=1874-274255&img=<image-path>.jpg
