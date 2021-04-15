@@ -41,7 +41,7 @@
 
 
 - title: Stanford Libraries
-  id: stanford-libraries
+  id: stanford
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
     - title: Map of city of Palo Alto, Santa Clara Co., Calif
@@ -158,8 +158,8 @@
 
 
 - title: Library of Congress Maps
-  url: https://www.loc.gov/maps/
   id: loc
+  url: https://www.loc.gov/maps/
   examples:
     - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
       type: manifest
@@ -207,6 +207,7 @@
 
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
+  id: vu
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
   examples:
     - title: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
@@ -291,6 +292,7 @@
 
 
 - title: University of Groningen
+  id: university-of-groningen
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten
   examples:
     - title: "Provinciekaarten van Nederland - [2]: Friesland"
@@ -303,6 +305,7 @@
 
 
 - title: Princeton University Library
+  id: princeton
   url: https://maps.princeton.edu/?layer_geom_type_s%5D%5B%5D=Image&search_field=all_fields
   examples:
     - title: The environs of Dublin
@@ -345,7 +348,7 @@
 
 
 - title: Harvard Library Digital Collections
-  id: harvard-library
+  id: harvard
   url: https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields
   examples:
     - title: Mil.-Geo.-Plan von Leningrad
@@ -369,6 +372,7 @@
 
 
 - title: Ibero-Amerikanisches Institut
+  id: iai
   url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
   examples:
     - title: Province De New-York
@@ -377,6 +381,7 @@
 
 
 - title: Badische Landesbibliothek Karlsruhe
+  id: blb-karlsruhe
   url: https://digital.blb-karlsruhe.de/Karten/topic/view/178828
   examples:
     - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
@@ -385,6 +390,7 @@
 
 
 - title: Gallica, Bibliothèque nationale de France
+  id: gallica-bnf
   url: https://gallica.bnf.fr/html/und/cartes/cartes?mode=desktop
   examples:
     - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
@@ -393,6 +399,7 @@
 
 
 - title: Bodleian Libraries
+  id: bodleian-libraries
   url: https://digital.bodleian.ox.ac.uk/collections/maps/
   examples:
     - title: Plan of the City of Oxford
@@ -401,6 +408,7 @@
 
 
 - title: e-manuscripta.ch
+  id: e-manuscripta
   url: https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361
   examples:
     - title: Geometrischer Grundriss der Stadt Bern
@@ -409,6 +417,7 @@
 
 
 - title: World Digital Library
+  id: wdl
   url: https://www.wdl.org/en/search/?item_type=map
   examples:
    - title: Maps of Ezo, Sakhalin, and Kuril Islands
@@ -426,6 +435,7 @@
 
 
 - title: Orka, Universität Kassel
+  id: uni-kassel
   url: https://orka.bibliothek.uni-kassel.de/viewer/browse/-/1/-/DC:kartenundplaene/
   examples:
    - title: Plan der Stadt Cassel und Umgebung 1925
@@ -458,6 +468,7 @@
      url: https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest
 
 - title: University of Edinburgh
+  id: university-of-edinburgh
   url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
   examples:
     - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
@@ -466,7 +477,7 @@
 
 
 - title: Yale University Library
-  id: yale-university-library
+  id: yale
   url: https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields
   examples:
     - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
