@@ -39,30 +39,6 @@
       url: https://map-view.nls.uk/iiif/2/8288%2F82886967/info.json
 
 
-- title: Library of Congress
-  url: https://www.loc.gov/maps/
-  examples:
-    - title: Map of the seat of war showing the battles of July 18th & 21st, 1861
-      type: manifest
-      url: https://www.loc.gov/item/lva0000010/manifest.json
-
-    - title: New York Central and Hudson River Railroad.
-      type: manifest
-      url: https://www.loc.gov/item/98688736/manifest.json
-
-    - title: Northern Pacific Railroad Co.--completed road, September 5th, 1882.
-      type: manifest
-      url: https://www.loc.gov/item/98688748/manifest.json
-
-    - title: Plan of Rome
-      type: manifest
-      url: https://www.loc.gov/item/2018588032/manifest.json
-
-    - title: Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894
-      type: manifest
-      url: https://www.loc.gov/item/87694060/manifest.json
-
-
 - title: Stanford Libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
@@ -77,8 +53,6 @@
     - title: Ōmi Kuni-ezu -- 近江國絵圖
       type: manifest
       url: https://purl.stanford.edu/hs631zg4177/iiif/manifest
-
-
 
 
 - title: Digital Commonwealth - Massachusetts Collections Online
@@ -203,6 +177,26 @@
     - title: General Karte vom Preussischen Staate mit den Gränzen der Regierungs-Bezirke und landräthlichen Kreise
       type: manifest
       url: https://www.loc.gov/item/2018588025/manifest.json
+
+    - title: Map of the seat of war showing the battles of July 18th & 21st, 1861
+      type: manifest
+      url: https://www.loc.gov/item/lva0000010/manifest.json
+
+    - title: New York Central and Hudson River Railroad.
+      type: manifest
+      url: https://www.loc.gov/item/98688736/manifest.json
+
+    - title: Northern Pacific Railroad Co.--completed road, September 5th, 1882.
+      type: manifest
+      url: https://www.loc.gov/item/98688748/manifest.json
+
+    - title: Plan of Rome
+      type: manifest
+      url: https://www.loc.gov/item/2018588032/manifest.json
+
+    - title: Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894
+      type: manifest
+      url: https://www.loc.gov/item/87694060/manifest.json
 
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
