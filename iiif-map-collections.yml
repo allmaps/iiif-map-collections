@@ -1,4 +1,5 @@
 - title: National Library of Scotland
+  id: nls
   url: https://maps.nls.uk/geo/find
   # Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
   examples:
@@ -40,6 +41,7 @@
 
 
 - title: Stanford Libraries
+  id: stanford-libraries
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   examples:
     - title: Map of city of Palo Alto, Santa Clara Co., Calif
@@ -76,6 +78,7 @@
 
 
 - title: Leventhal Map & Education Center
+  id: lmec
   url: https://collections.leventhalmap.org
   examples:
     - title: The town of Boston in New England
@@ -143,7 +146,8 @@
       url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
 
 
-- title: Universiteit Leiden
+- title: Leiden University
+  id: leiden-university
   url: https://digitalcollections.universiteitleiden.nl/islandora/search?type=dismax&islandora_solr_search_navigation=0&f[0]=RELS_EXT_isMemberOfCollection_uri_ms:%22info\:fedora\/collection\:ubl_maps%22
   examples:
     - title: "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13"
@@ -153,6 +157,7 @@
 
 - title: Library of Congress Maps
   url: https://www.loc.gov/maps/
+  id: loc
   examples:
     - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
       type: manifest
