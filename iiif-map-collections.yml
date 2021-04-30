@@ -31,9 +31,9 @@
       type: image
       url: https://mapview.nls.uk/iiif/10145/101456111/info.json
 
-    - title: Inverness-shire - Mainland X.3 (Combined)
-      type: image
-      url: https://map-view.nls.uk/iiif/7447%2F74478965/info.json
+    # - title: Inverness-shire - Mainland X.3 (Combined)
+    #   type: image
+    #   url: https://map-view.nls.uk/iiif/7447%2F74478965/info.json
 
     - title: Inverness-shire - Mainland X.3
       type: image
@@ -332,6 +332,15 @@
     - title: Die Oberitalienischen Seen und ihr Excursionsgebiet
       type: manifest
       url: https://www.e-rara.ch/i3f/v20/6484723/manifest
+
+
+- title: Polona
+  id: polona
+  url: https://polona.pl/search/?filters=category:maps,public:1,hasTextContent:0
+  examples:
+    - title: "Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000"
+      type: manifest
+      url: https://polona.pl/iiif/item/NTU5NTE4OTg/manifest.json
 
 
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
