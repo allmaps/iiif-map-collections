@@ -126,6 +126,7 @@
 
 
 - title: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
+  include: false
   examples:
     - title: 1985-1014 Plattegrond van het centrum van Rotterdam rond 1930. De plattegrond is gebaseerd op de bladen 5, 6, 8, en 9 van de Plattegrond der gemeente Rotterdam, schaal 1:5.000, respectievelijk uitgegeven in de jaren 1935, 1928, 1935 en 1926.
       type: image
@@ -345,15 +346,15 @@
 
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
   id: det-kgl-bibliotek
-  url: http://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
+  url: https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
       type: manifest
-      url: http://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
+      url: https://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
 
     - title: Grundritning öfver Stockholms Stad N° I
       type: manifest
-      url: http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
+      url: https://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
 
 
 - title: Harvard Library Digital Collections
