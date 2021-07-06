@@ -245,7 +245,7 @@
 
     - title: River Nieuwe Maas and Rotterdam's havens
       type: manifest
-      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2891/manifest.json
+      url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:2891/manifest.json
 
     - title: Grondkaart der stad Rotterdam, op het einde der XVI eeuw
       type: manifest
@@ -437,6 +437,7 @@
 
 - title: University of Texas Libraries
   id: university-of-texas-libraries
+  include: false
   url: https://collections.lib.utexas.edu/?f%5Bdisplay_type_ms%5D%5B%5D=Maps&q=&search=&search_field=search
   examples:
    - title: "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]"
@@ -688,6 +689,11 @@
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/87/40/118740207246035919625727383986846718971.jp2/info.json
 
+    - title: "Het eiland Ameland, voormaals eene heerlijkheid, later de 31e grietenij der provincie Friesland : thans kadastrale gemeenten 1. Ballum 2. Nes, behoorende tot het IIIe kanton (Holwerd) Ie arrondissement (Leeuwarden), opgemaakt in 1854 ..."
+      type: image
+      url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/04/00/110400342046991889344064150380191603423.jp2/info.json
+
+
 - title: Center for Sacramento History
   id: center-for-sacramento-history
   url: https://archive.org/details/cshtext?and[]=subject%3A%22CSH+Map+Digitization+Project%22
@@ -699,7 +705,7 @@
     - title: Map of the State of California
       type: manifest
       url: https://iiif.archivelab.org/iiif/map198204401/manifest.json
-    
+
     - title: Plano de la Ciudad de Mexico
       type: manifest
       url: https://iiif.archivelab.org/iiif/map19820040456/manifest.json
@@ -707,6 +713,7 @@
     - title: Principal Automobile Routes through the city of Sacramento
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
+
 
 # ======================================================================================================
 # ======================================================================================================
