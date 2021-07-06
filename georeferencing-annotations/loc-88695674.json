@@ -35,7 +35,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 1823,
                 6656
               ]
@@ -51,7 +51,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 1360,
                 4110
               ]
@@ -67,7 +67,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 2363,
                 4643
               ]
@@ -112,7 +112,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 3525,
                 622
               ]
@@ -128,7 +128,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 2840,
                 3153
               ]
@@ -144,7 +144,7 @@
           {
             "type": "Feature",
             "properties": {
-              "image": [
+              "pixelCoords": [
                 4493,
                 4795
               ]

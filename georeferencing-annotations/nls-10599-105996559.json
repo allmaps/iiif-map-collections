@@ -25,7 +25,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             5218,
             4034
           ]
@@ -41,7 +41,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             2652,
             7873
           ]
@@ -57,7 +57,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             4729,
             6896
           ]

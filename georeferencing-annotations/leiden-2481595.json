@@ -27,7 +27,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             8116,
             2609
           ]
@@ -43,7 +43,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             8226,
             2859
           ]
@@ -59,7 +59,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             7122,
             2600
           ]
@@ -75,7 +75,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             8104,
             2098
           ]
@@ -91,7 +91,7 @@
       {
         "type": "Feature",
         "properties": {
-          "image": [
+          "pixelCoords": [
             8409,
             2276
           ]
