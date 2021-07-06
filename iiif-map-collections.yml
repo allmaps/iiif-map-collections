@@ -688,6 +688,25 @@
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/87/40/118740207246035919625727383986846718971.jp2/info.json
 
+- title: Center for Sacramento History
+  id: center-for-sacramento-history
+  url: https://archive.org/details/cshtext?and[]=subject%3A%22CSH+Map+Digitization+Project%22
+  # Extract archive.org id from object url:
+  # https://archive.org/details/[id]
+  # Add id to the following scheme to fetch IIIF manifest:
+  # https://iiif.archivelab.org/iiif/[id]/manifest.json
+  examples:
+    - title: Map of the State of California
+      type: manifest
+      url: https://iiif.archivelab.org/iiif/map198204401/manifest.json
+    
+    - title: Plano de la Ciudad de Mexico
+      type: manifest
+      url: https://iiif.archivelab.org/iiif/map19820040456/manifest.json
+
+    - title: Principal Automobile Routes through the city of Sacramento
+      type: manifest
+      url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
 # ======================================================================================================
 # ======================================================================================================
