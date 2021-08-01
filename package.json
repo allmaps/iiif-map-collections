@@ -1,11 +1,11 @@
 {
   "name": "iiif-map-collections",
   "version": "1.0.0",
+  "type": "module",
   "description": "This repository contains a curated list of collections of scanned maps that can be accessed with [IIIF](https://iiif.io/).",
   "scripts": {
     "build": "js-yaml iiif-map-collections.yml > public/iiif-map-collections.json",
     "deploy": "npm run build; push-dir --dir=public --branch=gh-pages --cleanup"
-
   },
   "repository": {
     "type": "git",
