@@ -721,6 +721,13 @@
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
+- title: Gouda Tijdmachine
+  id: gouda-tijdmachine
+  url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
+  examples:
+    - title: Kadastrale kaart (minuutplan) Gouda, sectie B
+      type: manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest?manifest=https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
 
 # ======================================================================================================
 # ======================================================================================================
