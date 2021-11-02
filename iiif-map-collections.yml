@@ -207,7 +207,14 @@
     - title: Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894
       type: manifest
       url: https://www.loc.gov/item/87694060/manifest.json
+      
+    - title: Sanborn Fire Insurance Map from Chicago, Cook County, Illinois.
+      type: manifest
+      url: https://www.loc.gov/item/sanborn01790_014/manifest.json
 
+    - title: "Atlas of the city of New York, Manhattan Island : from actual surveys and official plans"
+      type: manifest
+      url: https://www.loc.gov/item/2010587355/manifest.json
 
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   id: vu
@@ -722,6 +729,13 @@
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
+- title: Gouda Tijdmachine
+  id: gouda-tijdmachine
+  url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
+  examples:
+    - title: Kadastrale kaart (minuutplan) Gouda, sectie B
+      type: manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest?manifest=https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
 
 - title: National Library of Israel
   id: national-library-of-israel
