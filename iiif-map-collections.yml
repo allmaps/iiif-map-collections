@@ -81,6 +81,7 @@
 - title: Leventhal Map & Education Center
   id: lmec
   url: https://collections.leventhalmap.org
+  api: https://collections.leventhalmap.org/search.json
   examples:
     - title: The town of Boston in New England
       type: manifest
@@ -161,6 +162,7 @@
 - title: Library of Congress Maps
   id: loc
   url: https://www.loc.gov/maps/
+  api: https://www.loc.gov/maps/?q=&fo=json
   examples:
     - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
       type: manifest
@@ -338,10 +340,15 @@
 - title: Polona
   id: polona
   url: https://polona.pl/search/?filters=category:maps,public:1,hasTextContent:0
+  api: https://polona.pl/api/entities/?filters=category%3Amaps+public%3A1+has_text_content%3A0&format=json&seed=1
   examples:
     - title: "Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000"
       type: manifest
       url: https://polona.pl/iiif/item/NTU5NTE4OTg/manifest.json
+
+    - title: "Atlas Der Alten Welt in XVI illuminirten Charten : nach den besten Hülfsmitteln zum Gebrauch in Gymnasien"
+      type: manifest
+      url: https://polona.pl/iiif/item/NzI3NDg5MTQ/manifest.json
 
 
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
@@ -386,7 +393,7 @@
   url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
   examples:
     - title: Province De New-York
-      type: manifest
+      type: image
       url: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
 
 
@@ -478,6 +485,7 @@
      type: manifest
      url: https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest
 
+
 - title: University of Edinburgh
   id: university-of-edinburgh
   url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
@@ -497,15 +505,15 @@
 
     - title: "Stanford's half-inch map of the battle front, Ostend, Zeebrugge, Bruges / Edward Stanford Ltd."
       type: manifest
-      url: https://collections.library.yale.edu/manifests/15237953.json
+      url: https://collections.library.yale.edu/manifests/15237953
 
     - title: "Map of Canals and Navigable Rivers in Belgium and The North of France."
       type: manifest
-      url: https://collections.library.yale.edu/manifests/15826830.json
+      url: https://collections.library.yale.edu/manifests/15826830
 
     - title: "Antwerp / engraved & printed by B.R. Davies ; drawn by W.B. Clarke."
       type: manifest
-      url: https://collections.library.yale.edu/manifests/15352326.json
+      url: https://collections.library.yale.edu/manifests/15352326
 
 
 - title: Zentral- und Landesbibliothek Berlin
@@ -714,6 +722,14 @@
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
+
+- title: National Library of Israel
+  id: national-library-of-israel
+  url: https://www.nli.org.il/he/discover/maps
+  examples:
+    - title: Nähere Umgebung von Jerusalem [cartographic material]
+      type: image
+      url: https://iiif.nli.org.il/IIIFv21/FL25567831/info.json
 
 # ======================================================================================================
 # ======================================================================================================
