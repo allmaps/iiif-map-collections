@@ -207,7 +207,7 @@
     - title: Map of the city of Washington showing location of fatal cases of zymotic diseases for the year ending June 30, 1894
       type: manifest
       url: https://www.loc.gov/item/87694060/manifest.json
-      
+
     - title: Sanborn Fire Insurance Map from Chicago, Cook County, Illinois.
       type: manifest
       url: https://www.loc.gov/item/sanborn01790_014/manifest.json
@@ -266,11 +266,15 @@
 
     - title: Aan de gemeente Rotterdam toe te voegen gebied
       type: manifest
-      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2480/manifest.json
+      url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:2480/manifest.json
 
     - title: "Sleeswijk's kaart van Gooi- en Eemland : voor wandelaars, wielrijders en automobilisten : naar officieele gegevens bewerkt"
       type: manifest
-      url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/6357/manifest.json
+      url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:6357/manifest.json
+
+    - title: Polderkaart van de landen tusschen Maas en ij / door W.H. Hoekwater
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:373/manifest.json
 
 
 - title: "Wageningen University & Research: Map Collection Alterra"
@@ -735,7 +739,11 @@
   examples:
     - title: Kadastrale kaart (minuutplan) Gouda, sectie B
       type: manifest
-      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest?manifest=https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
+
+    - title: Stadsplattegrond van Gouda
+      type: manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/165/manifest
 
 - title: National Library of Israel
   id: national-library-of-israel
@@ -744,6 +752,7 @@
     - title: Nähere Umgebung von Jerusalem [cartographic material]
       type: image
       url: https://iiif.nli.org.il/IIIFv21/FL25567831/info.json
+
 
 # ======================================================================================================
 # ======================================================================================================
