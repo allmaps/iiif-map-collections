@@ -754,6 +754,31 @@
       url: https://iiif.nli.org.il/IIIFv21/FL25567831/info.json
 
 
+- title: University of Toronto Libraries
+  id: utoronto
+  url: https://mdlcollections.library.utoronto.ca/islandora/search?page=5&islandora_solr_search_navigation=0&f%5B0%5D=RELS_EXT_isMemberOfCollection_uri_ms%3A%22info%5C%3Afedora%5C/mdl%5C%3Amaps%22
+  examples:
+    - title: Topographic map of the Niagara Gorge
+      type: manifest
+      url: https://iiif.library.utoronto.ca/presentation/v2/mdl:G3312_N52_C222_12_1912/manifest
+
+    - title: Street map of Vancouver ; Street map of Victoria
+      type: manifest
+      url: https://iiif.library.utoronto.ca/presentation/v2/mdl:G3574_V3_50_1952/manifest
+    
+    - title: South Norway Road Map
+      type: manifest
+      url: https://iiif.library.utoronto.ca/presentation/v2/mdl:1685/manifest
+
+    - title: Town plan of Bonifacio
+      type: manifest
+      url: https://iiif.library.utoronto.ca/presentation/v2/mdl:2159/manifest
+
+    - title: Carte générale du Liban
+      type: manifest
+      url: https://iiif.library.utoronto.ca/presentation/v2/mdl:2080/manifest
+
+
 # ======================================================================================================
 # ======================================================================================================
 
