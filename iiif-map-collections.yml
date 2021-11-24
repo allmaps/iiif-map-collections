@@ -779,6 +779,15 @@
       url: https://iiif.library.utoronto.ca/presentation/v2/mdl:2080/manifest
 
 
+- title: Berkeley Library
+  id: berkeley
+  url: https://digital.lib.berkeley.edu/browse-collections
+  examples:
+    - title: Chromo-topographische Kaart van het Koninkrijk der Nederlanden (1:200 000).
+      type: manifest
+      url: https://digicoll.lib.berkeley.edu/nanna/iiif/112509/manifest
+
+
 # ======================================================================================================
 # ======================================================================================================
 
