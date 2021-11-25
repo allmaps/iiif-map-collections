@@ -158,6 +158,10 @@
       type: manifest
       url: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest
 
+    - title: "item:52764-0018"
+      type: manifest
+      url: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A52764/manifest
+
 
 - title: Library of Congress Maps
   id: loc
@@ -384,6 +388,7 @@
       url: https://iiif.lib.harvard.edu/manifests/ids:30874065
 
     - title: Rotterdam
+      type: manifest
       url: https://iiif.lib.harvard.edu/manifests/ids:9780540
 
     - title: Platte grond van Rotterdam 1912
@@ -765,7 +770,7 @@
     - title: Street map of Vancouver ; Street map of Victoria
       type: manifest
       url: https://iiif.library.utoronto.ca/presentation/v2/mdl:G3574_V3_50_1952/manifest
-    
+
     - title: South Norway Road Map
       type: manifest
       url: https://iiif.library.utoronto.ca/presentation/v2/mdl:1685/manifest
@@ -777,6 +782,15 @@
     - title: Carte générale du Liban
       type: manifest
       url: https://iiif.library.utoronto.ca/presentation/v2/mdl:2080/manifest
+
+
+- title: The John Carter Brown Library
+  id: jcb
+  url: https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1
+  examples:
+    - title: The Island of St. Vincent
+      type: manifest
+      url: https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~2104~101547/manifest
 
 
 # ======================================================================================================
