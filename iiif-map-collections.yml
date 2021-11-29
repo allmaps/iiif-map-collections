@@ -279,6 +279,10 @@
     - title: Polderkaart van de landen tusschen Maas en ij / door W.H. Hoekwater
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:373/manifest.json
+      
+    - title: Kaart van de rivier de Lek met zyn uiterwaarden, noorder en zuider dyken, van de Merwede beneden Krimpen, tot het Schoor van Hagestein boven Vianen
+      type: manifest
+      url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:1570/manifest.json
 
 
 - title: "Wageningen University & Research: Map Collection Alterra"
