@@ -805,6 +805,14 @@
       type: manifest
       url: https://digicoll.lib.berkeley.edu/nanna/iiif/112509/manifest
 
+- title: University of British Columbia
+  id: ubc
+  url: https://open.library.ubc.ca/search?q=*&p=0&sort=0&view=2&perPage=0&dBegin=&dEnd=&c=7&genre=Maps&type=Still%20Image
+  examples:
+    - title: Map showing vicinity of Lake Louise and Moraine Lake (Lakes in the Clouds)
+      type: manifest
+      url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
+
 
 # ======================================================================================================
 # ======================================================================================================
