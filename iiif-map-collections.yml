@@ -813,6 +813,11 @@
       type: manifest
       url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
 
+- title: Staatsbibliothek zu Berlin
+  id: stabi
+  url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
+  # Manual: https://lab.sbb.berlin/dc/
+  # Count: 939 on 2022-04-27
 
 # ======================================================================================================
 # ======================================================================================================
