@@ -813,6 +813,24 @@
       type: manifest
       url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
 
+- title: Staatsbibliothek zu Berlin
+  id: stabi
+  url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
+  # Manual: https://lab.sbb.berlin/dc/
+  # Count: 939 on 2022-04-27
+  examples:
+    - title: "Plans et Elevations Des Places fortes De france et autres : Par l'ordre de Monseigneur le Marquis de louvois"
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/682884332/manifest
+    - title: Plan de la ville et des nouveaux ouvrages de Stettin
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/1011806517/manifest
+    - title: 歴代分埜之圖古今人物事跡
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/3343670510/manifest
+    - title: "Plan der Stadt Neu-Ruppin : nach welchen Seine Königliche Majestaet von Preussen dieselbe nach dem Brande vom 26ten August 1787 gegenwärtig erweitern und gantz Massief erbauen lassen ; [gewidmet] Friderich Wilhelm II. König von Preussen"
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/644435321/manifest
 
 # ======================================================================================================
 # ======================================================================================================
