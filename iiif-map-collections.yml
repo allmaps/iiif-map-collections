@@ -832,6 +832,37 @@
       type: manifest
       url: https://content.staatsbibliothek-berlin.de/dc/644435321/manifest
 
+- title: Rijksdienst voor het Cultureel Erfgoed
+  id: rce
+  url: https://beeldbank.cultureelerfgoed.nl
+  # Get UUID from download link or page inspector (not the same as page url!)
+  # URL pattern: https://images.memorix.nl/rce/iiif/[UUID]
+  # Minuutplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Minuutplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
+  # Verzamelplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Verzamelplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
+  # Kaarten: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?q=*&sort=order_s_documentvolgorde%20asc&mode=gallery&view=horizontal&page=1&fq%5B%5D=search_s_collection:%22Kaarten%22&reverse=0
+  examples:
+    - title: "Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)"
+      url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424
+      type: image
+    - title: "Kaart met (bouwkundige) waardering van Zutphen - schaal 1:1000"
+      url: https://images.memorix.nl/rce/iiif/dfb28bb1-c77e-1dd8-fb8b-22d4eeff3399
+      type: image
+
+- title: Stadsarchief Amsterdam
+  id: stadsarchief-ams
+  url: https://archief.amsterdam/beeldbank
+  # Get UUID from page url (after /media/)
+  # URL pattern: https://images.memorix.nl/ams/iiif/[UUID]
+  # negentiende-eeuwse buurtatlaskaarten: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20negentiende-eeuwse%20buurtatlaskaarten%22&sort=random%7B1653672698032%7D%20asc
+  # Kaart van Amsterdam, Schaal 1:1.000, vervaardigd door Dienst Publieke Werken en haar rechtsopvolgers: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20Kaart%20van%20Amsterdam,%20Schaal%201:1.000,%20vervaardigd%20door%20Dienst%20Publieke%20Werken%20en%20haar%20rechtsopvolgers%22&sort=random%7B1653672698032%7D%20asc
+  examples:
+    - title: Kaart van Amsterdam 1:10.000, Blad 6
+      url: https://images.memorix.nl/ams/iiif/33cf1acd-bb35-13e6-f662-b1fbf5691422
+      type: image
+    - title: Amstelredamum emporium Hollandiae primarium totiusque Europae celeberrimum
+      url: https://images.memorix.nl/ams/iiif/2d51b17b-ddd7-695f-e1c8-115af40ce2cd
+      type: image
+
 # ======================================================================================================
 # ======================================================================================================
 
