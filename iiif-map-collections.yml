@@ -863,6 +863,14 @@
       url: https://images.memorix.nl/ams/iiif/2d51b17b-ddd7-695f-e1c8-115af40ce2cd
       type: image
 
+- title: University of Milwaukee Libraries
+  id: uwm
+  url: https://collections.lib.uwm.edu/digital/collection/agdm/search/searchterm/
+  examples:
+    - title: am008094cb
+      type: image
+      url: https://collections.lib.uwm.edu/digital/iiif/agdm/10487/info.json
+
 # ======================================================================================================
 # ======================================================================================================
 
