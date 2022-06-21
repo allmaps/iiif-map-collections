@@ -871,6 +871,24 @@
       type: image
       url: https://collections.lib.uwm.edu/digital/iiif/agdm/10487/info.json
 
+- title: Gouda Tijdmachine
+  id: goudatijdmachine
+  url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
+  # IIIF Collection: https://www.goudatijdmachine.nl/data/iiif/2/8/manifest
+  examples:
+    - title: Plattegrond van Gouda, Joan Blaeu, 1649
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17782/manifest
+      type: image
+    - title: Gouda, Frederick de Wit, 1698
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17779/manifest
+      type: image
+    - title: Plattegrond der Stad Gouda met al des Zelfs Gebouwen Gragten en Straaten, Hendrik de Vos, omstreeks 1615
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17777/manifest
+      type: image
+    - title: Gouda, Willem de Jong, 1690
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17775/manifest
+      type: image
+
 # ======================================================================================================
 # ======================================================================================================
 
