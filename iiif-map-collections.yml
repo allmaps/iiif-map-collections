@@ -100,21 +100,20 @@
       url: https://collections.leventhalmap.org/search/commonwealth:7h14cv973/manifest
 
 
-# David Rumsey's IIIF server doesn't support CORS...
-# - title: David Rumsey Map Collection
-#   url: https://www.davidrumsey.com/luna/servlet/view/all
-#   examples:
-#     - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
-#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
+- title: David Rumsey Map Collection
+  url: https://www.davidrumsey.com/luna/servlet/view/all
+  examples:
+    - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
+      url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
 
-#     - title: Map of the County of Cornwall
-#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
+    - title: Map of the County of Cornwall
+      url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
 
-#     - title: "San Francisco entrance, California : 1884"
-#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
+    - title: "San Francisco entrance, California : 1884"
+      url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
-#     - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
-#       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
+    - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
+      url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
 
 
 - title: University of Miami Libraries
@@ -279,7 +278,7 @@
     - title: Polderkaart van de landen tusschen Maas en ij / door W.H. Hoekwater
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:373/manifest.json
-      
+
     - title: Kaart van de rivier de Lek met zyn uiterwaarden, noorder en zuider dyken, van de Merwede beneden Krimpen, tot het Schoor van Hagestein boven Vianen
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:1570/manifest.json
@@ -742,17 +741,6 @@
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
-- title: Gouda Tijdmachine
-  id: gouda-tijdmachine
-  url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
-  examples:
-    - title: Kadastrale kaart (minuutplan) Gouda, sectie B
-      type: manifest
-      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
-
-    - title: Stadsplattegrond van Gouda
-      type: manifest
-      url: https://www.goudatijdmachine.nl/data/iiif/2/165/manifest
 
 - title: National Library of Israel
   id: national-library-of-israel
@@ -874,8 +862,15 @@
 - title: Gouda Tijdmachine
   id: goudatijdmachine
   url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
-  # IIIF Collection: https://www.goudatijdmachine.nl/data/iiif/2/8/manifest
   examples:
+    - title: Kadastrale kaart (minuutplan) Gouda, sectie B
+      type: manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17766/manifest
+
+    - title: Stadsplattegrond van Gouda
+      type: manifest
+      url: https://www.goudatijdmachine.nl/data/iiif/2/165/manifest
+
     - title: Plattegrond van Gouda, Joan Blaeu, 1649
       url: https://www.goudatijdmachine.nl/data/iiif/2/17782/manifest
       type: manifest
@@ -888,19 +883,3 @@
     - title: Gouda, Willem de Jong, 1690
       url: https://www.goudatijdmachine.nl/data/iiif/2/17775/manifest
       type: manifest
-
-# ======================================================================================================
-# ======================================================================================================
-
-
-- title: Custom generated map manifests
-  include: false
-  url: https://github.com/bertspaan/iiif-map-collections/tree/master/manifests
-  examples:
-    - title: "Rotterdams Publiek: Publieke Werken"
-      type: manifest
-      url: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/rotterdam-publieke-werken.json
-
-    - title: "Living with Machines: London"
-      type: manifest
-      url: https://raw.githubusercontent.com/bertspaan/iiif-map-collections/master/manifests/nls-london.json
