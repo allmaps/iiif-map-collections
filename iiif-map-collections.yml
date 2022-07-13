@@ -375,11 +375,11 @@
   url: https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
-      type: manifest
+      type: image
       url: https://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
 
     - title: Grundritning öfver Stockholms Stad N° I
-      type: manifest
+      type: image
       url: https://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
 
 
@@ -813,6 +813,81 @@
       type: manifest
       url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
 
+- title: Staatsbibliothek zu Berlin
+  id: stabi
+  url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
+  # Manual: https://lab.sbb.berlin/dc/
+  # Count: 939 on 2022-04-27
+  examples:
+    - title: "Plans et Elevations Des Places fortes De france et autres : Par l'ordre de Monseigneur le Marquis de louvois"
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/682884332/manifest
+    - title: Plan de la ville et des nouveaux ouvrages de Stettin
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/1011806517/manifest
+    - title: 歴代分埜之圖古今人物事跡
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/3343670510/manifest
+    - title: "Plan der Stadt Neu-Ruppin : nach welchen Seine Königliche Majestaet von Preussen dieselbe nach dem Brande vom 26ten August 1787 gegenwärtig erweitern und gantz Massief erbauen lassen ; [gewidmet] Friderich Wilhelm II. König von Preussen"
+      type: manifest
+      url: https://content.staatsbibliothek-berlin.de/dc/644435321/manifest
+
+- title: Rijksdienst voor het Cultureel Erfgoed
+  id: rce
+  url: https://beeldbank.cultureelerfgoed.nl
+  # Get UUID from download link or page inspector (not the same as page url!)
+  # URL pattern: https://images.memorix.nl/rce/iiif/[UUID]
+  # Minuutplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Minuutplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
+  # Verzamelplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Verzamelplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
+  # Kaarten: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?q=*&sort=order_s_documentvolgorde%20asc&mode=gallery&view=horizontal&page=1&fq%5B%5D=search_s_collection:%22Kaarten%22&reverse=0
+  examples:
+    - title: "Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)"
+      url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424
+      type: image
+    - title: "Kaart met (bouwkundige) waardering van Zutphen - schaal 1:1000"
+      url: https://images.memorix.nl/rce/iiif/dfb28bb1-c77e-1dd8-fb8b-22d4eeff3399
+      type: image
+
+- title: Stadsarchief Amsterdam
+  id: stadsarchief-ams
+  url: https://archief.amsterdam/beeldbank
+  # Get UUID from page url (after /media/)
+  # URL pattern: https://images.memorix.nl/ams/iiif/[UUID]
+  # negentiende-eeuwse buurtatlaskaarten: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20negentiende-eeuwse%20buurtatlaskaarten%22&sort=random%7B1653672698032%7D%20asc
+  # Kaart van Amsterdam, Schaal 1:1.000, vervaardigd door Dienst Publieke Werken en haar rechtsopvolgers: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20Kaart%20van%20Amsterdam,%20Schaal%201:1.000,%20vervaardigd%20door%20Dienst%20Publieke%20Werken%20en%20haar%20rechtsopvolgers%22&sort=random%7B1653672698032%7D%20asc
+  examples:
+    - title: Kaart van Amsterdam 1:10.000, Blad 6
+      url: https://images.memorix.nl/ams/iiif/33cf1acd-bb35-13e6-f662-b1fbf5691422
+      type: image
+    - title: Amstelredamum emporium Hollandiae primarium totiusque Europae celeberrimum
+      url: https://images.memorix.nl/ams/iiif/2d51b17b-ddd7-695f-e1c8-115af40ce2cd
+      type: image
+
+- title: University of Milwaukee Libraries
+  id: uwm
+  url: https://collections.lib.uwm.edu/digital/collection/agdm/search/searchterm/
+  examples:
+    - title: am008094cb
+      type: image
+      url: https://collections.lib.uwm.edu/digital/iiif/agdm/10487/info.json
+
+- title: Gouda Tijdmachine
+  id: goudatijdmachine
+  url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
+  # IIIF Collection: https://www.goudatijdmachine.nl/data/iiif/2/8/manifest
+  examples:
+    - title: Plattegrond van Gouda, Joan Blaeu, 1649
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17782/manifest
+      type: manifest
+    - title: Gouda, Frederick de Wit, 1698
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17779/manifest
+      type: manifest
+    - title: Plattegrond der Stad Gouda met al des Zelfs Gebouwen Gragten en Straaten, Hendrik de Vos, omstreeks 1615
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17777/manifest
+      type: manifest
+    - title: Gouda, Willem de Jong, 1690
+      url: https://www.goudatijdmachine.nl/data/iiif/2/17775/manifest
+      type: manifest
 
 # ======================================================================================================
 # ======================================================================================================
