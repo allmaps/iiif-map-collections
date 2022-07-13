@@ -375,11 +375,11 @@
   url: https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
-      type: manifest
+      type: image
       url: https://kb-images.kb.dk/DAMJP2/DAM/Maps/0000/085/467/UK000107/info.json
 
     - title: Grundritning öfver Stockholms Stad N° I
-      type: manifest
+      type: image
       url: https://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
 
 
