@@ -47,8 +47,8 @@
   id: stanford
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
   numberOfMaps:
-    value:
-    dateRetrieved:
+    value: 21_098
+    dateRetrieved: 2022-8-9
   examples:
     - title: Map of city of Palo Alto, Santa Clara Co., Calif
       type: manifest
