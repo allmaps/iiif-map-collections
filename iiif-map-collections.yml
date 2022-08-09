@@ -2,6 +2,9 @@
   id: nls
   url: https://maps.nls.uk/
   # Use https://geo.nls.uk/maps/iiif/ to turn any map ID into a IIIF image URL
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
       type: image
@@ -43,6 +46,9 @@
 - title: Stanford Libraries
   id: stanford
   url: https://earthworks.stanford.edu/catalog?featured=scanned_maps&q=
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Map of city of Palo Alto, Santa Clara Co., Calif
       type: manifest
@@ -60,6 +66,9 @@
 - title: Digital Commonwealth - Massachusetts Collections Online
   id: digital-commonwealth
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Aeronautical view of the Panama Canal
       type: manifest
@@ -82,6 +91,9 @@
   id: lmec
   url: https://collections.leventhalmap.org
   api: https://collections.leventhalmap.org/search.json
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: The town of Boston in New England
       type: manifest
@@ -102,6 +114,9 @@
 
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com/luna/servlet/view/all
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Topographical Map of the City of New York. Showing Original Water Courses and Made Land.
       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305704~90076084/manifest
@@ -119,6 +134,9 @@
 - title: University of Miami Libraries
   id: university-of-miami-libraries
   url: https://digitalcollections.library.miami.edu/digital/search/searchterm/maps!Maps/field/genre!genre/mode/exact!exact/conn/and!and/order/title/ad/asc
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: A new & accurate map of the Island of Cuba
       type: manifest
@@ -152,6 +170,9 @@
 - title: Leiden University
   id: leiden-university
   url: https://digitalcollections.universiteitleiden.nl/islandora/search?type=dismax&islandora_solr_search_navigation=0&f[0]=RELS_EXT_isMemberOfCollection_uri_ms:%22info\:fedora\/collection\:ubl_maps%22
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13"
       type: manifest
@@ -166,6 +187,9 @@
   id: loc
   url: https://www.loc.gov/maps/
   api: https://www.loc.gov/maps/?q=&fo=json
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Chesapeake and Ohio Canal, Washington, D.C., Maryland, West Virginia, official map and guide
       type: manifest
@@ -222,6 +246,9 @@
 - title: Universiteitsbibliotheek, Vrije Universiteit Amsterdam
   id: vu
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21033_krt
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Choro-topographische kaart der Noordelijke Provinciën van het Koningrijk der Nederlanden / uitgevoerd aan het Topographisch Bureau van dezen Staat, volgens het ontwerp, de geodesische en astronomische waarnemingen van Baron Kraijenhoff
       type: manifest
@@ -286,6 +313,9 @@
 
 - title: "Wageningen University & Research: Map Collection Alterra"
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll25
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Breda : Bodemkaart. [Bijlage 1]"
       type: manifest
@@ -302,6 +332,9 @@
 
 - title: "Wageningen University & Research: Old Maps and Atlases"
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll21
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Kaarte van Schouwen en Duiveland
       type: manifest
@@ -315,6 +348,9 @@
 - title: University of Groningen
   id: university-of-groningen
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Provinciekaarten van Nederland - [2]: Friesland"
       type: manifest
@@ -328,6 +364,9 @@
 - title: Princeton University Library
   id: princeton
   url: https://maps.princeton.edu/?layer_geom_type_s%5D%5B%5D=Image&search_field=all_fields
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: The environs of Dublin
       type: manifest
@@ -345,6 +384,9 @@
 - title: e-rara, the platform for digitized rare books from Swiss institutions
   id: e-rara
   url: https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Reliefkarte der Centralschweiz
       type: manifest
@@ -359,6 +401,9 @@
   id: polona
   url: https://polona.pl/search/?filters=category:maps,public:1,hasTextContent:0
   api: https://polona.pl/api/entities/?filters=category%3Amaps+public%3A1+has_text_content%3A0&format=json&seed=1
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000"
       type: manifest
@@ -372,6 +417,9 @@
 - title: "Det Kgl. Bibliotek: Digitale Samlinger"
   id: det-kgl-bibliotek
   url: https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Charta öfver Skjärgården och Farwatnen omkring Carlscrona
       type: image
@@ -385,6 +433,9 @@
 - title: Harvard Library Digital Collections
   id: harvard
   url: https://digitalcollections.library.harvard.edu/catalog?f%5BresourceType%5D%5B%5D=cartographic&search_field=all_fields
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Mil.-Geo.-Plan von Leningrad
       type: manifest
@@ -410,6 +461,9 @@
 - title: Ibero-Amerikanisches Institut
   id: iai
   url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Province De New-York
       type: image
@@ -419,6 +473,9 @@
 - title: Badische Landesbibliothek Karlsruhe
   id: blb-karlsruhe
   url: https://digital.blb-karlsruhe.de/Karten/topic/view/178828
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
       type: manifest
@@ -428,6 +485,9 @@
 - title: Gallica, Bibliothèque nationale de France
   id: gallica-bnf
   url: https://gallica.bnf.fr/html/und/cartes/cartes?mode=desktop
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
       type: manifest
@@ -437,6 +497,9 @@
 - title: Bodleian Libraries
   id: bodleian-libraries
   url: https://digital.bodleian.ox.ac.uk/collections/maps/
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Plan of the City of Oxford
       type: manifest
@@ -446,6 +509,9 @@
 - title: e-manuscripta.ch
   id: e-manuscripta
   url: https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Geometrischer Grundriss der Stadt Bern
       type: manifest
@@ -455,6 +521,9 @@
 - title: World Digital Library
   id: wdl
   url: https://www.wdl.org/en/search/?item_type=map
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
    - title: Maps of Ezo, Sakhalin, and Kuril Islands
      type: manifest
@@ -465,6 +534,9 @@
   id: university-of-texas-libraries
   include: false
   url: https://collections.lib.utexas.edu/?f%5Bdisplay_type_ms%5D%5B%5D=Maps&q=&search=&search_field=search
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
    - title: "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]"
      type: manifest
@@ -474,6 +546,9 @@
 - title: Orka, Universität Kassel
   id: uni-kassel
   url: https://orka.bibliothek.uni-kassel.de/viewer/browse/-/1/-/DC:kartenundplaene/
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
    - title: Plan der Stadt Cassel und Umgebung 1925
      type: manifest
@@ -483,6 +558,9 @@
 - title: Illinois University Library
   id: illinois-university-library
   url: https://metadata.library.illinois.edu/collections#q=&fq%5B%5D=local_facet_repository%3AMap%20Library&q=&sort=
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
    - title: "Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment."
      type: manifest
@@ -508,6 +586,9 @@
 - title: University of Edinburgh
   id: university-of-edinburgh
   url: https://images.is.ed.ac.uk/luna/servlet/UoEcha~1~1
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
       type: manifest
@@ -517,6 +598,9 @@
 - title: Yale University Library
   id: yale
   url: https://collections.library.yale.edu/catalog?f%5Bgenre_ssim%5D%5B%5D=Maps&q=&search_field=all_fields
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
       type: manifest
@@ -538,6 +622,9 @@
 - title: Zentral- und Landesbibliothek Berlin
   id: zentral-und-landesbibliothek-berlin
   url: https://digital.zlb.de/viewer/search/-/%28DC%3A%22berlin.stadtplaenestadtansichten%22%29/1/SORT_YEARPUBLISH/-/
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Die Churfürstlich Brandenburgisch nun Königlich Preussische Residenz Statt
       type: manifest
@@ -703,6 +790,9 @@
   # http://objects.library.uu.nl/reader/img.php?obj=1874-274255&img=<image-path>.jpg
   # Use that value to create a IIIF Image URL:
   # https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/<image-path>.jp2/info.json
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Purmer : de Purmer is gemeeten A° 1622 door Mr. Lucas Iansz Zinck landmeter, en op nieuws oversien verbeetert en in 't licht gebragt A° 1683 door Ioannes Leupenius landmeter."
       type: image
@@ -728,6 +818,9 @@
   # https://archive.org/details/[id]
   # Add id to the following scheme to fetch IIIF manifest:
   # https://iiif.archivelab.org/iiif/[id]/manifest.json
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Map of the State of California
       type: manifest
@@ -745,6 +838,9 @@
 - title: National Library of Israel
   id: national-library-of-israel
   url: https://www.nli.org.il/he/discover/maps
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Nähere Umgebung von Jerusalem [cartographic material]
       type: image
@@ -754,6 +850,9 @@
 - title: University of Toronto Libraries
   id: utoronto
   url: https://mdlcollections.library.utoronto.ca/islandora/search?page=5&islandora_solr_search_navigation=0&f%5B0%5D=RELS_EXT_isMemberOfCollection_uri_ms%3A%22info%5C%3Afedora%5C/mdl%5C%3Amaps%22
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Topographic map of the Niagara Gorge
       type: manifest
@@ -779,6 +878,9 @@
 - title: The John Carter Brown Library
   id: jcb
   url: https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: The Island of St. Vincent
       type: manifest
@@ -788,6 +890,9 @@
 - title: Berkeley Library
   id: berkeley
   url: https://digital.lib.berkeley.edu/browse-collections
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Chromo-topographische Kaart van het Koninkrijk der Nederlanden (1:200 000).
       type: manifest
@@ -796,6 +901,9 @@
 - title: University of British Columbia
   id: ubc
   url: https://open.library.ubc.ca/search?q=*&p=0&sort=0&view=2&perPage=0&dBegin=&dEnd=&c=7&genre=Maps&type=Still%20Image
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Map showing vicinity of Lake Louise and Moraine Lake (Lakes in the Clouds)
       type: manifest
@@ -806,6 +914,9 @@
   url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
   # Manual: https://lab.sbb.berlin/dc/
   # Count: 939 on 2022-04-27
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Plans et Elevations Des Places fortes De france et autres : Par l'ordre de Monseigneur le Marquis de louvois"
       type: manifest
@@ -828,6 +939,9 @@
   # Minuutplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Minuutplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
   # Verzamelplans: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?mode=gallery&view=horizontal&q=*&rows=1&page=1&fq%5B%5D=search_s_collection:%22Verzamelplans%22&sort=order_s_documentvolgorde%20asc&reverse=0&filterAction
   # Kaarten: https://beeldbank.cultureelerfgoed.nl/rce-mediabank/?q=*&sort=order_s_documentvolgorde%20asc&mode=gallery&view=horizontal&page=1&fq%5B%5D=search_s_collection:%22Kaarten%22&reverse=0
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: "Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)"
       url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424
@@ -843,6 +957,9 @@
   # URL pattern: https://images.memorix.nl/ams/iiif/[UUID]
   # negentiende-eeuwse buurtatlaskaarten: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20negentiende-eeuwse%20buurtatlaskaarten%22&sort=random%7B1653672698032%7D%20asc
   # Kaart van Amsterdam, Schaal 1:1.000, vervaardigd door Dienst Publieke Werken en haar rechtsopvolgers: https://archief.amsterdam/beeldbank/?mode=gallery&view=horizontal&rows=45&page=1&fq%5B%5D=search_s_dc_provenance:%22Collectie%20Stadsarchief%20Amsterdam:%20Kaart%20van%20Amsterdam,%20Schaal%201:1.000,%20vervaardigd%20door%20Dienst%20Publieke%20Werken%20en%20haar%20rechtsopvolgers%22&sort=random%7B1653672698032%7D%20asc
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Kaart van Amsterdam 1:10.000, Blad 6
       url: https://images.memorix.nl/ams/iiif/33cf1acd-bb35-13e6-f662-b1fbf5691422
@@ -854,6 +971,9 @@
 - title: University of Wisconsin-Milwaukee Libraries - American Geographical Society Library
   id: uwm
   url: https://collections.lib.uwm.edu/digital/collection/agdm/
+  numberOfMaps:
+    value: 19_869
+    dateRetrieved: 2022-8-9
   examples:
     - title: am000186
       type: image
@@ -862,6 +982,9 @@
 - title: Gouda Tijdmachine
   id: goudatijdmachine
   url: https://www.goudatijdmachine.nl/data/collection/ark:/60537/bb25wx
+  numberOfMaps:
+    value:
+    dateRetrieved:
   examples:
     - title: Kadastrale kaart (minuutplan) Gouda, sectie B
       type: manifest
