@@ -1034,3 +1034,11 @@
     - title: Nieuwe kaart van Mynden en de Loosdrecht
       type: image
       url: https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!8!3!990008493810205131!105-19-01.jpg/info.json
+
+- title: Kartenspeicher
+  id:
+  url: https://kartenspeicher.gbv.de/
+  examples:
+    - title: "[Insel Rügen und Darß]"
+      type: image
+      url: "https://kartenspeicher.gbv.de/mir/api/iiif/image/v2/gwlb_derivate_00004393%2F00000001.ptif.jpg/info.json"
