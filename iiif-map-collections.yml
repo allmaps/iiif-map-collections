@@ -940,10 +940,10 @@
     dateRetrieved:
   examples:
     - title: "Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)"
-      url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424
+      url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424/info.json
       type: image
     - title: "Kaart met (bouwkundige) waardering van Zutphen - schaal 1:1000"
-      url: https://images.memorix.nl/rce/iiif/dfb28bb1-c77e-1dd8-fb8b-22d4eeff3399
+      url: https://images.memorix.nl/rce/iiif/dfb28bb1-c77e-1dd8-fb8b-22d4eeff3399/info.json
       type: image
 
 - title: Stadsarchief Amsterdam
@@ -958,10 +958,10 @@
     dateRetrieved:
   examples:
     - title: Kaart van Amsterdam 1:10.000, Blad 6
-      url: https://images.memorix.nl/ams/iiif/33cf1acd-bb35-13e6-f662-b1fbf5691422
+      url: https://images.memorix.nl/ams/iiif/33cf1acd-bb35-13e6-f662-b1fbf5691422/info.json
       type: image
     - title: Amstelredamum emporium Hollandiae primarium totiusque Europae celeberrimum
-      url: https://images.memorix.nl/ams/iiif/2d51b17b-ddd7-695f-e1c8-115af40ce2cd
+      url: https://images.memorix.nl/ams/iiif/2d51b17b-ddd7-695f-e1c8-115af40ce2cd/info.json
       type: image
 
 - title: University of Wisconsin-Milwaukee Libraries - American Geographical Society Library
@@ -1042,3 +1042,27 @@
     - title: "[Insel Rügen und Darß]"
       type: image
       url: "https://kartenspeicher.gbv.de/mir/api/iiif/image/v2/gwlb_derivate_00004393%2F00000001.ptif.jpg/info.json"
+
+- title: SFO Museum
+  id: sfo
+  url: https://collection.sfomuseum.org/search/?q=map&with_images=1
+  examples:
+    - title: "postcard: American Airlines"
+      type: manifest
+      url: https://collection.sfomuseum.org/objects/1511922165/manifest/
+
+    - title: "map and report: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site"
+      type: manifest
+      url: https://collection.sfomuseum.org/objects/1762828235/manifest/
+
+    - title: "traveler information guide: San Francisco International Airport (SFO), transit and parking"
+      type: manifest
+      url: https://collection.sfomuseum.org/objects/1762829809/manifest/
+
+    - title: "timetable: Transportation Displays, Inc., San Francisco International Airport (SFO)"
+      type: manifest
+      url: https://collection.sfomuseum.org/objects/1762828567/manifest/
+
+    - title: "menu: Pan American World Airways, President (first) class"
+      type: manifest
+      url: https://collection.sfomuseum.org/objects/1511922165/manifest/
