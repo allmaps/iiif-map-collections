@@ -9,7 +9,3 @@ I'm using the map collections in this file to build and test tools that will mak
 A JSON version of the file is available as well:
 
 - https://allmaps.org/iiif-map-collections/iiif-map-collections.json
-
-## Georeference Annotations
-
-For some example JSON files with georeference metadata, see the [`georeferencing-annotations`](georeferencing-annotations) directory.
