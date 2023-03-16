@@ -905,6 +905,7 @@
       type: manifest
       url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
 
+
 - title: Staatsbibliothek zu Berlin
   id: stabi
   url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
@@ -1003,6 +1004,7 @@
       url: https://www.goudatijdmachine.nl/data/iiif/2/17775/manifest
       type: manifest
 
+
 - title: New York Public Library
   id: nypl
   url: https://digitalcollections.nypl.org/search/index?filters%5Btype%5D=cartographic&keywords=
@@ -1035,6 +1037,7 @@
       type: image
       url: https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!8!3!990008493810205131!105-19-01.jpg/info.json
 
+
 - title: Kartenspeicher
   id:
   url: https://kartenspeicher.gbv.de/
@@ -1042,6 +1045,7 @@
     - title: "[Insel Rügen und Darß]"
       type: image
       url: "https://kartenspeicher.gbv.de/mir/api/iiif/image/v2/gwlb_derivate_00004393%2F00000001.ptif.jpg/info.json"
+
 
 - title: SFO Museum
   id: sfo
@@ -1066,3 +1070,44 @@
     - title: "menu: Pan American World Airways, President (first) class"
       type: manifest
       url: https://collection.sfomuseum.org/objects/1511922165/manifest/
+
+
+- title: Smithsonian Institution
+  id: si
+  url: https://www.si.edu/search/collection-images?edan_fq[0]=object_type%3A%22Maps%22
+  examples:
+    - title: "Map of Strasbourg and its Fortifications, Illustration for Every Saturday (October 15, 1870, p. 660)"
+      type: manifest
+      url: https://ids.si.edu/ids/manifest/CHSDM-EE8BE83274C72-000001
+
+
+- title: Nasjonalbiblioteket
+  url: https://www.nb.no/search?mediatype=kart
+  examples:
+    - title: Bygland
+      type: manifest
+      url: https://api.nb.no/catalog/v1/iiif/5a20e7e0b2a354d400fde9ceb749d2ed/manifest
+
+    - title: "Cammermeyers Reisekart over det nordlige Norge : i 4 Blade"
+      type: manifest
+      url: https://api.nb.no/catalog/v1/iiif/72682f25ae8409a4597bc97f64d3ee2f/manifest
+
+    - title: "Aschehougs kart over Kristiania : utarbeidet i maalestok 1:13 000 : med fortegnelse over gater o.s.v"
+      type: manifest
+      url: https://api.nb.no/catalog/v1/iiif/2186ca144d5c37bab2d9b176aa3c8792/manifest
+
+
+- title: Qatar Digital Library
+  url: https://www.qdl.qa/en/search/site/?f%255B0%255D=document_source%3Aarchive_source&f%5B0%5D=source_content_type%3AMap
+  examples:
+    - title: "Iraq-Persia Map No. 1’ [‎32r] (1/2)"
+      type: manifest
+      url: https://www.qdl.qa/en/iiif/81055/vdc_100000000884.0x0001ab/manifest
+
+
+- title: British Library
+  url:
+  examples:
+    - title: "CARTE DU PARAGUAY DU CHILI DU DETROIT DE MAGELLAN"
+      type: manifest
+      url: https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100052171660.0x000001/manifest.json
