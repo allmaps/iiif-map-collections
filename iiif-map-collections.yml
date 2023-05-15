@@ -1111,3 +1111,15 @@
     - title: "CARTE DU PARAGUAY DU CHILI DU DETROIT DE MAGELLAN"
       type: manifest
       url: https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100052171660.0x000001/manifest.json
+
+
+- title: Bayerische Staatsbibliothek
+  url: https://www.digitale-sammlungen.de/en/search?query=&sortField=scanDate&filter=type_content%3A%22map%22&filter=features%3A%22iiif%22
+  examples:
+    - title: Tiëntsin
+      type: manifest
+      url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00059943/manifest
+
+    - title: Partie Septentrionale Du Royaume De Naples
+      type: manifest
+      url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00105926/manifest
