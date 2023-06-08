@@ -1123,3 +1123,11 @@
     - title: Partie Septentrionale Du Royaume De Naples
       type: manifest
       url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00105926/manifest
+
+
+- title: Northwestern University Libraries
+  url: https://dc.library.northwestern.edu/collections/267bed1b-f808-4c51-acb1-0288378819d2
+  examples:
+    - title: "Use of property, 1922"
+      type: manifest
+      url: https://api.dc.library.northwestern.edu/api/v2/works/faf0c573-76e7-4002-933f-2bdff0d656e4?as=iiif
