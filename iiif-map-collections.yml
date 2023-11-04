@@ -6,11 +6,11 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Cornwall LXXIV.SW (includes: Paul; Penzance.)"
+    - title: 'Cornwall LXXIV.SW (includes: Paul; Penzance.)'
       type: image
       url: https://map-view.nls.uk/iiif/2/10143%2F101439545/info.json
 
-    - title: "Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)"
+    - title: 'Cornwall LXXIV.NW (includes: Madron; Paul; Penzance.)'
       type: image
       url: https://map-view.nls.uk/iiif/10143/101439530/info.json
 
@@ -26,18 +26,17 @@
       type: image
       url: https://map-view.nls.uk/iiif/2/12652%2F126522842/info.json
 
-    - title: "Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)"
+    - title: 'Kent II.NW (includes: Borough Of Greenwich; Borough Of Woolwich; East Ham; West Ham.)'
       type: image
       url: https://map-view.nls.uk/iiif/2/10146%2F101465411/info.json
 
-    - title: "Essex LXXXI.NW (includes: Bermondsey; Borough Of Greenwich; Deptford St Paul; Poplar Borough; Stepney.)"
+    - title: 'Essex LXXXI.NW (includes: Bermondsey; Borough Of Greenwich; Deptford St Paul; Poplar Borough; Stepney.)'
       type: image
       url: https://map-view.nls.uk/iiif/2/10145%2F101456111/info.json
 
     - title: Inverness-shire - Mainland X.3
       type: image
       url: https://map-view.nls.uk/iiif/2/8288%2F82886967/info.json
-
 
 - title: Stanford Libraries
   id: stanford
@@ -58,7 +57,6 @@
       type: manifest
       url: https://purl.stanford.edu/hs631zg4177/iiif/manifest
 
-
 - title: Digital Commonwealth - Massachusetts Collections Online
   id: digital-commonwealth
   url: https://www.digitalcommonwealth.org/search?f%5Bgenre_basic_ssim%5D%5B%5D=Maps
@@ -70,18 +68,17 @@
       type: manifest
       url: https://ark.digitalcommonwealth.org/ark:/50959/4m90fk088/manifest
 
-    - title: "Antwerp : or Anvers"
+    - title: 'Antwerp : or Anvers'
       type: manifest
       url: https://ark.digitalcommonwealth.org/ark:/50959/0z709594h/manifest
 
-    - title: "Ashland Cotton Company (Cotton & Rayon), Jewett City, Conn."
+    - title: 'Ashland Cotton Company (Cotton & Rayon), Jewett City, Conn.'
       type: manifest
       url: https://ark.digitalcommonwealth.org/ark:/50959/2r36vc10j/manifest
 
     - title: Winthrop Mills Company (Cotton & Woolen Cloth), Winthrop, Maine
       type: manifest
       url: https://ark.digitalcommonwealth.org/ark:/50959/2r36vc24w/manifest
-
 
 - title: Leventhal Map & Education Center
   id: lmec
@@ -99,14 +96,13 @@
       type: manifest
       url: https://collections.leventhalmap.org/search/commonwealth:cj82m759t/manifest
 
-    - title: "General plan : Government Center - Boston - 1959"
+    - title: 'General plan : Government Center - Boston - 1959'
       type: manifest
       url: https://collections.leventhalmap.org/search/commonwealth:7h14cv71z/manifest
 
     - title: Inner belt, Southwest Expressway
       type: manifest
       url: https://collections.leventhalmap.org/search/commonwealth:7h14cv973/manifest
-
 
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com/luna/servlet/view/all
@@ -120,12 +116,11 @@
     - title: Map of the County of Cornwall
       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~319335~90088251/manifest
 
-    - title: "San Francisco entrance, California : 1884"
+    - title: 'San Francisco entrance, California : 1884'
       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~239951~5512086/manifest
 
     - title: Nieuwe ende Waarachtighe Beschrijvinge der Zeventien
       url: https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~305328~90075898/manifest
-
 
 - title: University of Miami Libraries
   id: university-of-miami-libraries
@@ -138,7 +133,6 @@
       type: manifest
       url: https://digitalcollections.library.miami.edu/iiif/info/chc0468/16/manifest.json
 
-
 - title: Rotterdams Publiek (kaarten van Stadsarchief Rotterdam)
   include: false
   examples:
@@ -150,18 +144,17 @@
       type: image
       url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4001_1972-755-1/info.json
 
-    - title: "1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+    - title: '1970-2043 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool.'
       type: image
       url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_1970-2043/info.json
 
-    - title: "I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool."
+    - title: 'I-259-10 Kaart van Rotterdam en omgeving; bestaande uit 24 bladen. Blad 10: Blijdorp, Bergpolder, Oude Noorden, Nieuwe Westen, Middelland, Oude Westen, Cool.'
       type: image
       url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-259-10/info.json
 
-    - title: "I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek"
+    - title: 'I-138-02-5 Plattegrond van Rotterdam in 12 bladen. Blad 5: Middelland; Oude Westen; Cool; Stadsdriehoek; Provenierswijk; Oude Noorden; Rubroek'
       type: image
       url: https://rotterdamspubliek.nl/iiif/NL-RtSA_4201_I-138-02-5/info.json
-
 
 - title: Leiden University
   id: leiden-university
@@ -170,14 +163,13 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13"
+    - title: 'Expugnatio Fortissimae Vibis Bredae Anno 1637 COLLBN Port 51 N 13'
       type: manifest
       url: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A2481595/manifest
 
-    - title: "item:52764-0018"
+    - title: 'item:52764-0018'
       type: manifest
       url: https://digitalcollections.universiteitleiden.nl/iiif_manifest/item%3A52764/manifest
-
 
 - title: Library of Congress Maps
   id: loc
@@ -195,7 +187,7 @@
       type: manifest
       url: https://www.loc.gov/item/sanborn03376_001/manifest.json
 
-    - title: "Das Rheinland von Basel bis Rotterdam : nebst denen zunächstliegenden Städten, Strassen und Eisenbahnen"
+    - title: 'Das Rheinland von Basel bis Rotterdam : nebst denen zunächstliegenden Städten, Strassen und Eisenbahnen'
       type: manifest
       url: https://www.loc.gov/item/2015591075/manifest.json
 
@@ -235,7 +227,7 @@
       type: manifest
       url: https://www.loc.gov/item/sanborn01790_014/manifest.json
 
-    - title: "Atlas of the city of New York, Manhattan Island : from actual surveys and official plans"
+    - title: 'Atlas of the city of New York, Manhattan Island : from actual surveys and official plans'
       type: manifest
       url: https://www.loc.gov/item/2010587355/manifest.json
 
@@ -250,7 +242,7 @@
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/info/krt/2175/manifest.json
 
-    - title: "Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting"
+    - title: 'Scheepvaartwegen in Nederland : overzichtskaart / Top. Inrichting'
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/info/krt/4914/manifest.json
 
@@ -258,11 +250,11 @@
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2627/manifest.json
 
-    - title: "Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie"
+    - title: 'Plattegrond van de gemeente Rotterdam, vervaardigd na de uitbreiding aan den linker oever der Maas / door H.C.T. van de Wall ; gravure en kleurendruk van J. Smulders & Cie'
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/2889/manifest.json
 
-    - title: "Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]"
+    - title: 'Atlas van de gemeente Amsterdam : bevattende de grondteekening van alle gebouwen met de tegenwoordige nommering, en onderscheiding van gemeente-eigendommen, publieke en bijzondere gebouwen, woon- en pakhuizen : in 101 kaarten / naar officiële bronnen bewerkt; [schaal 1:1.250]'
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/digital/iiif-info/krt/5415/manifest.json
 
@@ -306,27 +298,25 @@
       type: manifest
       url: https://cdm21033.contentdm.oclc.org/iiif/2/krt:1570/manifest.json
 
-
-- title: "Wageningen University & Research: Map Collection Alterra"
+- title: 'Wageningen University & Research: Map Collection Alterra'
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll25
   numberOfMaps:
     value:
     dateRetrieved:
   examples:
-    - title: "Breda : Bodemkaart. [Bijlage 1]"
+    - title: 'Breda : Bodemkaart. [Bijlage 1]'
       type: manifest
       url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1009/manifest.json
 
-    - title: "Ruilverkaveling Westwoud : Bodemkaart. Bijlage 1"
+    - title: 'Ruilverkaveling Westwoud : Bodemkaart. Bijlage 1'
       type: manifest
       url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/1350/manifest.json
 
-    - title: "Ruilverkaveling Tubbergen : Zandkaart. Bijlage 4"
+    - title: 'Ruilverkaveling Tubbergen : Zandkaart. Bijlage 4'
       type: manifest
       url: https://cdm21045.contentdm.oclc.org/iiif/info/coll25/686/manifest.json
 
-
-- title: "Wageningen University & Research: Old Maps and Atlases"
+- title: 'Wageningen University & Research: Old Maps and Atlases'
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21045_coll21
   numberOfMaps:
     value:
@@ -340,7 +330,6 @@
       type: manifest
       url: https://cdm21045.contentdm.oclc.org/iiif/info/coll21/550/manifest.json
 
-
 - title: University of Groningen
   id: university-of-groningen
   url: https://researchworks.oclc.org/iiif-explorer/search?q=collection.id%3Ahttps%3A%2F%2Fresearchworks.oclc.org%2Fdigital%2Fdataset%2F21053_Kaarten
@@ -348,14 +337,13 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Provinciekaarten van Nederland - [2]: Friesland"
+    - title: 'Provinciekaarten van Nederland - [2]: Friesland'
       type: manifest
       url: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/2655/manifest.json
 
     - title: Accuratissima Germaniae tabula
       type: manifest
       url: https://cdm21053.contentdm.oclc.org/iiif/info/Kaarten/1581/manifest.json
-
 
 - title: Princeton University Library
   id: princeton
@@ -376,7 +364,6 @@
       type: manifest
       url: https://figgy.princeton.edu/concern/scanned_maps/fa4fb452-5f1d-42ab-a471-53afc176c948/manifest
 
-
 - title: e-rara, the platform for digitized rare books from Swiss institutions
   id: e-rara
   url: https://www.e-rara.ch/search/quick?query=karte&facets=type%3D%22cartographic%22
@@ -392,7 +379,6 @@
       type: manifest
       url: https://www.e-rara.ch/i3f/v20/6484723/manifest
 
-
 - title: Polona
   id: polona
   url: https://polona.pl/search/?filters=category:maps,public:1,hasTextContent:0
@@ -401,16 +387,15 @@
     value: 20_168
     dateRetrieved: 2022-8-9
   examples:
-    - title: "Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000"
+    - title: 'Pharus-Plan von Königsberg (Pr) : mit Straßenverzeichnis : Maßstab 1:15 000'
       type: manifest
       url: https://polona.pl/iiif/item/NTU5NTE4OTg/manifest.json
 
-    - title: "Atlas Der Alten Welt in XVI illuminirten Charten : nach den besten Hülfsmitteln zum Gebrauch in Gymnasien"
+    - title: 'Atlas Der Alten Welt in XVI illuminirten Charten : nach den besten Hülfsmitteln zum Gebrauch in Gymnasien'
       type: manifest
       url: https://polona.pl/iiif/item/NzI3NDg5MTQ/manifest.json
 
-
-- title: "Det Kgl. Bibliotek: Digitale Samlinger"
+- title: 'Det Kgl. Bibliotek: Digitale Samlinger'
   id: det-kgl-bibliotek
   url: https://www5.kb.dk/maps/kortsa/2012/jul/kortatlas/subject206/da/?notAfter=&notBefore=&q=&search_field=all_fields
   numberOfMaps:
@@ -424,7 +409,6 @@
     - title: Grundritning öfver Stockholms Stad N° I
       type: image
       url: https://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Maps/KORTSA/ATLAS_MAJOR/KBK2_3_07/KBK2_3_07_067c/info.json
-
 
 - title: Harvard Library Digital Collections
   id: harvard
@@ -453,7 +437,6 @@
       type: manifest
       url: https://iiif.lib.harvard.edu/manifests/ids:6924636
 
-
 - title: Ibero-Amerikanisches Institut
   id: iai
   url: https://digital.iai.spk-berlin.de/viewer/search/-/-/1/-/MD_MATERIAL%3AKarte/
@@ -465,7 +448,6 @@
       type: image
       url: https://digital.iai.spk-berlin.de/viewer/api/v1/records/630107580/files/images/00000001.tif/info.json
 
-
 - title: Badische Landesbibliothek Karlsruhe
   id: blb-karlsruhe
   url: https://digital.blb-karlsruhe.de/Karten/topic/view/178828
@@ -473,10 +455,9 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld"
+    - title: 'Atlas van den Rhyn, van Bonn tot Bazel : in XXXVI. afgezette aan-een-sluitende Kaarten, bevattende: de Paltz, Lotharingen, Mentz, Trier, Wetterau, een gedeelte van Keulen, het Norrder- en Wester-deel van Schwaben, het Noorder- en Zuider-deel van den Elzas, de omliggende Landen en Steden, de Forten en Strekten aan de beide zyden der Rivier, enz.; vooräfgaat eene generaale kaart, in XXXVI. perken verdeeld'
       type: manifest
       url: https://digital.blb-karlsruhe.de/i3f/v20/5339993/manifest
-
 
 - title: Gallica, Bibliothèque nationale de France
   id: gallica-bnf
@@ -485,10 +466,9 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London"
+    - title: 'Hark ! Hark ! The dogs do bark ! : serio-comique map of Europe at war / with note by Walter Emmanuel ; designed and printed by Johnson, Riddle & Co., London'
       type: manifest
       url: https://gallica.bnf.fr/iiif/ark:/12148/btv1b53192683w/manifest.json
-
 
 - title: Bodleian Libraries
   id: bodleian-libraries
@@ -501,7 +481,6 @@
       type: manifest
       url: https://iiif.bodleian.ox.ac.uk/iiif/manifest/f45ff5a5-8c14-435b-82b1-f95d61f530d0.json
 
-
 - title: e-manuscripta.ch
   id: e-manuscripta
   url: https://www.e-manuscripta.ch/emanus/maps/nav/classification/642361
@@ -513,7 +492,6 @@
       type: manifest
       url: https://www.e-manuscripta.ch/i3f/v20/798659/manifest
 
-
 - title: World Digital Library
   id: wdl
   url: https://www.wdl.org/en/search/?item_type=map
@@ -521,10 +499,9 @@
     value:
     dateRetrieved:
   examples:
-   - title: Maps of Ezo, Sakhalin, and Kuril Islands
-     type: manifest
-     url: https://www.wdl.org/en/item/3/iiif/manifest.json
-
+    - title: Maps of Ezo, Sakhalin, and Kuril Islands
+      type: manifest
+      url: https://www.wdl.org/en/item/3/iiif/manifest.json
 
 - title: University of Texas Libraries
   id: university-of-texas-libraries
@@ -534,10 +511,9 @@
     value:
     dateRetrieved:
   examples:
-   - title: "Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]"
-     type: manifest
-     url: https://curio.lib.utexas.edu/manifests/utldams_utlmaps_177de5e8-21f1-444a-829a-386be9d57bd8.json
-
+    - title: 'Sanborn Fire Insurance Maps [Waelder, Texas, 1922, Sheet 5]'
+      type: manifest
+      url: https://curio.lib.utexas.edu/manifests/utldams_utlmaps_177de5e8-21f1-444a-829a-386be9d57bd8.json
 
 - title: Orka, Universität Kassel
   id: uni-kassel
@@ -546,10 +522,9 @@
     value:
     dateRetrieved:
   examples:
-   - title: Plan der Stadt Cassel und Umgebung 1925
-     type: manifest
-     url: https://orka.bibliothek.uni-kassel.de/viewer/rest/iiif/manifests/1535113582549/manifest/
-
+    - title: Plan der Stadt Cassel und Umgebung 1925
+      type: manifest
+      url: https://orka.bibliothek.uni-kassel.de/viewer/rest/iiif/manifests/1535113582549/manifest/
 
 - title: Illinois University Library
   id: illinois
@@ -558,26 +533,25 @@
     value:
     dateRetrieved:
   examples:
-   - title: "Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment."
-     type: manifest
-     url: https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest
+    - title: 'Course of the River Mississippi, from the Balise to Fort Chartres ; taken on an expedition to the Illinois, in the latter end of the year 1765 by Lieut. Ross of the 34th Regiment.'
+      type: manifest
+      url: https://digital.library.illinois.edu/items/8b2e3ed0-d675-0137-6f52-02d0d7bfd6e4-5/manifest
 
-   - title: The Mississippi
-     type: manifest
-     url: https://digital.library.illinois.edu/items/11bcdd70-d1ed-0137-6f52-02d0d7bfd6e4-c/manifest
+    - title: The Mississippi
+      type: manifest
+      url: https://digital.library.illinois.edu/items/11bcdd70-d1ed-0137-6f52-02d0d7bfd6e4-c/manifest
 
-   - title: "Topographical map of the Tri Cities Davenport Ia, Rock Island and Moline IlL. showing the Rock Island Arsenal, Rock Island Rapids and the western terminus of the Illinois and Mississippi Canal compiled and drawn from actual surveys, government, state, county and city records by M. Huebinger, S. Wangersheim, lith., Chicago."
-     type: manifest
-     url: https://digital.library.illinois.edu/items/8b29c4b0-d675-0137-6f52-02d0d7bfd6e4-d/manifest
+    - title: 'Topographical map of the Tri Cities Davenport Ia, Rock Island and Moline IlL. showing the Rock Island Arsenal, Rock Island Rapids and the western terminus of the Illinois and Mississippi Canal compiled and drawn from actual surveys, government, state, county and city records by M. Huebinger, S. Wangersheim, lith., Chicago.'
+      type: manifest
+      url: https://digital.library.illinois.edu/items/8b29c4b0-d675-0137-6f52-02d0d7bfd6e4-d/manifest
 
-   - title: "Upper Mississippi River Hastings, Minnesota to Grafton, Illinois survey 1929-1930, surveyed and drawn by W.N. Brown, Inc., Washington, D.C. under contract with the U.S. Engineer Office, Rock Island, Ill., Major C.L. Hall, District Engineer."
-     type: manifest
-     url: https://digital.library.illinois.edu/items/8b097c70-d675-0137-6f52-02d0d7bfd6e4-7/manifest
+    - title: 'Upper Mississippi River Hastings, Minnesota to Grafton, Illinois survey 1929-1930, surveyed and drawn by W.N. Brown, Inc., Washington, D.C. under contract with the U.S. Engineer Office, Rock Island, Ill., Major C.L. Hall, District Engineer.'
+      type: manifest
+      url: https://digital.library.illinois.edu/items/8b097c70-d675-0137-6f52-02d0d7bfd6e4-7/manifest
 
-   - title: Port facilities on Mississippi River
-     type: manifest
-     url: https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest
-
+    - title: Port facilities on Mississippi River
+      type: manifest
+      url: https://digital.library.illinois.edu/items/c89bb510-66e4-0138-727b-02d0d7bfd6e4-1/manifest
 
 - title: University of Edinburgh
   id: university-of-edinburgh
@@ -586,10 +560,9 @@
     value:
     dateRetrieved:
   examples:
-    - title: "[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]"
+    - title: '[Geographiae Blavianae] [Also known as: Atlas major] [013 of 153]'
       type: manifest
       url: https://images.is.ed.ac.uk/luna/servlet/iiif/m/UoEcha~1~1~296741~101629/manifest
-
 
 - title: Yale University Library
   id: yale
@@ -598,7 +571,7 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862"
+    - title: 'Map of the United States of America, showing the boundaries of the Union and Confederate geographical divisions and departments, Dec 31, 1862'
       type: manifest
       url: https://collections.library.yale.edu/manifests/2005511
 
@@ -606,14 +579,13 @@
       type: manifest
       url: https://collections.library.yale.edu/manifests/15237953
 
-    - title: "Map of Canals and Navigable Rivers in Belgium and The North of France."
+    - title: 'Map of Canals and Navigable Rivers in Belgium and The North of France.'
       type: manifest
       url: https://collections.library.yale.edu/manifests/15826830
 
-    - title: "Antwerp / engraved & printed by B.R. Davies ; drawn by W.B. Clarke."
+    - title: 'Antwerp / engraved & printed by B.R. Davies ; drawn by W.B. Clarke.'
       type: manifest
       url: https://collections.library.yale.edu/manifests/15352326
-
 
 - title: Zentral- und Landesbibliothek Berlin
   id: zlb
@@ -778,7 +750,6 @@
       type: manifest
       url: https://digital.zlb.de/viewer/api/v1/records/15453001/manifest/
 
-
 - title: Utrecht University Library Special Collections
   id: utrecht-university-library
   url: https://www.uu.nl/en/utrecht-university-library-special-collections/collections/maps-and-atlases
@@ -794,7 +765,7 @@
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/60/82/67/60826765847502039061478934746532282060.jp2/info.json
 
-    - title: "Chaerte vande Wieringer waert : de welcke inden jaere xvi c acht begost is bedyckt te worden ... dat de landen daer inne bedyckt ter nombre van 1895 morgens van 720 roeden de morgen Geestmeerambachts landtmaete of 600 roen binnenbanse ofte Sypse dyckmaete : by alle Contribuanten en gewillighe Bedyckers op den xij.de Julii Ao. xvj c xi by blinde lotinge gekavelt ende gedeelt zyn"
+    - title: 'Chaerte vande Wieringer waert : de welcke inden jaere xvi c acht begost is bedyckt te worden ... dat de landen daer inne bedyckt ter nombre van 1895 morgens van 720 roeden de morgen Geestmeerambachts landtmaete of 600 roen binnenbanse ofte Sypse dyckmaete : by alle Contribuanten en gewillighe Bedyckers op den xij.de Julii Ao. xvj c xi by blinde lotinge gekavelt ende gedeelt zyn'
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/40/62/80/40628087387683287288049825798881270832.jp2/info.json
 
@@ -802,10 +773,9 @@
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/87/40/118740207246035919625727383986846718971.jp2/info.json
 
-    - title: "Het eiland Ameland, voormaals eene heerlijkheid, later de 31e grietenij der provincie Friesland : thans kadastrale gemeenten 1. Ballum 2. Nes, behoorende tot het IIIe kanton (Holwerd) Ie arrondissement (Leeuwarden), opgemaakt in 1854 ..."
+    - title: 'Het eiland Ameland, voormaals eene heerlijkheid, later de 31e grietenij der provincie Friesland : thans kadastrale gemeenten 1. Ballum 2. Nes, behoorende tot het IIIe kanton (Holwerd) Ie arrondissement (Leeuwarden), opgemaakt in 1854 ...'
       type: image
       url: https://objects.library.uu.nl/fcgi-bin/iipsrv.fcgi?IIIF=/manifestation/viewer/11/04/00/110400342046991889344064150380191603423.jp2/info.json
-
 
 - title: Center for Sacramento History
   id: csh
@@ -830,7 +800,6 @@
       type: manifest
       url: https://iiif.archivelab.org/iiif/map1984124004/manifest.json
 
-
 - title: National Library of Israel
   id: national-library-of-israel
   url: https://www.nli.org.il/he/discover/maps
@@ -841,7 +810,6 @@
     - title: Nähere Umgebung von Jerusalem [cartographic material]
       type: image
       url: https://iiif.nli.org.il/IIIFv21/FL25567831/info.json
-
 
 - title: University of Toronto Libraries
   id: utoronto
@@ -870,7 +838,6 @@
       type: manifest
       url: https://iiif.library.utoronto.ca/presentation/v2/mdl:2080/manifest
 
-
 - title: The John Carter Brown Library
   id: jcb
   url: https://jcb.lunaimaging.com/luna/servlet/JCBMAPS~1~1
@@ -881,7 +848,6 @@
     - title: The Island of St. Vincent
       type: manifest
       url: https://jcb.lunaimaging.com/luna/servlet/iiif/m/JCBMAPS~1~1~2104~101547/manifest
-
 
 - title: Berkeley Library
   id: berkeley
@@ -905,7 +871,6 @@
       type: manifest
       url: https://iiif.library.ubc.ca/presentation/cdm.chungtext.1-0226125/manifest
 
-
 - title: Staatsbibliothek zu Berlin
   id: stabi
   url: https://digital-beta.staatsbibliothek-berlin.de/suche?category%5B0%5D=Karten&queryString=%2A&fulltext=
@@ -924,7 +889,7 @@
     - title: 歴代分埜之圖古今人物事跡
       type: manifest
       url: https://content.staatsbibliothek-berlin.de/dc/3343670510/manifest
-    - title: "Plan der Stadt Neu-Ruppin : nach welchen Seine Königliche Majestaet von Preussen dieselbe nach dem Brande vom 26ten August 1787 gegenwärtig erweitern und gantz Massief erbauen lassen ; [gewidmet] Friderich Wilhelm II. König von Preussen"
+    - title: 'Plan der Stadt Neu-Ruppin : nach welchen Seine Königliche Majestaet von Preussen dieselbe nach dem Brande vom 26ten August 1787 gegenwärtig erweitern und gantz Massief erbauen lassen ; [gewidmet] Friderich Wilhelm II. König von Preussen'
       type: manifest
       url: https://content.staatsbibliothek-berlin.de/dc/644435321/manifest
 
@@ -940,10 +905,10 @@
     value:
     dateRetrieved:
   examples:
-    - title: "Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)"
+    - title: 'Kadastrale kaart 1811-1832: minuutplan Ootmarsum, Overijssel, sectie A, blad 02 (MIN04042A02)'
       url: https://images.memorix.nl/rce/iiif/f3f4389a-bb25-21c1-8890-2f0541400424/info.json
       type: image
-    - title: "Kaart met (bouwkundige) waardering van Zutphen - schaal 1:1000"
+    - title: 'Kaart met (bouwkundige) waardering van Zutphen - schaal 1:1000'
       url: https://images.memorix.nl/rce/iiif/dfb28bb1-c77e-1dd8-fb8b-22d4eeff3399/info.json
       type: image
 
@@ -1004,7 +969,6 @@
       url: https://www.goudatijdmachine.nl/data/iiif/2/17775/manifest
       type: manifest
 
-
 - title: New York Public Library
   id: nypl
   url: https://digitalcollections.nypl.org/search/index?filters%5Btype%5D=cartographic&keywords=
@@ -1012,10 +976,9 @@
     value: 28_246
     dateRetrieved: 2022-8-9
   examples:
-    - title: "Plate 29: Coney Island. Bounded by Canal Avenue (Coney Island Creek), Shell Road, Dewey Place, W. 6th Street, Neptune Avenue, W. 3rd Street, Riverside Avenue, Ocean Parkway, Concourse Drive, (Dreamland & Steeplechase Park) Surf Avenue and W. 23rd Street"
+    - title: 'Plate 29: Coney Island. Bounded by Canal Avenue (Coney Island Creek), Shell Road, Dewey Place, W. 6th Street, Neptune Avenue, W. 3rd Street, Riverside Avenue, Ocean Parkway, Concourse Drive, (Dreamland & Steeplechase Park) Surf Avenue and W. 23rd Street'
       type: image
       url: https://iiif.nypl.org/iiif/2/58009096/info.json
-
 
 - title: Nationaal Archief
   id: na
@@ -1024,12 +987,11 @@
     value: 50_275
     dateRetrieved: 2022-8-9
   examples:
-    - title: "NL-HaNA_2.13.167_276_01"
+    - title: 'NL-HaNA_2.13.167_276_01'
       type: image
       url: https://service.archief.nl/iipsrv?IIIF=/1f/3f/f5/40/f4/9c/47/9a/b1/d5/9b/f1/92/ed/3d/3c/6327956b-18df-460e-be5b-07532809ca21.jp2/info.json
 
-
-- title: Allard Pierson
+- title: Universiteit van Amsterdam - Allard Pierson
   id: uva
   url: https://www.uvaerfgoed.nl/beeldbank/nl/xsearch?metadata=kaarten
   examples:
@@ -1037,49 +999,45 @@
       type: image
       url: https://images.uba.uva.nl/iiif/2/erfgoed!kaarten!1!8!3!990008493810205131!105-19-01.jpg/info.json
 
-
 - title: Kartenspeicher
   id:
   url: https://kartenspeicher.gbv.de/
   examples:
-    - title: "[Insel Rügen und Darß]"
+    - title: '[Insel Rügen und Darß]'
       type: image
-      url: "https://kartenspeicher.gbv.de/mir/api/iiif/image/v2/gwlb_derivate_00004393%2F00000001.ptif.jpg/info.json"
-
+      url: 'https://kartenspeicher.gbv.de/mir/api/iiif/image/v2/gwlb_derivate_00004393%2F00000001.ptif.jpg/info.json'
 
 - title: SFO Museum
   id: sfo
   url: https://collection.sfomuseum.org/search/?q=map&with_images=1
   examples:
-    - title: "postcard: American Airlines"
+    - title: 'postcard: American Airlines'
       type: manifest
       url: https://collection.sfomuseum.org/objects/1511922165/manifest/
 
-    - title: "map and report: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site"
+    - title: 'map and report: San Francisco Department of Public Works, Bureau of Engineering, proposed airport site'
       type: manifest
       url: https://collection.sfomuseum.org/objects/1762828235/manifest/
 
-    - title: "traveler information guide: San Francisco International Airport (SFO), transit and parking"
+    - title: 'traveler information guide: San Francisco International Airport (SFO), transit and parking'
       type: manifest
       url: https://collection.sfomuseum.org/objects/1762829809/manifest/
 
-    - title: "timetable: Transportation Displays, Inc., San Francisco International Airport (SFO)"
+    - title: 'timetable: Transportation Displays, Inc., San Francisco International Airport (SFO)'
       type: manifest
       url: https://collection.sfomuseum.org/objects/1762828567/manifest/
 
-    - title: "menu: Pan American World Airways, President (first) class"
+    - title: 'menu: Pan American World Airways, President (first) class'
       type: manifest
       url: https://collection.sfomuseum.org/objects/1511922165/manifest/
-
 
 - title: Smithsonian Institution
   id: si
   url: https://www.si.edu/search/collection-images?edan_fq[0]=object_type%3A%22Maps%22
   examples:
-    - title: "Map of Strasbourg and its Fortifications, Illustration for Every Saturday (October 15, 1870, p. 660)"
+    - title: 'Map of Strasbourg and its Fortifications, Illustration for Every Saturday (October 15, 1870, p. 660)'
       type: manifest
       url: https://ids.si.edu/ids/manifest/CHSDM-EE8BE83274C72-000001
-
 
 - title: Nasjonalbiblioteket
   url: https://www.nb.no/search?mediatype=kart
@@ -1088,30 +1046,27 @@
       type: manifest
       url: https://api.nb.no/catalog/v1/iiif/5a20e7e0b2a354d400fde9ceb749d2ed/manifest
 
-    - title: "Cammermeyers Reisekart over det nordlige Norge : i 4 Blade"
+    - title: 'Cammermeyers Reisekart over det nordlige Norge : i 4 Blade'
       type: manifest
       url: https://api.nb.no/catalog/v1/iiif/72682f25ae8409a4597bc97f64d3ee2f/manifest
 
-    - title: "Aschehougs kart over Kristiania : utarbeidet i maalestok 1:13 000 : med fortegnelse over gater o.s.v"
+    - title: 'Aschehougs kart over Kristiania : utarbeidet i maalestok 1:13 000 : med fortegnelse over gater o.s.v'
       type: manifest
       url: https://api.nb.no/catalog/v1/iiif/2186ca144d5c37bab2d9b176aa3c8792/manifest
-
 
 - title: Qatar Digital Library
   url: https://www.qdl.qa/en/search/site/?f%255B0%255D=document_source%3Aarchive_source&f%5B0%5D=source_content_type%3AMap
   examples:
-    - title: "Iraq-Persia Map No. 1’ [‎32r] (1/2)"
+    - title: 'Iraq-Persia Map No. 1’ [‎32r] (1/2)'
       type: manifest
       url: https://www.qdl.qa/en/iiif/81055/vdc_100000000884.0x0001ab/manifest
-
 
 - title: British Library
   url:
   examples:
-    - title: "CARTE DU PARAGUAY DU CHILI DU DETROIT DE MAGELLAN"
+    - title: 'CARTE DU PARAGUAY DU CHILI DU DETROIT DE MAGELLAN'
       type: manifest
       url: https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100052171660.0x000001/manifest.json
-
 
 - title: Bayerische Staatsbibliothek
   url: https://www.digitale-sammlungen.de/en/search?query=&sortField=scanDate&filter=type_content%3A%22map%22&filter=features%3A%22iiif%22
@@ -1124,10 +1079,16 @@
       type: manifest
       url: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00105926/manifest
 
-
 - title: Northwestern University Libraries
   url: https://dc.library.northwestern.edu/collections/267bed1b-f808-4c51-acb1-0288378819d2
   examples:
-    - title: "Use of property, 1922"
+    - title: 'Use of property, 1922'
       type: manifest
       url: https://api.dc.library.northwestern.edu/api/v2/works/faf0c573-76e7-4002-933f-2bdff0d656e4?as=iiif
+
+- title: Biblioteca Nacional de Portugal
+  url: https://bndigital.bnportugal.gov.pt/records?page=1&refine%5BDocumentType%5D%5B%5D=Cartografia&sort=-PURL_ID,_score
+  examples:
+    - title: Mapa de estradas de Angola
+      type: image
+      url: https://permalinkbnd.bnportugal.gov.pt/lgimage?file=&IIIF=/3c/42/16/d0/3c4216d0-a6c1-4e5d-b168-77c6cef2f5ea/iiif/cc-746-r_0000_000001.tif/info.json
