@@ -1092,3 +1092,14 @@
     - title: Mapa de estradas de Angola
       type: image
       url: https://permalinkbnd.bnportugal.gov.pt/lgimage?file=&IIIF=/3c/42/16/d0/3c4216d0-a6c1-4e5d-b168-77c6cef2f5ea/iiif/cc-746-r_0000_000001.tif/info.json
+
+- title: Institut Cartogràfic i Geològic de Catalunya
+  url: https://cartotecadigital.icgc.cat/
+  examples:
+    - title: '[Rotterdam - 1]'
+      type: manifest
+      url: https://cartotecadigital.icgc.cat/iiif/info/europa/2988/manifest.json
+
+    - title: '[Barcelona - Ciutat Vella]'
+      type: manifest
+      url: https://cartotecadigital.icgc.cat/iiif/info/bcnprov/1453/manifest.json
