@@ -1103,3 +1103,25 @@
     - title: '[Barcelona - Ciutat Vella]'
       type: manifest
       url: https://cartotecadigital.icgc.cat/iiif/info/bcnprov/1453/manifest.json
+
+- title: University of Michigan Library
+  url: https://quod.lib.umich.edu/c/clark1ic?view=reslist;q1=clark1ic
+  examples:
+    - title: London
+      type: manifest
+      url: https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:008846648:39015091186828
+
+    - title: 'Bunken Edo ōezu : zen / [Ochikochi Dōin] ; On Seiken jo.'
+      type: manifest
+      url: https://quod.lib.umich.edu/cgi/i/image/api/manifest/clark1ic:003108986:39015091920226_02
+
+- title: Los Angeles Public Library
+  url: https://tessa2.lapl.org/digital/collection/maps/search
+  examples:
+    - title: Bridwell's Map of the City of Los Angeles
+      type: image
+      url: https://tessa2.lapl.org/iiif/2/maps:100/info.json
+
+    - title: California Automobile Road Map, 1914
+      type: image
+      url: https://tessa2.lapl.org/iiif/2/maps:60/info.json
