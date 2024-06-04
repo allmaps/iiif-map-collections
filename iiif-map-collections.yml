@@ -1125,3 +1125,17 @@
     - title: California Automobile Road Map, 1914
       type: image
       url: https://tessa2.lapl.org/iiif/2/maps:60/info.json
+
+- title: Universiteitsbibliotheek Gent
+  url: https://lib.ugent.be/en/catalog?access=zoomable&type=map
+  examples:
+    - title: Gandavum. Gendt / Jacob Van Deventer
+      type: manifest
+      url: https://adore.ugent.be/IIIF/manifests/archive.ugent.be:D7DD2A8A-B11E-11EC-85FE-0CB701E43F28
+
+- title: Musea Brugge
+  url: https://www.museabrugge.be/collecties/doorzoek?subject=cartografie
+  examples:
+    - title: Kaart van het Brugse Vrije
+      type: manifest
+      url: https://dam.museabrugge.be/iiif/3/1619/manifest.json
