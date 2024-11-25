@@ -1139,3 +1139,66 @@
     - title: Kaart van het Brugse Vrije
       type: manifest
       url: https://dam.museabrugge.be/iiif/3/1619/manifest.json
+
+- title: Departmental archives of Ille-et-Vilaine
+  url: https://images-archives.ille-et-vilaine.fr/archives?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
+  examples:
+    - title: 4J Guingamp /7
+      type: manifest
+      url: https://images-archives.ille-et-vilaine.fr/iiif/103954/manifest
+
+- title: Municipal archives of Bazas
+  url: https://archives-numeriques.ville-bazas.fr/records?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
+  examples:
+    - title: Cadastre vue générale de Bazas ville et campagne
+      type: manifest
+      url: https://archives-numeriques.ville-bazas.fr/iiif/9038/manifest
+
+- title: Municipal archives of Montbrison
+  url: https://www.archives.ville-montbrison.fr/collection?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
+  examples:
+    - title: Plan général de la ville de Montbrison et ses faubourgs
+      type: manifest
+      url: https://www.archives.ville-montbrison.fr/iiif/3607/manifest
+
+- title: Municipal archives of Aurillac
+  url: https://bibliotheque-numerique.aurillac.fr/notices?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
+  examples:
+    - title: canaux usiniers prolongement collecteur 1933
+      type: manifest
+      url: https://bibliotheque-numerique.aurillac.fr/iiif/10941/manifest
+
+- title: Municipal archives of Saint-Omer
+  url: https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/notices/?navigation=&perpage=&page=1&sort=_score&search=&search_submit=1&fulltext=1#search
+  examples:
+    - title: "Plan et Situation de la Ville de Saint Omer avec Rues, Fregarts, Rivières, et la grandeur des maisons de Religion tant d’hommes que de femmes, comme aussy des Paroisses et Colleges, contenus en Icelle, dit plan Titelouze"
+      type: manifest
+      url: https://bibliotheque-numerique.bibliotheque-agglo-stomer.fr/iiif/22157/manifest
+
+- title: Municipal archives of Carmaux
+  url: https://archives-numeriques.carmaux.fr/collection?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
+  examples:
+    - title: Plan cadastral parcellaire de 1811. Tableau d'assemblage
+      type: manifest
+      url: https://archives-numeriques.carmaux.fr/iiif/252/manifest
+
+- title: Municipal archives of Dieppe
+  url: https://patrimoine.dieppe.fr/collection?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&child=1&sort=_score#page
+  examples:
+    - title: Plan de Dieppe avec les fortifications et les travaux projetés
+      type: manifest
+      url: https://patrimoine.dieppe.fr/iiif/14995/manifest
+
+- title: Municipal archives of Abbeville
+  url: https://patrimoine.abbeville.fr/collection/?navigation=&perpage=&page=1&sort=_score&search=&fulltext=1&bookmarks=1&child=1#search
+  examples:
+    - title: "Cartes et Plans 1914-1918 : General Plans of N°5 Convalescent camp dépôt. Cayeux. France."
+      type: manifest
+      url: https://patrimoine.abbeville.fr/iiif/771/manifest
+
+- title: Digital heritage library of Alençon
+  url: https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/records/?navigation=&perpage=&page=1&sort=_score&search=&search_submit=1&fulltext=1#search
+  examples:
+    - title: Indo-Chine
+      type: manifest
+      url: https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/iiif/1924/manifest
