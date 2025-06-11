@@ -1,3 +1,8 @@
+- title: Europeana
+  url: https://www.europeana.eu/nl/search?qf=collection%3Amap&query=&view=grid
+  # This link points to all IIIF resources
+  # No examples since always points to member collections
+
 - title: National Library of Scotland
   id: nls
   url: https://maps.nls.uk/
@@ -1138,7 +1143,7 @@
   examples:
     - title: Kaart van het Brugse Vrije
       type: manifest
-      url: https://dam.museabrugge.be/iiif/3/1619/manifest.json
+      url: https://dam.museabrugge.be/iiif/3/18761/manifest.json
 
 - title: Departmental archives of Ille-et-Vilaine
   url: https://images-archives.ille-et-vilaine.fr/archives?navigation=&perpage=&page=1&search=&fulltext=1&bookmarks=1&sort=_score#page
@@ -1202,3 +1207,10 @@
     - title: Indo-Chine
       type: manifest
       url: https://bibliotheque-numerique-patrimoniale.cu-alencon.fr/iiif/1924/manifest
+
+- title: Kartenspeicher - GBV Common Library Network of the German States Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Thüringen and the Foundation of Prussian Cultural Heritage.
+  url: https://kartenspeicher.gbv.de/
+  examples:
+    - title: Berlin
+      type: manifest
+      url: https://kartenspeicher.gbv.de/mir/api/iiif/presentation/v2/Mets/odb_derivate_00002891/manifest
