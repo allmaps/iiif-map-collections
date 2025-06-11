@@ -1214,3 +1214,10 @@
     - title: Berlin
       type: manifest
       url: https://kartenspeicher.gbv.de/mir/api/iiif/presentation/v2/Mets/odb_derivate_00002891/manifest
+
+- title: Antwerp DAMS
+  url: https://dams.antwerpen.be/
+  examples:
+    - title: Vogelvluchtperspectief op de stad Antwerpen en de haven
+      type: manifest
+      url: https://dams.antwerpen.be/iiif/dXdRImylUJH94svTdji7lZik/manifest
